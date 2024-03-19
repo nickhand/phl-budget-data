@@ -130,7 +130,7 @@ class CityTaxCollections(CityCollectionsReport):  # type: ignore
                 "soda_current",
                 "soda_prior",
                 "soda_total",
-                "construction_impact",
+                "construction_impact_total",
                 "other_taxes_total",
                 "all_taxes_total",
             ]
@@ -174,6 +174,7 @@ class CityTaxCollections(CityCollectionsReport):  # type: ignore
             "real_estate_transfer",
             "outdoor_ads",
             "soda",
+            "construction_impact",
             "other_taxes",
         ]
         t = data.query("kind == 'total' and name in @taxes")
