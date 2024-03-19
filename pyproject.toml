@@ -20,7 +20,7 @@ openpyxl = "^3.0.7"
 rich-click = "^0.3.0"
 pydantic = "^1.9.0"
 loguru = "^0.5.3"
-billy-penn = "0.1.8"
+billy-penn = "0.1.9"
 selenium = ">=4.10"
 
 [tool.poetry.group.dev.dependencies]

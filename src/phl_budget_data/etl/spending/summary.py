@@ -10,7 +10,7 @@ from loguru import logger
 from pydantic import BaseModel, Field
 
 from .. import ETL_DATA_DIR
-from ..core import ETLPipeline, validate_data_schema
+from ..core import ETLPipelineAWS, validate_data_schema
 from ..utils.depts import add_department_info
 from ..utils.pdf import extract_words, words_to_table
 from ..utils.transformations import convert_to_floats
@@ -23,6 +23,7 @@ MAJOR_CLASS_NAMES = {
     "Materials, Supplies & Equip.": "class_300_400",
     "Contrib., Indemnities & Taxes": "class_500",
     "Contrib. indemnities & Taxes": "class_500",
+    "Contrib. Indemnities & Taxes": "class_500",
     "Payments to Other Funds": "class_800",
     "Advances and Other Misc. Payments": "class_900",
     "Advances & Miscellaneous Payments": "class_900",
@@ -135,7 +136,7 @@ def _fix_recession_reserve_data(df: pd.DataFrame) -> pd.DataFrame:
 
 
 @dataclass
-class BudgetSummaryBase(ETLPipeline):  # type: ignore
+class BudgetSummaryBase(ETLPipelineAWS):  # type: ignore
     """
     General Fund Budget Summary.
 
@@ -170,6 +171,10 @@ class BudgetSummaryBase(ETLPipeline):  # type: ignore
         elif self.flavor == "budget":
             self.value_column = f"FY{self.fiscal_year} Budgeted"
 
+        # Number of pages
+        with pdfplumber.open(self.path) as pdf:
+            self.num_pages = len(pdf.pages)
+
     @classmethod
     def get_data_directory(cls, kind: Literal["raw", "processed", "interim"]) -> Path:
         """Return the path to the data."""
@@ -194,76 +199,70 @@ class BudgetSummaryBase(ETLPipeline):  # type: ignore
                 columns={"Category": "major_class", "Department": "dept_name"}
             )
 
-        # Parse newer PDFs directly
-        with pdfplumber.open(self.path) as pdf:
+        # Past with textract
+        data = []
+        for i in range(1, self.num_pages + 1):
+            data.append(self._get_textract_output(i))
 
-            # Extract the words and convert to a table
-            data = pd.concat(
-                [
-                    words_to_table(extract_words(pg, y_tolerance=1), min_col_sep=30)
-                    .iloc[6:]  # Trim header
-                    .dropna(axis=1, how="all")
-                    for pg in pdf.pages
-                ]
-            ).reset_index(drop=True)
+        data = pd.concat(data).reset_index(drop=True).fillna("")
 
-            # The total line
-            total = data.iloc[-1]
+        # The total line
+        total = data.iloc[-1]
 
-            # Fix Departments that span two lines
-            to_drop = []
-            headers = data.index[(data[data.columns[1:]] == "").all(axis=1)]
-            for i, value in enumerate(headers):
-                if i != len(headers) - 1:
-                    next_value = headers[i + 1]
-                    if next_value == value + 1:
-                        to_drop.append(next_value)
-                        data.loc[value, 0] += " " + data.loc[next_value, 0]
+        # Fix Departments that span two lines
+        to_drop = []
+        headers = data.index[(data[data.columns[1:]] == "").all(axis=1)]
+        for i, value in enumerate(headers):
+            if i != len(headers) - 1:
+                next_value = headers[i + 1]
+                if next_value == value + 1:
+                    to_drop.append(next_value)
+                    data.loc[value, "0"] += " " + data.loc[next_value, "0"]
 
-            # Remove extra rows and reset index
-            data = data.drop(to_drop).reset_index(drop=True)
+        # Remove extra rows and reset index
+        data = data.drop(to_drop).reset_index(drop=True)
 
-            # Start/Stop
-            starts = data.index[(data[data.columns[1:]] == "").all(axis=1)]
-            stops = data.index[data[0].str.strip() == "Total"]
+        # Start/Stop
+        starts = data.index[(data[data.columns[1:]] == "").all(axis=1)]
+        stops = data.index[data["0"].str.strip() == "Total"]
 
-            dataframes = []
-            for (start, stop) in zip(starts, stops):
+        dataframes = []
+        for start, stop in zip(starts, stops):
 
-                df = data.loc[start:stop].copy()
-                dept_name = df[0].iloc[0]
+            df = data.loc[start:stop].copy()
+            dept_name = df["0"].iloc[0]
 
-                df = (
-                    df[[0, 1, 5]]
-                    .iloc[1:]
-                    .rename(
-                        columns={
-                            0: "major_class",
-                            1: f"FY{self.fiscal_year-2} Actual",
-                            5: f"FY{self.fiscal_year} Budgeted",
-                        }
-                    )
+            df = (
+                df[["0", "1", "5"]]
+                .iloc[1:]
+                .rename(
+                    columns={
+                        "0": "major_class",
+                        "1": f"FY{self.fiscal_year-2} Actual",
+                        "5": f"FY{self.fiscal_year} Budgeted",
+                    }
                 )
-                df["dept_name"] = dept_name
-                dataframes.append(df)
-
-            # Combine into a single dataframe
-            out = pd.concat(dataframes, axis=0).reset_index(drop=True)
-            out["dept_name"] = (
-                out["dept_name"].str.replace("\(\d\)", "", regex=True).str.strip()
             )
+            df["dept_name"] = dept_name
+            dataframes.append(df)
 
-            return pd.concat(
-                [
-                    out,
-                    pd.DataFrame(
-                        [["Total", total[1], total[5], "General Fund"]],
-                        columns=out.columns,
-                    ),
-                ],
-                axis=0,
-                ignore_index=True,
-            )
+        # Combine into a single dataframe
+        out = pd.concat(dataframes, axis=0).reset_index(drop=True)
+        out["dept_name"] = (
+            out["dept_name"].str.replace("\(\d\)", "", regex=True).str.strip()
+        )
+
+        return pd.concat(
+            [
+                out,
+                pd.DataFrame(
+                    [["Total", total[1], total[5], "General Fund"]],
+                    columns=out.columns,
+                ),
+            ],
+            axis=0,
+            ignore_index=True,
+        )
 
     @validate_data_schema(data_schema=BudgetSummarySchema)
     def transform(self, data: pd.DataFrame) -> pd.DataFrame:
