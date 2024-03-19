@@ -197,7 +197,7 @@ class ETLPipelineAWS(ETLPipeline):  # type: ignore
             # Extract with textract
             parsing_results = parse_pdf_with_textract(
                 self.path,
-                bucket_name="phl-budget-data",
+                bucket_name="phl-budget-data-textract",
                 concat_axis=concat_axis,
                 remove_headers=remove_headers,
             )

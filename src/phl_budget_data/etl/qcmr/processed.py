@@ -226,6 +226,7 @@ def load_cash_reports(kind: CASH_DATA_TYPE) -> pd.DataFrame:
             "grants_revenue": "Grants Fund",
             "total_fund_equity": "Consolidated Cash",
             "vehicle_rental_tax": "Vehicle Rental Tax",
+            "transportation_fund": "Transportation Fund",
         },
         "net-cash-flow": {
             "tran": "TRAN",

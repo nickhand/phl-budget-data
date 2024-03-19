@@ -25,6 +25,7 @@ CATEGORIES = [
     "housing_trust_fund",
     "hospital_assessment_fund",
     "budget_stabilization_fund",
+    "transportation_fund",
 ]
 
 
@@ -101,6 +102,7 @@ class CashReportFundBalances(CashFlowForecast):  # type: ignore
                 "hospital_assessment_fund",
                 "housing_trust_fund",
                 "budget_stabilization_fund",
+                "transportation_fund",
                 "other_funds",
             ],
             "total_capital_funds": [
