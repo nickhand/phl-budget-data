@@ -1,340 +1,676 @@
 category,fiscal_month,amount,fiscal_year,quarter,month
-General Fund,1,1809.6,2025,2,7
-Grants Fund,1,905.4,2025,2,7
-Community Development,1,-29.5,2025,2,7
-Vehicle Rental Tax,1,8.5,2025,2,7
-Hospital Assessment Fund,1,21.3,2025,2,7
-Housing Trust Fund,1,86.8,2025,2,7
-Transportation Fund,1,6.6,2025,2,7
-Budget Stabilization Fund,1,65.1,2025,2,7
-Other Funds,1,17.5,2025,2,7
-Total Operating Funds,1,2891.4,2025,2,7
-Capital Improvement,1,423.9,2025,2,7
-Industrial and Commercial Development,1,10.6,2025,2,7
-Total Capital Funds,1,434.5,2025,2,7
-Consolidated Cash,1,3325.8,2025,2,7
-General Fund,2,1777.9,2025,2,8
-Grants Fund,2,898.9,2025,2,8
-Community Development,2,-26.1,2025,2,8
-Vehicle Rental Tax,2,9.3,2025,2,8
-Hospital Assessment Fund,2,20.3,2025,2,8
-Housing Trust Fund,2,113.9,2025,2,8
-Transportation Fund,2,12.1,2025,2,8
-Budget Stabilization Fund,2,65.1,2025,2,8
-Other Funds,2,17.4,2025,2,8
-Total Operating Funds,2,2888.9,2025,2,8
-Capital Improvement,2,353.1,2025,2,8
-Industrial and Commercial Development,2,10.6,2025,2,8
-Total Capital Funds,2,363.7,2025,2,8
-Consolidated Cash,2,3252.6,2025,2,8
-General Fund,3,1777.4,2025,2,9
-Grants Fund,3,1015.9,2025,2,9
-Community Development,3,-11.0,2025,2,9
-Vehicle Rental Tax,3,3.1,2025,2,9
-Hospital Assessment Fund,3,45.2,2025,2,9
-Housing Trust Fund,3,114.5,2025,2,9
-Transportation Fund,3,16.5,2025,2,9
-Budget Stabilization Fund,3,107.4,2025,2,9
-Other Funds,3,17.2,2025,2,9
-Total Operating Funds,3,3086.2,2025,2,9
-Capital Improvement,3,342.4,2025,2,9
-Industrial and Commercial Development,3,10.7,2025,2,9
-Total Capital Funds,3,353.0,2025,2,9
-Consolidated Cash,3,3439.2,2025,2,9
-General Fund,4,1640.0,2025,2,10
-Grants Fund,4,1054.9,2025,2,10
-Community Development,4,-12.1,2025,2,10
-Vehicle Rental Tax,4,3.7,2025,2,10
-Hospital Assessment Fund,4,22.0,2025,2,10
-Housing Trust Fund,4,114.6,2025,2,10
-Transportation Fund,4,20.8,2025,2,10
-Budget Stabilization Fund,4,107.4,2025,2,10
-Other Funds,4,17.2,2025,2,10
-Total Operating Funds,4,2968.5,2025,2,10
-Capital Improvement,4,331.3,2025,2,10
-Industrial and Commercial Development,4,10.7,2025,2,10
-Total Capital Funds,4,342.0,2025,2,10
-Consolidated Cash,4,3310.5,2025,2,10
-General Fund,5,1626.8,2025,2,11
-Grants Fund,5,946.2,2025,2,11
-Community Development,5,-3.0,2025,2,11
-Vehicle Rental Tax,5,4.4,2025,2,11
-Hospital Assessment Fund,5,21.5,2025,2,11
-Housing Trust Fund,5,116.0,2025,2,11
-Transportation Fund,5,15.1,2025,2,11
-Budget Stabilization Fund,5,107.4,2025,2,11
-Other Funds,5,17.1,2025,2,11
-Total Operating Funds,5,2851.6,2025,2,11
-Capital Improvement,5,298.7,2025,2,11
-Industrial and Commercial Development,5,10.8,2025,2,11
-Total Capital Funds,5,309.4,2025,2,11
-Consolidated Cash,5,3161.0,2025,2,11
-General Fund,6,1536.6,2025,2,12
-Grants Fund,6,948.1,2025,2,12
-Community Development,6,-4.4,2025,2,12
-Vehicle Rental Tax,6,5.0,2025,2,12
-Hospital Assessment Fund,6,41.8,2025,2,12
-Housing Trust Fund,6,116.1,2025,2,12
-Transportation Fund,6,13.1,2025,2,12
-Budget Stabilization Fund,6,107.4,2025,2,12
-Other Funds,6,17.2,2025,2,12
-Total Operating Funds,6,2780.9,2025,2,12
-Capital Improvement,6,295.0,2025,2,12
-Industrial and Commercial Development,6,10.8,2025,2,12
-Total Capital Funds,6,305.9,2025,2,12
-Consolidated Cash,6,3086.7,2025,2,12
-General Fund,7,1948.4,2025,2,1
-Grants Fund,7,547.2,2025,2,1
-Community Development,7,-4.3,2025,2,1
-Vehicle Rental Tax,7,5.5,2025,2,1
-Hospital Assessment Fund,7,18.4,2025,2,1
-Housing Trust Fund,7,116.6,2025,2,1
-Transportation Fund,7,20.2,2025,2,1
-Budget Stabilization Fund,7,107.4,2025,2,1
-Other Funds,7,17.6,2025,2,1
-Total Operating Funds,7,2776.9,2025,2,1
-Capital Improvement,7,294.9,2025,2,1
-Industrial and Commercial Development,7,10.9,2025,2,1
-Total Capital Funds,7,305.8,2025,2,1
-Consolidated Cash,7,3082.7,2025,2,1
-General Fund,8,1880.3,2025,2,2
-Grants Fund,8,508.9,2025,2,2
-Community Development,8,-0.3,2025,2,2
-Vehicle Rental Tax,8,4.7,2025,2,2
-Hospital Assessment Fund,8,19.9,2025,2,2
-Housing Trust Fund,8,114.5,2025,2,2
-Transportation Fund,8,18.2,2025,2,2
-Budget Stabilization Fund,8,107.4,2025,2,2
-Other Funds,8,17.4,2025,2,2
-Total Operating Funds,8,2670.9,2025,2,2
-Capital Improvement,8,279.9,2025,2,2
-Industrial and Commercial Development,8,10.9,2025,2,2
-Total Capital Funds,8,290.8,2025,2,2
-Consolidated Cash,8,2961.7,2025,2,2
-General Fund,9,1518.2,2025,2,3
-Grants Fund,9,468.8,2025,2,3
-Community Development,9,-0.8,2025,2,3
-Vehicle Rental Tax,9,5.3,2025,2,3
-Hospital Assessment Fund,9,25.8,2025,2,3
-Housing Trust Fund,9,112.4,2025,2,3
-Transportation Fund,9,16.2,2025,2,3
-Budget Stabilization Fund,9,107.4,2025,2,3
-Other Funds,9,17.2,2025,2,3
-Total Operating Funds,9,2270.5,2025,2,3
-Capital Improvement,9,278.6,2025,2,3
-Industrial and Commercial Development,9,10.9,2025,2,3
-Total Capital Funds,9,289.5,2025,2,3
-Consolidated Cash,9,2560.0,2025,2,3
-General Fund,10,1931.5,2025,2,4
-Grants Fund,10,593.9,2025,2,4
-Community Development,10,3.3,2025,2,4
-Vehicle Rental Tax,10,5.9,2025,2,4
-Hospital Assessment Fund,10,21.7,2025,2,4
-Housing Trust Fund,10,110.3,2025,2,4
-Transportation Fund,10,14.2,2025,2,4
-Budget Stabilization Fund,10,107.4,2025,2,4
-Other Funds,10,17.0,2025,2,4
-Total Operating Funds,10,2805.1,2025,2,4
-Capital Improvement,10,263.6,2025,2,4
-Industrial and Commercial Development,10,11.0,2025,2,4
-Total Capital Funds,10,274.6,2025,2,4
-Consolidated Cash,10,3079.7,2025,2,4
-General Fund,11,1853.2,2025,2,5
-Grants Fund,11,540.5,2025,2,5
-Community Development,11,1.4,2025,2,5
-Vehicle Rental Tax,11,6.5,2025,2,5
-Hospital Assessment Fund,11,50.6,2025,2,5
-Housing Trust Fund,11,108.2,2025,2,5
-Transportation Fund,11,12.2,2025,2,5
-Budget Stabilization Fund,11,107.4,2025,2,5
-Other Funds,11,16.8,2025,2,5
-Total Operating Funds,11,2696.7,2025,2,5
-Capital Improvement,11,248.6,2025,2,5
-Industrial and Commercial Development,11,11.0,2025,2,5
-Total Capital Funds,11,259.6,2025,2,5
-Consolidated Cash,11,2956.3,2025,2,5
-General Fund,12,1616.6,2025,2,6
-Grants Fund,12,473.4,2025,2,6
-Community Development,12,0.0,2025,2,6
-Vehicle Rental Tax,12,7.1,2025,2,6
-Hospital Assessment Fund,12,24.7,2025,2,6
-Housing Trust Fund,12,106.1,2025,2,6
-Transportation Fund,12,6.2,2025,2,6
-Budget Stabilization Fund,12,107.4,2025,2,6
-Other Funds,12,16.6,2025,2,6
-Total Operating Funds,12,2358.0,2025,2,6
-Capital Improvement,12,328.6,2025,2,6
-Industrial and Commercial Development,12,11.0,2025,2,6
-Total Capital Funds,12,339.6,2025,2,6
-Consolidated Cash,12,2697.6,2025,2,6
-General Fund,1,1809.6,2025,1,7
-Grants Fund,1,905.4,2025,1,7
-Community Development,1,-29.5,2025,1,7
-Vehicle Rental Tax,1,8.5,2025,1,7
-Hospital Assessment Fund,1,21.3,2025,1,7
-Housing Trust Fund,1,86.8,2025,1,7
-Transportation Fund,1,6.6,2025,1,7
-Budget Stabilization Fund,1,65.1,2025,1,7
-Other Funds,1,14.7,2025,1,7
-Total Operating Funds,1,2888.5,2025,1,7
-Capital Improvement,1,423.9,2025,1,7
-Industrial and Commercial Development,1,10.6,2025,1,7
-Total Capital Funds,1,434.5,2025,1,7
-Consolidated Cash,1,3323.0,2025,1,7
-General Fund,2,1777.9,2025,1,8
-Grants Fund,2,898.9,2025,1,8
-Community Development,2,-26.1,2025,1,8
-Vehicle Rental Tax,2,9.3,2025,1,8
-Hospital Assessment Fund,2,20.3,2025,1,8
-Housing Trust Fund,2,113.9,2025,1,8
-Transportation Fund,2,12.1,2025,1,8
-Budget Stabilization Fund,2,65.1,2025,1,8
-Other Funds,2,14.5,2025,1,8
-Total Operating Funds,2,2886.1,2025,1,8
-Capital Improvement,2,353.1,2025,1,8
-Industrial and Commercial Development,2,10.6,2025,1,8
-Total Capital Funds,2,363.7,2025,1,8
-Consolidated Cash,2,3249.8,2025,1,8
-General Fund,3,1777.4,2025,1,9
-Grants Fund,3,1015.9,2025,1,9
-Community Development,3,-11.0,2025,1,9
-Vehicle Rental Tax,3,3.1,2025,1,9
-Hospital Assessment Fund,3,45.2,2025,1,9
-Housing Trust Fund,3,114.5,2025,1,9
-Transportation Fund,3,16.5,2025,1,9
-Budget Stabilization Fund,3,107.4,2025,1,9
-Other Funds,3,15.3,2025,1,9
-Total Operating Funds,3,3084.4,2025,1,9
-Capital Improvement,3,342.4,2025,1,9
-Industrial and Commercial Development,3,10.7,2025,1,9
-Total Capital Funds,3,353.0,2025,1,9
-Consolidated Cash,3,3437.4,2025,1,9
-General Fund,4,1640.0,2025,1,10
-Grants Fund,4,1054.9,2025,1,10
-Community Development,4,-12.1,2025,1,10
-Vehicle Rental Tax,4,3.7,2025,1,10
-Hospital Assessment Fund,4,22.0,2025,1,10
-Housing Trust Fund,4,114.6,2025,1,10
-Transportation Fund,4,20.8,2025,1,10
-Budget Stabilization Fund,4,107.4,2025,1,10
-Other Funds,4,14.8,2025,1,10
-Total Operating Funds,4,2966.1,2025,1,10
-Capital Improvement,4,331.3,2025,1,10
-Industrial and Commercial Development,4,10.7,2025,1,10
-Total Capital Funds,4,342.0,2025,1,10
-Consolidated Cash,4,3308.0,2025,1,10
-General Fund,5,1546.0,2025,1,11
-Grants Fund,5,780.1,2025,1,11
-Community Development,5,-4.4,2025,1,11
-Vehicle Rental Tax,5,2.9,2025,1,11
-Hospital Assessment Fund,5,20.3,2025,1,11
-Housing Trust Fund,5,99.0,2025,1,11
-Transportation Fund,5,4.8,2025,1,11
-Budget Stabilization Fund,5,107.4,2025,1,11
-Other Funds,5,14.6,2025,1,11
-Total Operating Funds,5,2570.7,2025,1,11
-Capital Improvement,5,316.3,2025,1,11
-Industrial and Commercial Development,5,10.7,2025,1,11
-Total Capital Funds,5,327.0,2025,1,11
-Consolidated Cash,5,2897.7,2025,1,11
-General Fund,6,1259.2,2025,1,12
-Grants Fund,6,727.7,2025,1,12
-Community Development,6,-5.3,2025,1,12
-Vehicle Rental Tax,6,3.5,2025,1,12
-Hospital Assessment Fund,6,53.0,2025,1,12
-Housing Trust Fund,6,96.9,2025,1,12
-Transportation Fund,6,1.0,2025,1,12
-Budget Stabilization Fund,6,107.4,2025,1,12
-Other Funds,6,14.4,2025,1,12
-Total Operating Funds,6,2257.9,2025,1,12
-Capital Improvement,6,301.3,2025,1,12
-Industrial and Commercial Development,6,10.7,2025,1,12
-Total Capital Funds,6,312.0,2025,1,12
-Consolidated Cash,6,2569.9,2025,1,12
-General Fund,7,1316.1,2025,1,1
-Grants Fund,7,792.3,2025,1,1
-Community Development,7,-2.5,2025,1,1
-Vehicle Rental Tax,7,4.1,2025,1,1
-Hospital Assessment Fund,7,20.2,2025,1,1
-Housing Trust Fund,7,94.8,2025,1,1
-Transportation Fund,7,0.4,2025,1,1
-Budget Stabilization Fund,7,107.4,2025,1,1
-Other Funds,7,14.2,2025,1,1
-Total Operating Funds,7,2346.9,2025,1,1
-Capital Improvement,7,286.3,2025,1,1
-Industrial and Commercial Development,7,10.8,2025,1,1
-Total Capital Funds,7,297.1,2025,1,1
-Consolidated Cash,7,2644.0,2025,1,1
-General Fund,8,1315.4,2025,1,2
-Grants Fund,8,899.7,2025,1,2
-Community Development,8,-0.3,2025,1,2
-Vehicle Rental Tax,8,4.7,2025,1,2
-Hospital Assessment Fund,8,19.9,2025,1,2
-Housing Trust Fund,8,92.7,2025,1,2
-Transportation Fund,8,-1.1,2025,1,2
-Budget Stabilization Fund,8,107.4,2025,1,2
-Other Funds,8,14.0,2025,1,2
-Total Operating Funds,8,2452.3,2025,1,2
-Capital Improvement,8,271.3,2025,1,2
-Industrial and Commercial Development,8,10.8,2025,1,2
-Total Capital Funds,8,282.1,2025,1,2
-Consolidated Cash,8,2734.4,2025,1,2
-General Fund,9,1430.0,2025,1,3
-Grants Fund,9,468.8,2025,1,3
-Community Development,9,-0.8,2025,1,3
-Vehicle Rental Tax,9,5.3,2025,1,3
-Hospital Assessment Fund,9,25.8,2025,1,3
-Housing Trust Fund,9,90.6,2025,1,3
-Transportation Fund,9,-3.1,2025,1,3
-Budget Stabilization Fund,9,107.4,2025,1,3
-Other Funds,9,13.8,2025,1,3
-Total Operating Funds,9,2137.8,2025,1,3
-Capital Improvement,9,256.3,2025,1,3
-Industrial and Commercial Development,9,10.8,2025,1,3
-Total Capital Funds,9,267.1,2025,1,3
-Consolidated Cash,9,2404.9,2025,1,3
-General Fund,10,1860.8,2025,1,4
-Grants Fund,10,593.9,2025,1,4
-Community Development,10,3.3,2025,1,4
-Vehicle Rental Tax,10,5.9,2025,1,4
-Hospital Assessment Fund,10,21.7,2025,1,4
-Housing Trust Fund,10,88.5,2025,1,4
-Transportation Fund,10,-1.6,2025,1,4
-Budget Stabilization Fund,10,107.4,2025,1,4
-Other Funds,10,13.6,2025,1,4
-Total Operating Funds,10,2693.4,2025,1,4
-Capital Improvement,10,241.3,2025,1,4
-Industrial and Commercial Development,10,10.9,2025,1,4
-Total Capital Funds,10,252.1,2025,1,4
-Consolidated Cash,10,2945.5,2025,1,4
-General Fund,11,1805.9,2025,1,5
-Grants Fund,11,540.5,2025,1,5
-Community Development,11,1.4,2025,1,5
-Vehicle Rental Tax,11,6.5,2025,1,5
-Hospital Assessment Fund,11,50.6,2025,1,5
-Housing Trust Fund,11,86.4,2025,1,5
-Transportation Fund,11,2.6,2025,1,5
-Budget Stabilization Fund,11,107.4,2025,1,5
-Other Funds,11,13.4,2025,1,5
-Total Operating Funds,11,2614.5,2025,1,5
-Capital Improvement,11,226.3,2025,1,5
-Industrial and Commercial Development,11,10.9,2025,1,5
-Total Capital Funds,11,237.2,2025,1,5
-Consolidated Cash,11,2851.7,2025,1,5
-General Fund,12,1679.5,2025,1,6
-Grants Fund,12,473.4,2025,1,6
-Community Development,12,0.0,2025,1,6
-Vehicle Rental Tax,12,7.1,2025,1,6
-Hospital Assessment Fund,12,24.7,2025,1,6
-Housing Trust Fund,12,84.3,2025,1,6
-Transportation Fund,12,3.0,2025,1,6
-Budget Stabilization Fund,12,107.4,2025,1,6
-Other Funds,12,13.2,2025,1,6
-Total Operating Funds,12,2392.5,2025,1,6
-Capital Improvement,12,211.3,2025,1,6
-Industrial and Commercial Development,12,10.9,2025,1,6
-Total Capital Funds,12,222.2,2025,1,6
-Consolidated Cash,12,2614.7,2025,1,6
+General Fund,1,1809.6,2024,4,7
+Grants Fund,1,905.4,2024,4,7
+Community Development,1,-29.5,2024,4,7
+Vehicle Rental Tax,1,8.5,2024,4,7
+Hospital Assessment Fund,1,21.3,2024,4,7
+Housing Trust Fund,1,86.8,2024,4,7
+Transportation Fund,1,6.6,2024,4,7
+Budget Stabilization Fund,1,65.1,2024,4,7
+Other Funds,1,17.5,2024,4,7
+Total Operating Funds,1,2891.4,2024,4,7
+Capital Improvement,1,423.9,2024,4,7
+Industrial and Commercial Development,1,10.6,2024,4,7
+Total Capital Funds,1,434.5,2024,4,7
+Consolidated Cash,1,3325.8,2024,4,7
+General Fund,2,1777.9,2024,4,8
+Grants Fund,2,898.9,2024,4,8
+Community Development,2,-26.1,2024,4,8
+Vehicle Rental Tax,2,9.3,2024,4,8
+Hospital Assessment Fund,2,20.3,2024,4,8
+Housing Trust Fund,2,113.9,2024,4,8
+Transportation Fund,2,12.1,2024,4,8
+Budget Stabilization Fund,2,65.1,2024,4,8
+Other Funds,2,17.4,2024,4,8
+Total Operating Funds,2,2888.9,2024,4,8
+Capital Improvement,2,353.1,2024,4,8
+Industrial and Commercial Development,2,10.6,2024,4,8
+Total Capital Funds,2,363.7,2024,4,8
+Consolidated Cash,2,3252.6,2024,4,8
+General Fund,3,1777.4,2024,4,9
+Grants Fund,3,1015.9,2024,4,9
+Community Development,3,-11.0,2024,4,9
+Vehicle Rental Tax,3,3.1,2024,4,9
+Hospital Assessment Fund,3,45.2,2024,4,9
+Housing Trust Fund,3,114.5,2024,4,9
+Transportation Fund,3,16.5,2024,4,9
+Budget Stabilization Fund,3,107.4,2024,4,9
+Other Funds,3,17.2,2024,4,9
+Total Operating Funds,3,3086.2,2024,4,9
+Capital Improvement,3,342.4,2024,4,9
+Industrial and Commercial Development,3,10.7,2024,4,9
+Total Capital Funds,3,353.0,2024,4,9
+Consolidated Cash,3,3439.2,2024,4,9
+General Fund,4,1640.0,2024,4,10
+Grants Fund,4,1054.9,2024,4,10
+Community Development,4,-12.1,2024,4,10
+Vehicle Rental Tax,4,3.7,2024,4,10
+Hospital Assessment Fund,4,22.0,2024,4,10
+Housing Trust Fund,4,114.6,2024,4,10
+Transportation Fund,4,20.8,2024,4,10
+Budget Stabilization Fund,4,107.4,2024,4,10
+Other Funds,4,17.2,2024,4,10
+Total Operating Funds,4,2968.5,2024,4,10
+Capital Improvement,4,331.3,2024,4,10
+Industrial and Commercial Development,4,10.7,2024,4,10
+Total Capital Funds,4,342.0,2024,4,10
+Consolidated Cash,4,3310.5,2024,4,10
+General Fund,5,1626.8,2024,4,11
+Grants Fund,5,946.2,2024,4,11
+Community Development,5,-3.0,2024,4,11
+Vehicle Rental Tax,5,4.4,2024,4,11
+Hospital Assessment Fund,5,21.5,2024,4,11
+Housing Trust Fund,5,116.0,2024,4,11
+Transportation Fund,5,15.1,2024,4,11
+Budget Stabilization Fund,5,107.4,2024,4,11
+Other Funds,5,17.1,2024,4,11
+Total Operating Funds,5,2851.6,2024,4,11
+Capital Improvement,5,298.7,2024,4,11
+Industrial and Commercial Development,5,10.8,2024,4,11
+Total Capital Funds,5,309.4,2024,4,11
+Consolidated Cash,5,3161.0,2024,4,11
+General Fund,6,1536.6,2024,4,12
+Grants Fund,6,948.1,2024,4,12
+Community Development,6,-4.4,2024,4,12
+Vehicle Rental Tax,6,5.0,2024,4,12
+Hospital Assessment Fund,6,41.8,2024,4,12
+Housing Trust Fund,6,116.1,2024,4,12
+Transportation Fund,6,13.1,2024,4,12
+Budget Stabilization Fund,6,107.4,2024,4,12
+Other Funds,6,17.2,2024,4,12
+Total Operating Funds,6,2780.9,2024,4,12
+Capital Improvement,6,295.0,2024,4,12
+Industrial and Commercial Development,6,10.8,2024,4,12
+Total Capital Funds,6,305.9,2024,4,12
+Consolidated Cash,6,3086.7,2024,4,12
+General Fund,7,1948.4,2024,4,1
+Grants Fund,7,547.2,2024,4,1
+Community Development,7,-4.3,2024,4,1
+Vehicle Rental Tax,7,5.5,2024,4,1
+Hospital Assessment Fund,7,18.4,2024,4,1
+Housing Trust Fund,7,116.6,2024,4,1
+Transportation Fund,7,20.2,2024,4,1
+Budget Stabilization Fund,7,107.4,2024,4,1
+Other Funds,7,17.6,2024,4,1
+Total Operating Funds,7,2776.9,2024,4,1
+Capital Improvement,7,294.9,2024,4,1
+Industrial and Commercial Development,7,10.9,2024,4,1
+Total Capital Funds,7,305.8,2024,4,1
+Consolidated Cash,7,3082.7,2024,4,1
+General Fund,8,1731.5,2024,4,2
+Grants Fund,8,464.1,2024,4,2
+Community Development,8,-8.9,2024,4,2
+Vehicle Rental Tax,8,5.9,2024,4,2
+Hospital Assessment Fund,8,17.7,2024,4,2
+Housing Trust Fund,8,111.0,2024,4,2
+Transportation Fund,8,24.0,2024,4,2
+Budget Stabilization Fund,8,107.4,2024,4,2
+Other Funds,8,17.4,2024,4,2
+Total Operating Funds,8,2470.0,2024,4,2
+Capital Improvement,8,278.1,2024,4,2
+Industrial and Commercial Development,8,10.9,2024,4,2
+Total Capital Funds,8,289.0,2024,4,2
+Consolidated Cash,8,2758.9,2024,4,2
+General Fund,9,1421.3,2024,4,3
+Grants Fund,9,430.3,2024,4,3
+Community Development,9,-17.6,2024,4,3
+Vehicle Rental Tax,9,6.4,2024,4,3
+Hospital Assessment Fund,9,42.2,2024,4,3
+Housing Trust Fund,9,109.8,2024,4,3
+Transportation Fund,9,28.5,2024,4,3
+Budget Stabilization Fund,9,107.4,2024,4,3
+Other Funds,9,16.0,2024,4,3
+Total Operating Funds,9,2144.2,2024,4,3
+Capital Improvement,9,264.4,2024,4,3
+Industrial and Commercial Development,9,10.9,2024,4,3
+Total Capital Funds,9,275.3,2024,4,3
+Consolidated Cash,9,2419.6,2024,4,3
+General Fund,10,2056.7,2024,4,4
+Grants Fund,10,432.2,2024,4,4
+Community Development,10,-4.6,2024,4,4
+Vehicle Rental Tax,10,7.0,2024,4,4
+Hospital Assessment Fund,10,19.0,2024,4,4
+Housing Trust Fund,10,109.4,2024,4,4
+Transportation Fund,10,36.1,2024,4,4
+Budget Stabilization Fund,10,107.4,2024,4,4
+Other Funds,10,16.1,2024,4,4
+Total Operating Funds,10,2779.2,2024,4,4
+Capital Improvement,10,240.9,2024,4,4
+Industrial and Commercial Development,10,10.9,2024,4,4
+Total Capital Funds,10,251.8,2024,4,4
+Consolidated Cash,10,3031.0,2024,4,4
+General Fund,11,2044.2,2024,4,5
+Grants Fund,11,437.3,2024,4,5
+Community Development,11,-0.4,2024,4,5
+Vehicle Rental Tax,11,7.6,2024,4,5
+Hospital Assessment Fund,11,20.7,2024,4,5
+Housing Trust Fund,11,106.5,2024,4,5
+Transportation Fund,11,34.1,2024,4,5
+Budget Stabilization Fund,11,107.4,2024,4,5
+Other Funds,11,17.1,2024,4,5
+Total Operating Funds,11,2774.5,2024,4,5
+Capital Improvement,11,230.4,2024,4,5
+Industrial and Commercial Development,11,11.0,2024,4,5
+Total Capital Funds,11,241.4,2024,4,5
+Consolidated Cash,11,3015.9,2024,4,5
+General Fund,12,2007.8,2024,4,6
+Grants Fund,12,363.9,2024,4,6
+Community Development,12,0.0,2024,4,6
+Vehicle Rental Tax,12,8.4,2024,4,6
+Hospital Assessment Fund,12,24.7,2024,4,6
+Housing Trust Fund,12,104.8,2024,4,6
+Transportation Fund,12,45.1,2024,4,6
+Budget Stabilization Fund,12,107.4,2024,4,6
+Other Funds,12,15.7,2024,4,6
+Total Operating Funds,12,2677.8,2024,4,6
+Capital Improvement,12,309.2,2024,4,6
+Industrial and Commercial Development,12,11.1,2024,4,6
+Total Capital Funds,12,320.3,2024,4,6
+Consolidated Cash,12,2998.1,2024,4,6
+General Fund,1,1809.6,2024,3,7
+Grants Fund,1,905.4,2024,3,7
+Community Development,1,-29.5,2024,3,7
+Vehicle Rental Tax,1,8.5,2024,3,7
+Hospital Assessment Fund,1,21.3,2024,3,7
+Housing Trust Fund,1,86.8,2024,3,7
+Transportation Fund,1,6.6,2024,3,7
+Budget Stabilization Fund,1,65.1,2024,3,7
+Other Funds,1,17.5,2024,3,7
+Total Operating Funds,1,2891.4,2024,3,7
+Capital Improvement,1,423.9,2024,3,7
+Industrial and Commercial Development,1,10.6,2024,3,7
+Total Capital Funds,1,434.5,2024,3,7
+Consolidated Cash,1,3325.8,2024,3,7
+General Fund,2,1777.9,2024,3,8
+Grants Fund,2,898.9,2024,3,8
+Community Development,2,-26.1,2024,3,8
+Vehicle Rental Tax,2,9.3,2024,3,8
+Hospital Assessment Fund,2,20.3,2024,3,8
+Housing Trust Fund,2,113.9,2024,3,8
+Transportation Fund,2,12.1,2024,3,8
+Budget Stabilization Fund,2,65.1,2024,3,8
+Other Funds,2,17.4,2024,3,8
+Total Operating Funds,2,2888.9,2024,3,8
+Capital Improvement,2,353.1,2024,3,8
+Industrial and Commercial Development,2,10.6,2024,3,8
+Total Capital Funds,2,363.7,2024,3,8
+Consolidated Cash,2,3252.6,2024,3,8
+General Fund,3,1777.4,2024,3,9
+Grants Fund,3,1015.9,2024,3,9
+Community Development,3,-11.0,2024,3,9
+Vehicle Rental Tax,3,3.1,2024,3,9
+Hospital Assessment Fund,3,45.2,2024,3,9
+Housing Trust Fund,3,114.5,2024,3,9
+Transportation Fund,3,16.5,2024,3,9
+Budget Stabilization Fund,3,107.4,2024,3,9
+Other Funds,3,17.2,2024,3,9
+Total Operating Funds,3,3086.2,2024,3,9
+Capital Improvement,3,342.4,2024,3,9
+Industrial and Commercial Development,3,10.7,2024,3,9
+Total Capital Funds,3,353.0,2024,3,9
+Consolidated Cash,3,3439.2,2024,3,9
+General Fund,4,1640.0,2024,3,10
+Grants Fund,4,1054.9,2024,3,10
+Community Development,4,-12.1,2024,3,10
+Vehicle Rental Tax,4,3.7,2024,3,10
+Hospital Assessment Fund,4,22.0,2024,3,10
+Housing Trust Fund,4,114.6,2024,3,10
+Transportation Fund,4,20.8,2024,3,10
+Budget Stabilization Fund,4,107.4,2024,3,10
+Other Funds,4,17.2,2024,3,10
+Total Operating Funds,4,2968.5,2024,3,10
+Capital Improvement,4,331.3,2024,3,10
+Industrial and Commercial Development,4,10.7,2024,3,10
+Total Capital Funds,4,342.0,2024,3,10
+Consolidated Cash,4,3310.5,2024,3,10
+General Fund,5,1626.8,2024,3,11
+Grants Fund,5,946.2,2024,3,11
+Community Development,5,-3.0,2024,3,11
+Vehicle Rental Tax,5,4.4,2024,3,11
+Hospital Assessment Fund,5,21.5,2024,3,11
+Housing Trust Fund,5,116.0,2024,3,11
+Transportation Fund,5,15.1,2024,3,11
+Budget Stabilization Fund,5,107.4,2024,3,11
+Other Funds,5,17.1,2024,3,11
+Total Operating Funds,5,2851.6,2024,3,11
+Capital Improvement,5,298.7,2024,3,11
+Industrial and Commercial Development,5,10.8,2024,3,11
+Total Capital Funds,5,309.4,2024,3,11
+Consolidated Cash,5,3161.0,2024,3,11
+General Fund,6,1536.6,2024,3,12
+Grants Fund,6,948.1,2024,3,12
+Community Development,6,-4.4,2024,3,12
+Vehicle Rental Tax,6,5.0,2024,3,12
+Hospital Assessment Fund,6,41.8,2024,3,12
+Housing Trust Fund,6,116.1,2024,3,12
+Transportation Fund,6,13.1,2024,3,12
+Budget Stabilization Fund,6,107.4,2024,3,12
+Other Funds,6,17.2,2024,3,12
+Total Operating Funds,6,2780.9,2024,3,12
+Capital Improvement,6,295.0,2024,3,12
+Industrial and Commercial Development,6,10.8,2024,3,12
+Total Capital Funds,6,305.9,2024,3,12
+Consolidated Cash,6,3086.7,2024,3,12
+General Fund,7,1948.4,2024,3,1
+Grants Fund,7,547.2,2024,3,1
+Community Development,7,-4.3,2024,3,1
+Vehicle Rental Tax,7,5.5,2024,3,1
+Hospital Assessment Fund,7,18.4,2024,3,1
+Housing Trust Fund,7,116.6,2024,3,1
+Transportation Fund,7,20.2,2024,3,1
+Budget Stabilization Fund,7,107.4,2024,3,1
+Other Funds,7,17.6,2024,3,1
+Total Operating Funds,7,2776.9,2024,3,1
+Capital Improvement,7,294.9,2024,3,1
+Industrial and Commercial Development,7,10.9,2024,3,1
+Total Capital Funds,7,305.8,2024,3,1
+Consolidated Cash,7,3082.7,2024,3,1
+General Fund,8,1731.5,2024,3,2
+Grants Fund,8,464.1,2024,3,2
+Community Development,8,-8.9,2024,3,2
+Vehicle Rental Tax,8,5.9,2024,3,2
+Hospital Assessment Fund,8,17.7,2024,3,2
+Housing Trust Fund,8,111.0,2024,3,2
+Transportation Fund,8,24.0,2024,3,2
+Budget Stabilization Fund,8,107.4,2024,3,2
+Other Funds,8,17.4,2024,3,2
+Total Operating Funds,8,2470.0,2024,3,2
+Capital Improvement,8,278.1,2024,3,2
+Industrial and Commercial Development,8,10.9,2024,3,2
+Total Capital Funds,8,289.0,2024,3,2
+Consolidated Cash,8,2758.9,2024,3,2
+General Fund,9,1421.3,2024,3,3
+Grants Fund,9,430.3,2024,3,3
+Community Development,9,-17.6,2024,3,3
+Vehicle Rental Tax,9,6.4,2024,3,3
+Hospital Assessment Fund,9,42.2,2024,3,3
+Housing Trust Fund,9,109.8,2024,3,3
+Transportation Fund,9,28.5,2024,3,3
+Budget Stabilization Fund,9,107.4,2024,3,3
+Other Funds,9,16.0,2024,3,3
+Total Operating Funds,9,2144.2,2024,3,3
+Capital Improvement,9,264.4,2024,3,3
+Industrial and Commercial Development,9,10.9,2024,3,3
+Total Capital Funds,9,275.3,2024,3,3
+Consolidated Cash,9,2419.6,2024,3,3
+General Fund,10,2056.7,2024,3,4
+Grants Fund,10,432.2,2024,3,4
+Community Development,10,-4.6,2024,3,4
+Vehicle Rental Tax,10,7.0,2024,3,4
+Hospital Assessment Fund,10,19.0,2024,3,4
+Housing Trust Fund,10,109.4,2024,3,4
+Transportation Fund,10,36.1,2024,3,4
+Budget Stabilization Fund,10,107.4,2024,3,4
+Other Funds,10,16.1,2024,3,4
+Total Operating Funds,10,2779.2,2024,3,4
+Capital Improvement,10,240.9,2024,3,4
+Industrial and Commercial Development,10,10.9,2024,3,4
+Total Capital Funds,10,251.8,2024,3,4
+Consolidated Cash,10,3031.0,2024,3,4
+General Fund,11,1908.5,2024,3,5
+Grants Fund,11,540.5,2024,3,5
+Community Development,11,1.4,2024,3,5
+Vehicle Rental Tax,11,6.5,2024,3,5
+Hospital Assessment Fund,11,50.6,2024,3,5
+Housing Trust Fund,11,108.2,2024,3,5
+Transportation Fund,11,34.1,2024,3,5
+Budget Stabilization Fund,11,107.4,2024,3,5
+Other Funds,11,15.9,2024,3,5
+Total Operating Funds,11,2773.0,2024,3,5
+Capital Improvement,11,225.9,2024,3,5
+Industrial and Commercial Development,11,11.0,2024,3,5
+Total Capital Funds,11,236.9,2024,3,5
+Consolidated Cash,11,3009.8,2024,3,5
+General Fund,12,1601.7,2024,3,6
+Grants Fund,12,473.4,2024,3,6
+Community Development,12,0.0,2024,3,6
+Vehicle Rental Tax,12,7.1,2024,3,6
+Hospital Assessment Fund,12,24.7,2024,3,6
+Housing Trust Fund,12,106.1,2024,3,6
+Transportation Fund,12,28.1,2024,3,6
+Budget Stabilization Fund,12,107.4,2024,3,6
+Other Funds,12,15.7,2024,3,6
+Total Operating Funds,12,2364.1,2024,3,6
+Capital Improvement,12,305.9,2024,3,6
+Industrial and Commercial Development,12,11.0,2024,3,6
+Total Capital Funds,12,316.9,2024,3,6
+Consolidated Cash,12,2681.0,2024,3,6
+General Fund,1,1809.6,2024,2,7
+Grants Fund,1,905.4,2024,2,7
+Community Development,1,-29.5,2024,2,7
+Vehicle Rental Tax,1,8.5,2024,2,7
+Hospital Assessment Fund,1,21.3,2024,2,7
+Housing Trust Fund,1,86.8,2024,2,7
+Transportation Fund,1,6.6,2024,2,7
+Budget Stabilization Fund,1,65.1,2024,2,7
+Other Funds,1,17.5,2024,2,7
+Total Operating Funds,1,2891.4,2024,2,7
+Capital Improvement,1,423.9,2024,2,7
+Industrial and Commercial Development,1,10.6,2024,2,7
+Total Capital Funds,1,434.5,2024,2,7
+Consolidated Cash,1,3325.8,2024,2,7
+General Fund,2,1777.9,2024,2,8
+Grants Fund,2,898.9,2024,2,8
+Community Development,2,-26.1,2024,2,8
+Vehicle Rental Tax,2,9.3,2024,2,8
+Hospital Assessment Fund,2,20.3,2024,2,8
+Housing Trust Fund,2,113.9,2024,2,8
+Transportation Fund,2,12.1,2024,2,8
+Budget Stabilization Fund,2,65.1,2024,2,8
+Other Funds,2,17.4,2024,2,8
+Total Operating Funds,2,2888.9,2024,2,8
+Capital Improvement,2,353.1,2024,2,8
+Industrial and Commercial Development,2,10.6,2024,2,8
+Total Capital Funds,2,363.7,2024,2,8
+Consolidated Cash,2,3252.6,2024,2,8
+General Fund,3,1777.4,2024,2,9
+Grants Fund,3,1015.9,2024,2,9
+Community Development,3,-11.0,2024,2,9
+Vehicle Rental Tax,3,3.1,2024,2,9
+Hospital Assessment Fund,3,45.2,2024,2,9
+Housing Trust Fund,3,114.5,2024,2,9
+Transportation Fund,3,16.5,2024,2,9
+Budget Stabilization Fund,3,107.4,2024,2,9
+Other Funds,3,17.2,2024,2,9
+Total Operating Funds,3,3086.2,2024,2,9
+Capital Improvement,3,342.4,2024,2,9
+Industrial and Commercial Development,3,10.7,2024,2,9
+Total Capital Funds,3,353.0,2024,2,9
+Consolidated Cash,3,3439.2,2024,2,9
+General Fund,4,1640.0,2024,2,10
+Grants Fund,4,1054.9,2024,2,10
+Community Development,4,-12.1,2024,2,10
+Vehicle Rental Tax,4,3.7,2024,2,10
+Hospital Assessment Fund,4,22.0,2024,2,10
+Housing Trust Fund,4,114.6,2024,2,10
+Transportation Fund,4,20.8,2024,2,10
+Budget Stabilization Fund,4,107.4,2024,2,10
+Other Funds,4,17.2,2024,2,10
+Total Operating Funds,4,2968.5,2024,2,10
+Capital Improvement,4,331.3,2024,2,10
+Industrial and Commercial Development,4,10.7,2024,2,10
+Total Capital Funds,4,342.0,2024,2,10
+Consolidated Cash,4,3310.5,2024,2,10
+General Fund,5,1626.8,2024,2,11
+Grants Fund,5,946.2,2024,2,11
+Community Development,5,-3.0,2024,2,11
+Vehicle Rental Tax,5,4.4,2024,2,11
+Hospital Assessment Fund,5,21.5,2024,2,11
+Housing Trust Fund,5,116.0,2024,2,11
+Transportation Fund,5,15.1,2024,2,11
+Budget Stabilization Fund,5,107.4,2024,2,11
+Other Funds,5,17.1,2024,2,11
+Total Operating Funds,5,2851.6,2024,2,11
+Capital Improvement,5,298.7,2024,2,11
+Industrial and Commercial Development,5,10.8,2024,2,11
+Total Capital Funds,5,309.4,2024,2,11
+Consolidated Cash,5,3161.0,2024,2,11
+General Fund,6,1536.6,2024,2,12
+Grants Fund,6,948.1,2024,2,12
+Community Development,6,-4.4,2024,2,12
+Vehicle Rental Tax,6,5.0,2024,2,12
+Hospital Assessment Fund,6,41.8,2024,2,12
+Housing Trust Fund,6,116.1,2024,2,12
+Transportation Fund,6,13.1,2024,2,12
+Budget Stabilization Fund,6,107.4,2024,2,12
+Other Funds,6,17.2,2024,2,12
+Total Operating Funds,6,2780.9,2024,2,12
+Capital Improvement,6,295.0,2024,2,12
+Industrial and Commercial Development,6,10.8,2024,2,12
+Total Capital Funds,6,305.9,2024,2,12
+Consolidated Cash,6,3086.7,2024,2,12
+General Fund,7,1948.4,2024,2,1
+Grants Fund,7,547.2,2024,2,1
+Community Development,7,-4.3,2024,2,1
+Vehicle Rental Tax,7,5.5,2024,2,1
+Hospital Assessment Fund,7,18.4,2024,2,1
+Housing Trust Fund,7,116.6,2024,2,1
+Transportation Fund,7,20.2,2024,2,1
+Budget Stabilization Fund,7,107.4,2024,2,1
+Other Funds,7,17.6,2024,2,1
+Total Operating Funds,7,2776.9,2024,2,1
+Capital Improvement,7,294.9,2024,2,1
+Industrial and Commercial Development,7,10.9,2024,2,1
+Total Capital Funds,7,305.8,2024,2,1
+Consolidated Cash,7,3082.7,2024,2,1
+General Fund,8,1880.3,2024,2,2
+Grants Fund,8,508.9,2024,2,2
+Community Development,8,-0.3,2024,2,2
+Vehicle Rental Tax,8,4.7,2024,2,2
+Hospital Assessment Fund,8,19.9,2024,2,2
+Housing Trust Fund,8,114.5,2024,2,2
+Transportation Fund,8,18.2,2024,2,2
+Budget Stabilization Fund,8,107.4,2024,2,2
+Other Funds,8,17.4,2024,2,2
+Total Operating Funds,8,2670.9,2024,2,2
+Capital Improvement,8,279.9,2024,2,2
+Industrial and Commercial Development,8,10.9,2024,2,2
+Total Capital Funds,8,290.8,2024,2,2
+Consolidated Cash,8,2961.7,2024,2,2
+General Fund,9,1518.2,2024,2,3
+Grants Fund,9,468.8,2024,2,3
+Community Development,9,-0.8,2024,2,3
+Vehicle Rental Tax,9,5.3,2024,2,3
+Hospital Assessment Fund,9,25.8,2024,2,3
+Housing Trust Fund,9,112.4,2024,2,3
+Transportation Fund,9,16.2,2024,2,3
+Budget Stabilization Fund,9,107.4,2024,2,3
+Other Funds,9,17.2,2024,2,3
+Total Operating Funds,9,2270.5,2024,2,3
+Capital Improvement,9,278.6,2024,2,3
+Industrial and Commercial Development,9,10.9,2024,2,3
+Total Capital Funds,9,289.5,2024,2,3
+Consolidated Cash,9,2560.0,2024,2,3
+General Fund,10,1931.5,2024,2,4
+Grants Fund,10,593.9,2024,2,4
+Community Development,10,3.3,2024,2,4
+Vehicle Rental Tax,10,5.9,2024,2,4
+Hospital Assessment Fund,10,21.7,2024,2,4
+Housing Trust Fund,10,110.3,2024,2,4
+Transportation Fund,10,14.2,2024,2,4
+Budget Stabilization Fund,10,107.4,2024,2,4
+Other Funds,10,17.0,2024,2,4
+Total Operating Funds,10,2805.1,2024,2,4
+Capital Improvement,10,263.6,2024,2,4
+Industrial and Commercial Development,10,11.0,2024,2,4
+Total Capital Funds,10,274.6,2024,2,4
+Consolidated Cash,10,3079.7,2024,2,4
+General Fund,11,1853.2,2024,2,5
+Grants Fund,11,540.5,2024,2,5
+Community Development,11,1.4,2024,2,5
+Vehicle Rental Tax,11,6.5,2024,2,5
+Hospital Assessment Fund,11,50.6,2024,2,5
+Housing Trust Fund,11,108.2,2024,2,5
+Transportation Fund,11,12.2,2024,2,5
+Budget Stabilization Fund,11,107.4,2024,2,5
+Other Funds,11,16.8,2024,2,5
+Total Operating Funds,11,2696.7,2024,2,5
+Capital Improvement,11,248.6,2024,2,5
+Industrial and Commercial Development,11,11.0,2024,2,5
+Total Capital Funds,11,259.6,2024,2,5
+Consolidated Cash,11,2956.3,2024,2,5
+General Fund,12,1616.6,2024,2,6
+Grants Fund,12,473.4,2024,2,6
+Community Development,12,0.0,2024,2,6
+Vehicle Rental Tax,12,7.1,2024,2,6
+Hospital Assessment Fund,12,24.7,2024,2,6
+Housing Trust Fund,12,106.1,2024,2,6
+Transportation Fund,12,6.2,2024,2,6
+Budget Stabilization Fund,12,107.4,2024,2,6
+Other Funds,12,16.6,2024,2,6
+Total Operating Funds,12,2358.0,2024,2,6
+Capital Improvement,12,328.6,2024,2,6
+Industrial and Commercial Development,12,11.0,2024,2,6
+Total Capital Funds,12,339.6,2024,2,6
+Consolidated Cash,12,2697.6,2024,2,6
+General Fund,1,1809.6,2024,1,7
+Grants Fund,1,905.4,2024,1,7
+Community Development,1,-29.5,2024,1,7
+Vehicle Rental Tax,1,8.5,2024,1,7
+Hospital Assessment Fund,1,21.3,2024,1,7
+Housing Trust Fund,1,86.8,2024,1,7
+Transportation Fund,1,6.6,2024,1,7
+Budget Stabilization Fund,1,65.1,2024,1,7
+Other Funds,1,14.7,2024,1,7
+Total Operating Funds,1,2888.5,2024,1,7
+Capital Improvement,1,423.9,2024,1,7
+Industrial and Commercial Development,1,10.6,2024,1,7
+Total Capital Funds,1,434.5,2024,1,7
+Consolidated Cash,1,3323.0,2024,1,7
+General Fund,2,1777.9,2024,1,8
+Grants Fund,2,898.9,2024,1,8
+Community Development,2,-26.1,2024,1,8
+Vehicle Rental Tax,2,9.3,2024,1,8
+Hospital Assessment Fund,2,20.3,2024,1,8
+Housing Trust Fund,2,113.9,2024,1,8
+Transportation Fund,2,12.1,2024,1,8
+Budget Stabilization Fund,2,65.1,2024,1,8
+Other Funds,2,14.5,2024,1,8
+Total Operating Funds,2,2886.1,2024,1,8
+Capital Improvement,2,353.1,2024,1,8
+Industrial and Commercial Development,2,10.6,2024,1,8
+Total Capital Funds,2,363.7,2024,1,8
+Consolidated Cash,2,3249.8,2024,1,8
+General Fund,3,1777.4,2024,1,9
+Grants Fund,3,1015.9,2024,1,9
+Community Development,3,-11.0,2024,1,9
+Vehicle Rental Tax,3,3.1,2024,1,9
+Hospital Assessment Fund,3,45.2,2024,1,9
+Housing Trust Fund,3,114.5,2024,1,9
+Transportation Fund,3,16.5,2024,1,9
+Budget Stabilization Fund,3,107.4,2024,1,9
+Other Funds,3,15.3,2024,1,9
+Total Operating Funds,3,3084.4,2024,1,9
+Capital Improvement,3,342.4,2024,1,9
+Industrial and Commercial Development,3,10.7,2024,1,9
+Total Capital Funds,3,353.0,2024,1,9
+Consolidated Cash,3,3437.4,2024,1,9
+General Fund,4,1640.0,2024,1,10
+Grants Fund,4,1054.9,2024,1,10
+Community Development,4,-12.1,2024,1,10
+Vehicle Rental Tax,4,3.7,2024,1,10
+Hospital Assessment Fund,4,22.0,2024,1,10
+Housing Trust Fund,4,114.6,2024,1,10
+Transportation Fund,4,20.8,2024,1,10
+Budget Stabilization Fund,4,107.4,2024,1,10
+Other Funds,4,14.8,2024,1,10
+Total Operating Funds,4,2966.1,2024,1,10
+Capital Improvement,4,331.3,2024,1,10
+Industrial and Commercial Development,4,10.7,2024,1,10
+Total Capital Funds,4,342.0,2024,1,10
+Consolidated Cash,4,3308.0,2024,1,10
+General Fund,5,1546.0,2024,1,11
+Grants Fund,5,780.1,2024,1,11
+Community Development,5,-4.4,2024,1,11
+Vehicle Rental Tax,5,2.9,2024,1,11
+Hospital Assessment Fund,5,20.3,2024,1,11
+Housing Trust Fund,5,99.0,2024,1,11
+Transportation Fund,5,4.8,2024,1,11
+Budget Stabilization Fund,5,107.4,2024,1,11
+Other Funds,5,14.6,2024,1,11
+Total Operating Funds,5,2570.7,2024,1,11
+Capital Improvement,5,316.3,2024,1,11
+Industrial and Commercial Development,5,10.7,2024,1,11
+Total Capital Funds,5,327.0,2024,1,11
+Consolidated Cash,5,2897.7,2024,1,11
+General Fund,6,1259.2,2024,1,12
+Grants Fund,6,727.7,2024,1,12
+Community Development,6,-5.3,2024,1,12
+Vehicle Rental Tax,6,3.5,2024,1,12
+Hospital Assessment Fund,6,53.0,2024,1,12
+Housing Trust Fund,6,96.9,2024,1,12
+Transportation Fund,6,1.0,2024,1,12
+Budget Stabilization Fund,6,107.4,2024,1,12
+Other Funds,6,14.4,2024,1,12
+Total Operating Funds,6,2257.9,2024,1,12
+Capital Improvement,6,301.3,2024,1,12
+Industrial and Commercial Development,6,10.7,2024,1,12
+Total Capital Funds,6,312.0,2024,1,12
+Consolidated Cash,6,2569.9,2024,1,12
+General Fund,7,1316.1,2024,1,1
+Grants Fund,7,792.3,2024,1,1
+Community Development,7,-2.5,2024,1,1
+Vehicle Rental Tax,7,4.1,2024,1,1
+Hospital Assessment Fund,7,20.2,2024,1,1
+Housing Trust Fund,7,94.8,2024,1,1
+Transportation Fund,7,0.4,2024,1,1
+Budget Stabilization Fund,7,107.4,2024,1,1
+Other Funds,7,14.2,2024,1,1
+Total Operating Funds,7,2346.9,2024,1,1
+Capital Improvement,7,286.3,2024,1,1
+Industrial and Commercial Development,7,10.8,2024,1,1
+Total Capital Funds,7,297.1,2024,1,1
+Consolidated Cash,7,2644.0,2024,1,1
+General Fund,8,1315.4,2024,1,2
+Grants Fund,8,899.7,2024,1,2
+Community Development,8,-0.3,2024,1,2
+Vehicle Rental Tax,8,4.7,2024,1,2
+Hospital Assessment Fund,8,19.9,2024,1,2
+Housing Trust Fund,8,92.7,2024,1,2
+Transportation Fund,8,-1.1,2024,1,2
+Budget Stabilization Fund,8,107.4,2024,1,2
+Other Funds,8,14.0,2024,1,2
+Total Operating Funds,8,2452.3,2024,1,2
+Capital Improvement,8,271.3,2024,1,2
+Industrial and Commercial Development,8,10.8,2024,1,2
+Total Capital Funds,8,282.1,2024,1,2
+Consolidated Cash,8,2734.4,2024,1,2
+General Fund,9,1430.0,2024,1,3
+Grants Fund,9,468.8,2024,1,3
+Community Development,9,-0.8,2024,1,3
+Vehicle Rental Tax,9,5.3,2024,1,3
+Hospital Assessment Fund,9,25.8,2024,1,3
+Housing Trust Fund,9,90.6,2024,1,3
+Transportation Fund,9,-3.1,2024,1,3
+Budget Stabilization Fund,9,107.4,2024,1,3
+Other Funds,9,13.8,2024,1,3
+Total Operating Funds,9,2137.8,2024,1,3
+Capital Improvement,9,256.3,2024,1,3
+Industrial and Commercial Development,9,10.8,2024,1,3
+Total Capital Funds,9,267.1,2024,1,3
+Consolidated Cash,9,2404.9,2024,1,3
+General Fund,10,1860.8,2024,1,4
+Grants Fund,10,593.9,2024,1,4
+Community Development,10,3.3,2024,1,4
+Vehicle Rental Tax,10,5.9,2024,1,4
+Hospital Assessment Fund,10,21.7,2024,1,4
+Housing Trust Fund,10,88.5,2024,1,4
+Transportation Fund,10,-1.6,2024,1,4
+Budget Stabilization Fund,10,107.4,2024,1,4
+Other Funds,10,13.6,2024,1,4
+Total Operating Funds,10,2693.4,2024,1,4
+Capital Improvement,10,241.3,2024,1,4
+Industrial and Commercial Development,10,10.9,2024,1,4
+Total Capital Funds,10,252.1,2024,1,4
+Consolidated Cash,10,2945.5,2024,1,4
+General Fund,11,1805.9,2024,1,5
+Grants Fund,11,540.5,2024,1,5
+Community Development,11,1.4,2024,1,5
+Vehicle Rental Tax,11,6.5,2024,1,5
+Hospital Assessment Fund,11,50.6,2024,1,5
+Housing Trust Fund,11,86.4,2024,1,5
+Transportation Fund,11,2.6,2024,1,5
+Budget Stabilization Fund,11,107.4,2024,1,5
+Other Funds,11,13.4,2024,1,5
+Total Operating Funds,11,2614.5,2024,1,5
+Capital Improvement,11,226.3,2024,1,5
+Industrial and Commercial Development,11,10.9,2024,1,5
+Total Capital Funds,11,237.2,2024,1,5
+Consolidated Cash,11,2851.7,2024,1,5
+General Fund,12,1679.5,2024,1,6
+Grants Fund,12,473.4,2024,1,6
+Community Development,12,0.0,2024,1,6
+Vehicle Rental Tax,12,7.1,2024,1,6
+Hospital Assessment Fund,12,24.7,2024,1,6
+Housing Trust Fund,12,84.3,2024,1,6
+Transportation Fund,12,3.0,2024,1,6
+Budget Stabilization Fund,12,107.4,2024,1,6
+Other Funds,12,13.2,2024,1,6
+Total Operating Funds,12,2392.5,2024,1,6
+Capital Improvement,12,211.3,2024,1,6
+Industrial and Commercial Development,12,10.9,2024,1,6
+Total Capital Funds,12,222.2,2024,1,6
+Consolidated Cash,12,2614.7,2024,1,6
 General Fund,1,1535.8,2023,4,7
 Grants Fund,1,1120.3,2023,4,7
 Community Development,1,-2.1,2023,4,7

@@ -1,100 +1,196 @@
 category,fiscal_month,amount,fiscal_year,quarter,month
-Receipts - Disbursements,1,7.3,2025,2,7
-Opening Balance,1,1802.2,2025,2,7
-TRAN,1,0.0,2025,2,7
-Closing Balance,1,1809.6,2025,2,7
-Receipts - Disbursements,2,-31.7,2025,2,8
-Opening Balance,2,1809.6,2025,2,8
-TRAN,2,0.0,2025,2,8
-Closing Balance,2,1777.9,2025,2,8
-Receipts - Disbursements,3,-0.5,2025,2,9
-Opening Balance,3,1777.9,2025,2,9
-TRAN,3,0.0,2025,2,9
-Closing Balance,3,1777.4,2025,2,9
-Receipts - Disbursements,4,-137.5,2025,2,10
-Opening Balance,4,1777.4,2025,2,10
-TRAN,4,0.0,2025,2,10
-Closing Balance,4,1640.0,2025,2,10
-Receipts - Disbursements,5,-13.1,2025,2,11
-Opening Balance,5,1640.0,2025,2,11
-TRAN,5,0.0,2025,2,11
-Closing Balance,5,1626.8,2025,2,11
-Receipts - Disbursements,6,-90.2,2025,2,12
-Opening Balance,6,1626.8,2025,2,12
-TRAN,6,0.0,2025,2,12
-Closing Balance,6,1536.6,2025,2,12
-Receipts - Disbursements,7,411.8,2025,2,1
-Opening Balance,7,1536.6,2025,2,1
-TRAN,7,0.0,2025,2,1
-Closing Balance,7,1948.4,2025,2,1
-Receipts - Disbursements,8,-68.1,2025,2,2
-Opening Balance,8,1948.4,2025,2,2
-TRAN,8,0.0,2025,2,2
-Closing Balance,8,1880.3,2025,2,2
-Receipts - Disbursements,9,-362.1,2025,2,3
-Opening Balance,9,1880.3,2025,2,3
-TRAN,9,0.0,2025,2,3
-Closing Balance,9,1518.2,2025,2,3
-Receipts - Disbursements,10,413.2,2025,2,4
-Opening Balance,10,1518.2,2025,2,4
-TRAN,10,0.0,2025,2,4
-Closing Balance,10,1931.5,2025,2,4
-Receipts - Disbursements,11,-78.2,2025,2,5
-Opening Balance,11,1931.5,2025,2,5
-TRAN,11,0.0,2025,2,5
-Closing Balance,11,1853.2,2025,2,5
-Receipts - Disbursements,12,-236.7,2025,2,6
-Opening Balance,12,1853.2,2025,2,6
-TRAN,12,0.0,2025,2,6
-Closing Balance,12,1616.6,2025,2,6
-Receipts - Disbursements,1,7.3,2025,1,7
-Opening Balance,1,1802.2,2025,1,7
-TRAN,1,0.0,2025,1,7
-Closing Balance,1,1809.6,2025,1,7
-Receipts - Disbursements,2,-31.7,2025,1,8
-Opening Balance,2,1809.6,2025,1,8
-TRAN,2,0.0,2025,1,8
-Closing Balance,2,1777.9,2025,1,8
-Receipts - Disbursements,3,-0.5,2025,1,9
-Opening Balance,3,1777.9,2025,1,9
-TRAN,3,0.0,2025,1,9
-Closing Balance,3,1777.4,2025,1,9
-Receipts - Disbursements,4,-137.5,2025,1,10
-Opening Balance,4,1777.4,2025,1,10
-TRAN,4,0.0,2025,1,10
-Closing Balance,4,1640.0,2025,1,10
-Receipts - Disbursements,5,-94.0,2025,1,11
-Opening Balance,5,1640.0,2025,1,11
-TRAN,5,0.0,2025,1,11
-Closing Balance,5,1546.0,2025,1,11
-Receipts - Disbursements,6,-286.8,2025,1,12
-Opening Balance,6,1546.0,2025,1,12
-TRAN,6,0.0,2025,1,12
-Closing Balance,6,1259.2,2025,1,12
-Receipts - Disbursements,7,56.9,2025,1,1
-Opening Balance,7,1259.2,2025,1,1
-TRAN,7,0.0,2025,1,1
-Closing Balance,7,1316.1,2025,1,1
-Receipts - Disbursements,8,-0.7,2025,1,2
-Opening Balance,8,1316.1,2025,1,2
-TRAN,8,0.0,2025,1,2
-Closing Balance,8,1315.4,2025,1,2
-Receipts - Disbursements,9,114.6,2025,1,3
-Opening Balance,9,1315.4,2025,1,3
-TRAN,9,0.0,2025,1,3
-Closing Balance,9,1430.0,2025,1,3
-Receipts - Disbursements,10,430.8,2025,1,4
-Opening Balance,10,1430.0,2025,1,4
-TRAN,10,0.0,2025,1,4
-Closing Balance,10,1860.8,2025,1,4
-Receipts - Disbursements,11,-54.9,2025,1,5
-Opening Balance,11,1860.8,2025,1,5
-TRAN,11,0.0,2025,1,5
-Closing Balance,11,1805.9,2025,1,5
-Receipts - Disbursements,12,-126.4,2025,1,6
-Opening Balance,12,1805.9,2025,1,6
-TRAN,12,0.0,2025,1,6
-Closing Balance,12,1679.5,2025,1,6
+Receipts - Disbursements,1,7.3,2024,4,7
+Opening Balance,1,1802.2,2024,4,7
+TRAN,1,0.0,2024,4,7
+Closing Balance,1,1809.6,2024,4,7
+Receipts - Disbursements,2,-31.7,2024,4,8
+Opening Balance,2,1809.6,2024,4,8
+TRAN,2,0.0,2024,4,8
+Closing Balance,2,1777.9,2024,4,8
+Receipts - Disbursements,3,-0.5,2024,4,9
+Opening Balance,3,1777.9,2024,4,9
+TRAN,3,0.0,2024,4,9
+Closing Balance,3,1777.4,2024,4,9
+Receipts - Disbursements,4,-137.5,2024,4,10
+Opening Balance,4,1777.4,2024,4,10
+TRAN,4,0.0,2024,4,10
+Closing Balance,4,1640.0,2024,4,10
+Receipts - Disbursements,5,-13.1,2024,4,11
+Opening Balance,5,1640.0,2024,4,11
+TRAN,5,0.0,2024,4,11
+Closing Balance,5,1626.8,2024,4,11
+Receipts - Disbursements,6,-90.2,2024,4,12
+Opening Balance,6,1626.8,2024,4,12
+TRAN,6,0.0,2024,4,12
+Closing Balance,6,1536.6,2024,4,12
+Receipts - Disbursements,7,411.8,2024,4,1
+Opening Balance,7,1536.6,2024,4,1
+TRAN,7,0.0,2024,4,1
+Closing Balance,7,1948.4,2024,4,1
+Receipts - Disbursements,8,-216.9,2024,4,2
+Opening Balance,8,1948.4,2024,4,2
+TRAN,8,0.0,2024,4,2
+Closing Balance,8,1731.5,2024,4,2
+Receipts - Disbursements,9,-310.2,2024,4,3
+Opening Balance,9,1731.5,2024,4,3
+TRAN,9,0.0,2024,4,3
+Closing Balance,9,1421.3,2024,4,3
+Receipts - Disbursements,10,635.4,2024,4,4
+Opening Balance,10,1421.3,2024,4,4
+TRAN,10,0.0,2024,4,4
+Closing Balance,10,2056.7,2024,4,4
+Receipts - Disbursements,11,-12.5,2024,4,5
+Opening Balance,11,2056.7,2024,4,5
+TRAN,11,0.0,2024,4,5
+Closing Balance,11,2044.2,2024,4,5
+Receipts - Disbursements,12,-36.4,2024,4,6
+Opening Balance,12,2044.2,2024,4,6
+TRAN,12,0.0,2024,4,6
+Closing Balance,12,2007.8,2024,4,6
+Receipts - Disbursements,1,7.3,2024,3,7
+Opening Balance,1,1802.2,2024,3,7
+TRAN,1,0.0,2024,3,7
+Closing Balance,1,1809.6,2024,3,7
+Receipts - Disbursements,2,-31.7,2024,3,8
+Opening Balance,2,1809.6,2024,3,8
+TRAN,2,0.0,2024,3,8
+Closing Balance,2,1777.9,2024,3,8
+Receipts - Disbursements,3,-0.5,2024,3,9
+Opening Balance,3,1777.9,2024,3,9
+TRAN,3,0.0,2024,3,9
+Closing Balance,3,1777.4,2024,3,9
+Receipts - Disbursements,4,-137.5,2024,3,10
+Opening Balance,4,1777.4,2024,3,10
+TRAN,4,0.0,2024,3,10
+Closing Balance,4,1640.0,2024,3,10
+Receipts - Disbursements,5,-13.1,2024,3,11
+Opening Balance,5,1640.0,2024,3,11
+TRAN,5,0.0,2024,3,11
+Closing Balance,5,1626.8,2024,3,11
+Receipts - Disbursements,6,-90.2,2024,3,12
+Opening Balance,6,1626.8,2024,3,12
+TRAN,6,0.0,2024,3,12
+Closing Balance,6,1536.6,2024,3,12
+Receipts - Disbursements,7,411.8,2024,3,1
+Opening Balance,7,1536.6,2024,3,1
+TRAN,7,0.0,2024,3,1
+Closing Balance,7,1948.4,2024,3,1
+Receipts - Disbursements,8,-216.9,2024,3,2
+Opening Balance,8,1948.4,2024,3,2
+TRAN,8,0.0,2024,3,2
+Closing Balance,8,1731.5,2024,3,2
+Receipts - Disbursements,9,-310.2,2024,3,3
+Opening Balance,9,1731.5,2024,3,3
+TRAN,9,0.0,2024,3,3
+Closing Balance,9,1421.3,2024,3,3
+Receipts - Disbursements,10,635.4,2024,3,4
+Opening Balance,10,1421.3,2024,3,4
+TRAN,10,0.0,2024,3,4
+Closing Balance,10,2056.7,2024,3,4
+Receipts - Disbursements,11,-148.2,2024,3,5
+Opening Balance,11,2056.7,2024,3,5
+TRAN,11,0.0,2024,3,5
+Closing Balance,11,1908.5,2024,3,5
+Receipts - Disbursements,12,-306.8,2024,3,6
+Opening Balance,12,1908.5,2024,3,6
+TRAN,12,0.0,2024,3,6
+Closing Balance,12,1601.7,2024,3,6
+Receipts - Disbursements,1,7.3,2024,2,7
+Opening Balance,1,1802.2,2024,2,7
+TRAN,1,0.0,2024,2,7
+Closing Balance,1,1809.6,2024,2,7
+Receipts - Disbursements,2,-31.7,2024,2,8
+Opening Balance,2,1809.6,2024,2,8
+TRAN,2,0.0,2024,2,8
+Closing Balance,2,1777.9,2024,2,8
+Receipts - Disbursements,3,-0.5,2024,2,9
+Opening Balance,3,1777.9,2024,2,9
+TRAN,3,0.0,2024,2,9
+Closing Balance,3,1777.4,2024,2,9
+Receipts - Disbursements,4,-137.5,2024,2,10
+Opening Balance,4,1777.4,2024,2,10
+TRAN,4,0.0,2024,2,10
+Closing Balance,4,1640.0,2024,2,10
+Receipts - Disbursements,5,-13.1,2024,2,11
+Opening Balance,5,1640.0,2024,2,11
+TRAN,5,0.0,2024,2,11
+Closing Balance,5,1626.8,2024,2,11
+Receipts - Disbursements,6,-90.2,2024,2,12
+Opening Balance,6,1626.8,2024,2,12
+TRAN,6,0.0,2024,2,12
+Closing Balance,6,1536.6,2024,2,12
+Receipts - Disbursements,7,411.8,2024,2,1
+Opening Balance,7,1536.6,2024,2,1
+TRAN,7,0.0,2024,2,1
+Closing Balance,7,1948.4,2024,2,1
+Receipts - Disbursements,8,-68.1,2024,2,2
+Opening Balance,8,1948.4,2024,2,2
+TRAN,8,0.0,2024,2,2
+Closing Balance,8,1880.3,2024,2,2
+Receipts - Disbursements,9,-362.1,2024,2,3
+Opening Balance,9,1880.3,2024,2,3
+TRAN,9,0.0,2024,2,3
+Closing Balance,9,1518.2,2024,2,3
+Receipts - Disbursements,10,413.2,2024,2,4
+Opening Balance,10,1518.2,2024,2,4
+TRAN,10,0.0,2024,2,4
+Closing Balance,10,1931.5,2024,2,4
+Receipts - Disbursements,11,-78.2,2024,2,5
+Opening Balance,11,1931.5,2024,2,5
+TRAN,11,0.0,2024,2,5
+Closing Balance,11,1853.2,2024,2,5
+Receipts - Disbursements,12,-236.7,2024,2,6
+Opening Balance,12,1853.2,2024,2,6
+TRAN,12,0.0,2024,2,6
+Closing Balance,12,1616.6,2024,2,6
+Receipts - Disbursements,1,7.3,2024,1,7
+Opening Balance,1,1802.2,2024,1,7
+TRAN,1,0.0,2024,1,7
+Closing Balance,1,1809.6,2024,1,7
+Receipts - Disbursements,2,-31.7,2024,1,8
+Opening Balance,2,1809.6,2024,1,8
+TRAN,2,0.0,2024,1,8
+Closing Balance,2,1777.9,2024,1,8
+Receipts - Disbursements,3,-0.5,2024,1,9
+Opening Balance,3,1777.9,2024,1,9
+TRAN,3,0.0,2024,1,9
+Closing Balance,3,1777.4,2024,1,9
+Receipts - Disbursements,4,-137.5,2024,1,10
+Opening Balance,4,1777.4,2024,1,10
+TRAN,4,0.0,2024,1,10
+Closing Balance,4,1640.0,2024,1,10
+Receipts - Disbursements,5,-94.0,2024,1,11
+Opening Balance,5,1640.0,2024,1,11
+TRAN,5,0.0,2024,1,11
+Closing Balance,5,1546.0,2024,1,11
+Receipts - Disbursements,6,-286.8,2024,1,12
+Opening Balance,6,1546.0,2024,1,12
+TRAN,6,0.0,2024,1,12
+Closing Balance,6,1259.2,2024,1,12
+Receipts - Disbursements,7,56.9,2024,1,1
+Opening Balance,7,1259.2,2024,1,1
+TRAN,7,0.0,2024,1,1
+Closing Balance,7,1316.1,2024,1,1
+Receipts - Disbursements,8,-0.7,2024,1,2
+Opening Balance,8,1316.1,2024,1,2
+TRAN,8,0.0,2024,1,2
+Closing Balance,8,1315.4,2024,1,2
+Receipts - Disbursements,9,114.6,2024,1,3
+Opening Balance,9,1315.4,2024,1,3
+TRAN,9,0.0,2024,1,3
+Closing Balance,9,1430.0,2024,1,3
+Receipts - Disbursements,10,430.8,2024,1,4
+Opening Balance,10,1430.0,2024,1,4
+TRAN,10,0.0,2024,1,4
+Closing Balance,10,1860.8,2024,1,4
+Receipts - Disbursements,11,-54.9,2024,1,5
+Opening Balance,11,1860.8,2024,1,5
+TRAN,11,0.0,2024,1,5
+Closing Balance,11,1805.9,2024,1,5
+Receipts - Disbursements,12,-126.4,2024,1,6
+Opening Balance,12,1805.9,2024,1,6
+TRAN,12,0.0,2024,1,6
+Closing Balance,12,1679.5,2024,1,6
 Receipts - Disbursements,1,-92.7,2023,4,7
 Opening Balance,1,1628.5,2023,4,7
 TRAN,1,0.0,2023,4,7
