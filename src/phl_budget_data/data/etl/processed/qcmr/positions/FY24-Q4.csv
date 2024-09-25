@@ -1,469 +1,469 @@
 dept_name_raw,fund,civilian,uniformed,fiscal_year,variable,time_period,as_of_date,total,dept_name,dept_code,abbreviation
-Auditing (City Controller's Office),General,113,0,2025,Actual,YTD,2025-06-30,113,City Controller's Office,61,
-Aviation (1),General,0,0,2025,Actual,YTD,2025-06-30,0,Division of Aviation,43,Aviation
-Board of Ethics,General,10,0,2025,Actual,YTD,2025-06-30,10,Board of Ethics,45,
-Board of Pensions,General,0,0,2025,Actual,YTD,2025-06-30,0,Board of Pensions,53,Pensions
-Board of Revision of Taxes,General,17,0,2025,Actual,YTD,2025-06-30,17,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),General,159,0,2025,Actual,YTD,2025-06-30,159,City Commissioner's Office,73,City Commissioners
-City Council,General,198,0,2025,Actual,YTD,2025-06-30,198,City Council,01,
-City Representative,General,0,0,2025,Actual,YTD,2025-06-30,0,Office of the City Representative,41,City Rep
-City Treasurer,General,19,0,2025,Actual,YTD,2025-06-30,19,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,General,2,0,2025,Actual,YTD,2025-06-30,2,Civil Service Commission,55,
-Commerce,General,58,0,2025,Actual,YTD,2025-06-30,58,Office of the Director of Commerce,42,Commerce
-Finance,General,126,0,2025,Actual,YTD,2025-06-30,126,Office of the Director of Finance,35,Finance
-First Judicial District,General,1707,0,2025,Actual,YTD,2025-06-30,1707,First Judicial District,84,FJD
-Fleet Services,General,269,0,2025,Actual,YTD,2025-06-30,269,Office of Fleet Management,25,Fleet
-Free Library,General,814,0,2025,Actual,YTD,2025-06-30,814,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,General,34,0,2025,Actual,YTD,2025-06-30,34,Commission on Human Relations,54,Human Relations
-Human Services (2),General,441,0,2025,Actual,YTD,2025-06-30,441,Department of Human Services,22,DHS
-Labor,General,36,0,2025,Actual,YTD,2025-06-30,36,Labor,03,
-Law,General,223,0,2025,Actual,YTD,2025-06-30,223,Law Department,44,Law
-Licenses & Inspections,General,351,0,2025,Actual,YTD,2025-06-30,351,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,General,2,0,2025,Actual,YTD,2025-06-30,2,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,General,1,0,2025,Actual,YTD,2025-06-30,1,L&I: Board of Review,27,
-Managing Director's Office,General,475,0,2025,Actual,YTD,2025-06-30,475,Managing Director's Office,10,MDO
-Mayor's Office,General,93,0,2025,Actual,YTD,2025-06-30,93,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,General,13,0,2025,Actual,YTD,2025-06-30,13,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,General,10,0,2025,Actual,YTD,2025-06-30,10,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,General,0,0,2025,Actual,YTD,2025-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,General,44,0,2025,Actual,YTD,2025-06-30,44,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,General,69,0,2025,Actual,YTD,2025-06-30,69,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,General,3,0,2025,Actual,YTD,2025-06-30,3,Office of Children and Families,66,OCF
-Office of Homeless Services,General,129,0,2025,Actual,YTD,2025-06-30,129,Office of Homeless Services,24,OHS
-Office of Human Resources,General,91,0,2025,Actual,YTD,2025-06-30,91,Office of Human Resources,56,OHR
-Office of Innovation and Technology,General,369,0,2025,Actual,YTD,2025-06-30,369,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,General,18,0,2025,Actual,YTD,2025-06-30,18,Office of the Inspector General,48,OIG
-Office of Property Assessment,General,178,0,2025,Actual,YTD,2025-06-30,178,Office of Property Assessment,59,OPA
-Office of Sustainability,General,23,0,2025,Actual,YTD,2025-06-30,23,Office of Sustainability,49,Sustainability
-Parks and Recreation,General,680,0,2025,Actual,YTD,2025-06-30,680,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,General,78,0,2025,Actual,YTD,2025-06-30,78,Department of Planning and Development,72,Planning & Development
-Prisons,General,1266,0,2025,Actual,YTD,2025-06-30,1266,Philadelphia Prison System,23,Prisons
-Procurement,General,36,0,2025,Actual,YTD,2025-06-30,36,Procurement Department,38,Procurement
-Public Health,General,730,0,2025,Actual,YTD,2025-06-30,730,Department of Public Health,14,Public Health
-Public Property,General,125,0,2025,Actual,YTD,2025-06-30,125,Department of Public Property,20,Public Property
-Records,General,55,0,2025,Actual,YTD,2025-06-30,55,Department of Records,31,Records
-Register of Wills,General,64,0,2025,Actual,YTD,2025-06-30,64,Register of Wills,68,
-Revenue,General,341,0,2025,Actual,YTD,2025-06-30,341,Department of Revenue,36,Revenue
-Sheriff,General,318,0,2025,Actual,YTD,2025-06-30,318,Office of the Sheriff,70,Sheriff
-Streets,General,1495,0,2025,Actual,YTD,2025-06-30,1495,Streets Department,12,Streets
-Water,General,0,0,2025,Actual,YTD,2025-06-30,0,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",General,0,0,2025,Actual,YTD,2025-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
-Auditing (City Controller's Office),Other,0,0,2025,Actual,YTD,2025-06-30,0,City Controller's Office,61,
-Aviation (1),Other,679,0,2025,Actual,YTD,2025-06-30,679,Division of Aviation,43,Aviation
-Board of Ethics,Other,0,0,2025,Actual,YTD,2025-06-30,0,Board of Ethics,45,
-Board of Pensions,Other,59,0,2025,Actual,YTD,2025-06-30,59,Board of Pensions,53,Pensions
-Board of Revision of Taxes,Other,0,0,2025,Actual,YTD,2025-06-30,0,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),Other,0,0,2025,Actual,YTD,2025-06-30,0,City Commissioner's Office,73,City Commissioners
-City Council,Other,0,0,2025,Actual,YTD,2025-06-30,0,City Council,01,
-City Representative,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of the City Representative,41,City Rep
-City Treasurer,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,Other,0,0,2025,Actual,YTD,2025-06-30,0,Civil Service Commission,55,
-Commerce,Other,21,0,2025,Actual,YTD,2025-06-30,21,Office of the Director of Commerce,42,Commerce
-Finance,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of the Director of Finance,35,Finance
-First Judicial District,Other,382,0,2025,Actual,YTD,2025-06-30,382,First Judicial District,84,FJD
-Fleet Services,Other,62,0,2025,Actual,YTD,2025-06-30,62,Office of Fleet Management,25,Fleet
-Free Library,Other,7,0,2025,Actual,YTD,2025-06-30,7,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,Other,0,0,2025,Actual,YTD,2025-06-30,0,Commission on Human Relations,54,Human Relations
-Human Services (2),Other,1076,0,2025,Actual,YTD,2025-06-30,1076,Department of Human Services,22,DHS
-Labor,Other,0,0,2025,Actual,YTD,2025-06-30,0,Labor,03,
-Law,Other,48,0,2025,Actual,YTD,2025-06-30,48,Law Department,44,Law
-Licenses & Inspections,Other,7,0,2025,Actual,YTD,2025-06-30,7,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,Other,0,0,2025,Actual,YTD,2025-06-30,0,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,Other,0,0,2025,Actual,YTD,2025-06-30,0,L&I: Board of Review,27,
-Managing Director's Office,Other,93,0,2025,Actual,YTD,2025-06-30,93,Managing Director's Office,10,MDO
-Mayor's Office,Other,0,0,2025,Actual,YTD,2025-06-30,0,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,Other,37,0,2025,Actual,YTD,2025-06-30,37,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,Other,0,0,2025,Actual,YTD,2025-06-30,0,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,Other,0,0,2025,Actual,YTD,2025-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,Other,224,0,2025,Actual,YTD,2025-06-30,224,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of Children and Families,66,OCF
-Office of Homeless Services,Other,21,0,2025,Actual,YTD,2025-06-30,21,Office of Homeless Services,24,OHS
-Office of Human Resources,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of Human Resources,56,OHR
-Office of Innovation and Technology,Other,108,0,2025,Actual,YTD,2025-06-30,108,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of the Inspector General,48,OIG
-Office of Property Assessment,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of Property Assessment,59,OPA
-Office of Sustainability,Other,2,0,2025,Actual,YTD,2025-06-30,2,Office of Sustainability,49,Sustainability
-Parks and Recreation,Other,18,0,2025,Actual,YTD,2025-06-30,18,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,Other,66,0,2025,Actual,YTD,2025-06-30,66,Department of Planning and Development,72,Planning & Development
-Prisons,Other,0,0,2025,Actual,YTD,2025-06-30,0,Philadelphia Prison System,23,Prisons
-Procurement,Other,0,0,2025,Actual,YTD,2025-06-30,0,Procurement Department,38,Procurement
-Public Health,Other,184,0,2025,Actual,YTD,2025-06-30,184,Department of Public Health,14,Public Health
-Public Property,Other,0,0,2025,Actual,YTD,2025-06-30,0,Department of Public Property,20,Public Property
-Records,Other,0,0,2025,Actual,YTD,2025-06-30,0,Department of Records,31,Records
-Register of Wills,Other,0,0,2025,Actual,YTD,2025-06-30,0,Register of Wills,68,
-Revenue,Other,186,0,2025,Actual,YTD,2025-06-30,186,Department of Revenue,36,Revenue
-Sheriff,Other,0,0,2025,Actual,YTD,2025-06-30,0,Office of the Sheriff,70,Sheriff
-Streets,Other,657,0,2025,Actual,YTD,2025-06-30,657,Streets Department,12,Streets
-Water,Other,2022,0,2025,Actual,YTD,2025-06-30,2022,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",Other,0,0,2025,Actual,YTD,2025-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
-Auditing (City Controller's Office),Total,113,0,2025,Actual,YTD,2025-06-30,113,City Controller's Office,61,
-Aviation (1),Total,679,0,2025,Actual,YTD,2025-06-30,679,Division of Aviation,43,Aviation
-Board of Ethics,Total,10,0,2025,Actual,YTD,2025-06-30,10,Board of Ethics,45,
-Board of Pensions,Total,59,0,2025,Actual,YTD,2025-06-30,59,Board of Pensions,53,Pensions
-Board of Revision of Taxes,Total,17,0,2025,Actual,YTD,2025-06-30,17,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),Total,159,0,2025,Actual,YTD,2025-06-30,159,City Commissioner's Office,73,City Commissioners
-City Council,Total,198,0,2025,Actual,YTD,2025-06-30,198,City Council,01,
-City Representative,Total,0,0,2025,Actual,YTD,2025-06-30,0,Office of the City Representative,41,City Rep
-City Treasurer,Total,19,0,2025,Actual,YTD,2025-06-30,19,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,Total,2,0,2025,Actual,YTD,2025-06-30,2,Civil Service Commission,55,
-Commerce,Total,79,0,2025,Actual,YTD,2025-06-30,79,Office of the Director of Commerce,42,Commerce
-Finance,Total,126,0,2025,Actual,YTD,2025-06-30,126,Office of the Director of Finance,35,Finance
-First Judicial District,Total,2089,0,2025,Actual,YTD,2025-06-30,2089,First Judicial District,84,FJD
-Fleet Services,Total,331,0,2025,Actual,YTD,2025-06-30,331,Office of Fleet Management,25,Fleet
-Free Library,Total,821,0,2025,Actual,YTD,2025-06-30,821,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,Total,34,0,2025,Actual,YTD,2025-06-30,34,Commission on Human Relations,54,Human Relations
-Human Services (2),Total,1517,0,2025,Actual,YTD,2025-06-30,1517,Department of Human Services,22,DHS
-Labor,Total,36,0,2025,Actual,YTD,2025-06-30,36,Labor,03,
-Law,Total,271,0,2025,Actual,YTD,2025-06-30,271,Law Department,44,Law
-Licenses & Inspections,Total,358,0,2025,Actual,YTD,2025-06-30,358,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,Total,2,0,2025,Actual,YTD,2025-06-30,2,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,Total,1,0,2025,Actual,YTD,2025-06-30,1,L&I: Board of Review,27,
-Managing Director's Office,Total,568,0,2025,Actual,YTD,2025-06-30,568,Managing Director's Office,10,MDO
-Mayor's Office,Total,93,0,2025,Actual,YTD,2025-06-30,93,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,Total,50,0,2025,Actual,YTD,2025-06-30,50,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,Total,10,0,2025,Actual,YTD,2025-06-30,10,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,Total,0,0,2025,Actual,YTD,2025-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,Total,268,0,2025,Actual,YTD,2025-06-30,268,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,Total,69,0,2025,Actual,YTD,2025-06-30,69,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,Total,3,0,2025,Actual,YTD,2025-06-30,3,Office of Children and Families,66,OCF
-Office of Homeless Services,Total,150,0,2025,Actual,YTD,2025-06-30,150,Office of Homeless Services,24,OHS
-Office of Human Resources,Total,91,0,2025,Actual,YTD,2025-06-30,91,Office of Human Resources,56,OHR
-Office of Innovation and Technology,Total,477,0,2025,Actual,YTD,2025-06-30,477,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,Total,18,0,2025,Actual,YTD,2025-06-30,18,Office of the Inspector General,48,OIG
-Office of Property Assessment,Total,178,0,2025,Actual,YTD,2025-06-30,178,Office of Property Assessment,59,OPA
-Office of Sustainability,Total,25,0,2025,Actual,YTD,2025-06-30,25,Office of Sustainability,49,Sustainability
-Parks and Recreation,Total,698,0,2025,Actual,YTD,2025-06-30,698,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,Total,144,0,2025,Actual,YTD,2025-06-30,144,Department of Planning and Development,72,Planning & Development
-Prisons,Total,1266,0,2025,Actual,YTD,2025-06-30,1266,Philadelphia Prison System,23,Prisons
-Procurement,Total,36,0,2025,Actual,YTD,2025-06-30,36,Procurement Department,38,Procurement
-Public Health,Total,914,0,2025,Actual,YTD,2025-06-30,914,Department of Public Health,14,Public Health
-Public Property,Total,125,0,2025,Actual,YTD,2025-06-30,125,Department of Public Property,20,Public Property
-Records,Total,55,0,2025,Actual,YTD,2025-06-30,55,Department of Records,31,Records
-Register of Wills,Total,64,0,2025,Actual,YTD,2025-06-30,64,Register of Wills,68,
-Revenue,Total,527,0,2025,Actual,YTD,2025-06-30,527,Department of Revenue,36,Revenue
-Sheriff,Total,318,0,2025,Actual,YTD,2025-06-30,318,Office of the Sheriff,70,Sheriff
-Streets,Total,2152,0,2025,Actual,YTD,2025-06-30,2152,Streets Department,12,Streets
-Water,Total,2022,0,2025,Actual,YTD,2025-06-30,2022,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",Total,0,0,2025,Actual,YTD,2025-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
-Police,General,866,5338,2025,Actual,YTD,2025-06-30,6204,Police Department,11,Police
-Police,Other,6,103,2025,Actual,YTD,2025-06-30,109,Police Department,11,Police
-Police,Total,872,5441,2025,Actual,YTD,2025-06-30,6313,Police Department,11,Police
-Fire,General,135,2680,2025,Actual,YTD,2025-06-30,2815,Fire Department,13,Fire
-Fire,Other,1,71,2025,Actual,YTD,2025-06-30,72,Fire Department,13,Fire
-Fire,Total,136,2751,2025,Actual,YTD,2025-06-30,2887,Fire Department,13,Fire
-District Attorney,General,530,33,2025,Actual,YTD,2025-06-30,563,District Attorney's Office,69,DAO
-District Attorney,Other,109,5,2025,Actual,YTD,2025-06-30,114,District Attorney's Office,69,DAO
-District Attorney,Total,639,38,2025,Actual,YTD,2025-06-30,677,District Attorney's Office,69,DAO
-Auditing (City Controller's Office),General,110,0,2024,Actual,Full Year,2024-06-30,110,City Controller's Office,61,
-Aviation (1),General,0,0,2024,Actual,Full Year,2024-06-30,0,Division of Aviation,43,Aviation
-Board of Ethics,General,10,0,2024,Actual,Full Year,2024-06-30,10,Board of Ethics,45,
-Board of Pensions,General,0,0,2024,Actual,Full Year,2024-06-30,0,Board of Pensions,53,Pensions
-Board of Revision of Taxes,General,15,0,2024,Actual,Full Year,2024-06-30,15,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),General,146,0,2024,Actual,Full Year,2024-06-30,146,City Commissioner's Office,73,City Commissioners
-City Council,General,164,0,2024,Actual,Full Year,2024-06-30,164,City Council,01,
-City Representative,General,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the City Representative,41,City Rep
-City Treasurer,General,20,0,2024,Actual,Full Year,2024-06-30,20,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,General,2,0,2024,Actual,Full Year,2024-06-30,2,Civil Service Commission,55,
-Commerce,General,53,0,2024,Actual,Full Year,2024-06-30,53,Office of the Director of Commerce,42,Commerce
-Finance,General,121,0,2024,Actual,Full Year,2024-06-30,121,Office of the Director of Finance,35,Finance
-First Judicial District,General,1685,0,2024,Actual,Full Year,2024-06-30,1685,First Judicial District,84,FJD
-Fleet Services,General,266,0,2024,Actual,Full Year,2024-06-30,266,Office of Fleet Management,25,Fleet
-Free Library,General,764,0,2024,Actual,Full Year,2024-06-30,764,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,General,30,0,2024,Actual,Full Year,2024-06-30,30,Commission on Human Relations,54,Human Relations
-Human Services (2),General,535,0,2024,Actual,Full Year,2024-06-30,535,Department of Human Services,22,DHS
-Labor,General,34,0,2024,Actual,Full Year,2024-06-30,34,Labor,03,
-Law,General,193,0,2024,Actual,Full Year,2024-06-30,193,Law Department,44,Law
-Licenses & Inspections,General,329,0,2024,Actual,Full Year,2024-06-30,329,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,General,1,0,2024,Actual,Full Year,2024-06-30,1,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,General,2,0,2024,Actual,Full Year,2024-06-30,2,L&I: Board of Review,27,
-Managing Director's Office,General,387,0,2024,Actual,Full Year,2024-06-30,387,Managing Director's Office,10,MDO
-Mayor's Office,General,53,0,2024,Actual,Full Year,2024-06-30,53,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,General,0,0,2024,Actual,Full Year,2024-06-30,0,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,General,9,0,2024,Actual,Full Year,2024-06-30,9,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,General,0,0,2024,Actual,Full Year,2024-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,General,44,0,2024,Actual,Full Year,2024-06-30,44,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,General,73,0,2024,Actual,Full Year,2024-06-30,73,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,General,5,0,2024,Actual,Full Year,2024-06-30,5,Office of Children and Families,66,OCF
-Office of Homeless Services,General,113,0,2024,Actual,Full Year,2024-06-30,113,Office of Homeless Services,24,OHS
-Office of Human Resources,General,82,0,2024,Actual,Full Year,2024-06-30,82,Office of Human Resources,56,OHR
-Office of Innovation and Technology,General,349,0,2024,Actual,Full Year,2024-06-30,349,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,General,18,0,2024,Actual,Full Year,2024-06-30,18,Office of the Inspector General,48,OIG
-Office of Property Assessment,General,182,0,2024,Actual,Full Year,2024-06-30,182,Office of Property Assessment,59,OPA
-Office of Sustainability,General,18,0,2024,Actual,Full Year,2024-06-30,18,Office of Sustainability,49,Sustainability
-Parks and Recreation,General,678,0,2024,Actual,Full Year,2024-06-30,678,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,General,66,0,2024,Actual,Full Year,2024-06-30,66,Department of Planning and Development,72,Planning & Development
-Prisons,General,1312,0,2024,Actual,Full Year,2024-06-30,1312,Philadelphia Prison System,23,Prisons
-Procurement,General,36,0,2024,Actual,Full Year,2024-06-30,36,Procurement Department,38,Procurement
-Public Health,General,690,0,2024,Actual,Full Year,2024-06-30,690,Department of Public Health,14,Public Health
-Public Property,General,119,0,2024,Actual,Full Year,2024-06-30,119,Department of Public Property,20,Public Property
-Records,General,53,0,2024,Actual,Full Year,2024-06-30,53,Department of Records,31,Records
-Register of Wills,General,63,0,2024,Actual,Full Year,2024-06-30,63,Register of Wills,68,
-Revenue,General,327,0,2024,Actual,Full Year,2024-06-30,327,Department of Revenue,36,Revenue
-Sheriff,General,328,0,2024,Actual,Full Year,2024-06-30,328,Office of the Sheriff,70,Sheriff
-Streets,General,2068,0,2024,Actual,Full Year,2024-06-30,2068,Streets Department,12,Streets
-Water,General,0,0,2024,Actual,Full Year,2024-06-30,0,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",General,0,0,2024,Actual,Full Year,2024-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
-Auditing (City Controller's Office),Other,0,0,2024,Actual,Full Year,2024-06-30,0,City Controller's Office,61,
-Aviation (1),Other,0,0,2024,Actual,Full Year,2024-06-30,0,Division of Aviation,43,Aviation
-Board of Ethics,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Board of Ethics,45,
-Board of Pensions,Other,57,0,2024,Actual,Full Year,2024-06-30,57,Board of Pensions,53,Pensions
-Board of Revision of Taxes,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),Other,0,0,2024,Actual,Full Year,2024-06-30,0,City Commissioner's Office,73,City Commissioners
-City Council,Other,0,0,2024,Actual,Full Year,2024-06-30,0,City Council,01,
-City Representative,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the City Representative,41,City Rep
-City Treasurer,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Civil Service Commission,55,
-Commerce,Other,637,0,2024,Actual,Full Year,2024-06-30,637,Office of the Director of Commerce,42,Commerce
-Finance,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the Director of Finance,35,Finance
-First Judicial District,Other,404,0,2024,Actual,Full Year,2024-06-30,404,First Judicial District,84,FJD
-Fleet Services,Other,61,0,2024,Actual,Full Year,2024-06-30,61,Office of Fleet Management,25,Fleet
-Free Library,Other,6,0,2024,Actual,Full Year,2024-06-30,6,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Commission on Human Relations,54,Human Relations
-Human Services (2),Other,893,0,2024,Actual,Full Year,2024-06-30,893,Department of Human Services,22,DHS
-Labor,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Labor,03,
-Law,Other,46,0,2024,Actual,Full Year,2024-06-30,46,Law Department,44,Law
-Licenses & Inspections,Other,8,0,2024,Actual,Full Year,2024-06-30,8,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,Other,0,0,2024,Actual,Full Year,2024-06-30,0,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,Other,0,0,2024,Actual,Full Year,2024-06-30,0,L&I: Board of Review,27,
-Managing Director's Office,Other,103,0,2024,Actual,Full Year,2024-06-30,103,Managing Director's Office,10,MDO
-Mayor's Office,Other,5,0,2024,Actual,Full Year,2024-06-30,5,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,Other,28,0,2024,Actual,Full Year,2024-06-30,28,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,Other,0,0,2024,Actual,Full Year,2024-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,Other,222,0,2024,Actual,Full Year,2024-06-30,222,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of Children and Families,66,OCF
-Office of Homeless Services,Other,16,0,2024,Actual,Full Year,2024-06-30,16,Office of Homeless Services,24,OHS
-Office of Human Resources,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of Human Resources,56,OHR
-Office of Innovation and Technology,Other,106,0,2024,Actual,Full Year,2024-06-30,106,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the Inspector General,48,OIG
-Office of Property Assessment,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of Property Assessment,59,OPA
-Office of Sustainability,Other,2,0,2024,Actual,Full Year,2024-06-30,2,Office of Sustainability,49,Sustainability
-Parks and Recreation,Other,25,0,2024,Actual,Full Year,2024-06-30,25,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,Other,62,0,2024,Actual,Full Year,2024-06-30,62,Department of Planning and Development,72,Planning & Development
-Prisons,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Philadelphia Prison System,23,Prisons
-Procurement,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Procurement Department,38,Procurement
-Public Health,Other,168,0,2024,Actual,Full Year,2024-06-30,168,Department of Public Health,14,Public Health
-Public Property,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Department of Public Property,20,Public Property
-Records,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Department of Records,31,Records
-Register of Wills,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Register of Wills,68,
-Revenue,Other,170,0,2024,Actual,Full Year,2024-06-30,170,Department of Revenue,36,Revenue
-Sheriff,Other,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the Sheriff,70,Sheriff
-Streets,Other,2,0,2024,Actual,Full Year,2024-06-30,2,Streets Department,12,Streets
-Water,Other,1991,0,2024,Actual,Full Year,2024-06-30,1991,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",Other,0,0,2024,Actual,Full Year,2024-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
-Auditing (City Controller's Office),Total,110,0,2024,Actual,Full Year,2024-06-30,110,City Controller's Office,61,
-Aviation (1),Total,0,0,2024,Actual,Full Year,2024-06-30,0,Division of Aviation,43,Aviation
-Board of Ethics,Total,10,0,2024,Actual,Full Year,2024-06-30,10,Board of Ethics,45,
-Board of Pensions,Total,57,0,2024,Actual,Full Year,2024-06-30,57,Board of Pensions,53,Pensions
-Board of Revision of Taxes,Total,15,0,2024,Actual,Full Year,2024-06-30,15,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),Total,146,0,2024,Actual,Full Year,2024-06-30,146,City Commissioner's Office,73,City Commissioners
-City Council,Total,164,0,2024,Actual,Full Year,2024-06-30,164,City Council,01,
-City Representative,Total,0,0,2024,Actual,Full Year,2024-06-30,0,Office of the City Representative,41,City Rep
-City Treasurer,Total,20,0,2024,Actual,Full Year,2024-06-30,20,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,Total,2,0,2024,Actual,Full Year,2024-06-30,2,Civil Service Commission,55,
-Commerce,Total,690,0,2024,Actual,Full Year,2024-06-30,690,Office of the Director of Commerce,42,Commerce
-Finance,Total,121,0,2024,Actual,Full Year,2024-06-30,121,Office of the Director of Finance,35,Finance
-First Judicial District,Total,2089,0,2024,Actual,Full Year,2024-06-30,2089,First Judicial District,84,FJD
-Fleet Services,Total,327,0,2024,Actual,Full Year,2024-06-30,327,Office of Fleet Management,25,Fleet
-Free Library,Total,770,0,2024,Actual,Full Year,2024-06-30,770,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,Total,30,0,2024,Actual,Full Year,2024-06-30,30,Commission on Human Relations,54,Human Relations
-Human Services (2),Total,1428,0,2024,Actual,Full Year,2024-06-30,1428,Department of Human Services,22,DHS
-Labor,Total,34,0,2024,Actual,Full Year,2024-06-30,34,Labor,03,
-Law,Total,239,0,2024,Actual,Full Year,2024-06-30,239,Law Department,44,Law
-Licenses & Inspections,Total,337,0,2024,Actual,Full Year,2024-06-30,337,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,Total,1,0,2024,Actual,Full Year,2024-06-30,1,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,Total,2,0,2024,Actual,Full Year,2024-06-30,2,L&I: Board of Review,27,
-Managing Director's Office,Total,490,0,2024,Actual,Full Year,2024-06-30,490,Managing Director's Office,10,MDO
-Mayor's Office,Total,58,0,2024,Actual,Full Year,2024-06-30,58,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,Total,28,0,2024,Actual,Full Year,2024-06-30,28,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,Total,9,0,2024,Actual,Full Year,2024-06-30,9,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,Total,0,0,2024,Actual,Full Year,2024-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,Total,266,0,2024,Actual,Full Year,2024-06-30,266,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,Total,73,0,2024,Actual,Full Year,2024-06-30,73,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,Total,5,0,2024,Actual,Full Year,2024-06-30,5,Office of Children and Families,66,OCF
-Office of Homeless Services,Total,129,0,2024,Actual,Full Year,2024-06-30,129,Office of Homeless Services,24,OHS
-Office of Human Resources,Total,82,0,2024,Actual,Full Year,2024-06-30,82,Office of Human Resources,56,OHR
-Office of Innovation and Technology,Total,455,0,2024,Actual,Full Year,2024-06-30,455,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,Total,18,0,2024,Actual,Full Year,2024-06-30,18,Office of the Inspector General,48,OIG
-Office of Property Assessment,Total,182,0,2024,Actual,Full Year,2024-06-30,182,Office of Property Assessment,59,OPA
-Office of Sustainability,Total,20,0,2024,Actual,Full Year,2024-06-30,20,Office of Sustainability,49,Sustainability
-Parks and Recreation,Total,703,0,2024,Actual,Full Year,2024-06-30,703,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,Total,128,0,2024,Actual,Full Year,2024-06-30,128,Department of Planning and Development,72,Planning & Development
-Prisons,Total,1312,0,2024,Actual,Full Year,2024-06-30,1312,Philadelphia Prison System,23,Prisons
-Procurement,Total,36,0,2024,Actual,Full Year,2024-06-30,36,Procurement Department,38,Procurement
-Public Health,Total,858,0,2024,Actual,Full Year,2024-06-30,858,Department of Public Health,14,Public Health
-Public Property,Total,119,0,2024,Actual,Full Year,2024-06-30,119,Department of Public Property,20,Public Property
-Records,Total,53,0,2024,Actual,Full Year,2024-06-30,53,Department of Records,31,Records
-Register of Wills,Total,63,0,2024,Actual,Full Year,2024-06-30,63,Register of Wills,68,
-Revenue,Total,497,0,2024,Actual,Full Year,2024-06-30,497,Department of Revenue,36,Revenue
-Sheriff,Total,328,0,2024,Actual,Full Year,2024-06-30,328,Office of the Sheriff,70,Sheriff
-Streets,Total,2070,0,2024,Actual,Full Year,2024-06-30,2070,Streets Department,12,Streets
-Water,Total,1991,0,2024,Actual,Full Year,2024-06-30,1991,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",Total,0,0,2024,Actual,Full Year,2024-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
-Police,General,801,5550,2024,Actual,Full Year,2024-06-30,6351,Police Department,11,Police
-Police,Other,7,117,2024,Actual,Full Year,2024-06-30,124,Police Department,11,Police
-Police,Total,808,5667,2024,Actual,Full Year,2024-06-30,6475,Police Department,11,Police
-Fire,General,133,2661,2024,Actual,Full Year,2024-06-30,2794,Fire Department,13,Fire
-Fire,Other,10,67,2024,Actual,Full Year,2024-06-30,77,Fire Department,13,Fire
-Fire,Total,143,2728,2024,Actual,Full Year,2024-06-30,2871,Fire Department,13,Fire
-District Attorney,General,541,32,2024,Actual,Full Year,2024-06-30,573,District Attorney's Office,69,DAO
-District Attorney,Other,103,5,2024,Actual,Full Year,2024-06-30,108,District Attorney's Office,69,DAO
-District Attorney,Total,644,37,2024,Actual,Full Year,2024-06-30,681,District Attorney's Office,69,DAO
-Auditing (City Controller's Office),General,135,0,2025,Adopted Budget,Full Year,,135,City Controller's Office,61,
-Aviation (1),General,0,0,2025,Adopted Budget,Full Year,,0,Division of Aviation,43,Aviation
-Board of Ethics,General,14,0,2025,Adopted Budget,Full Year,,14,Board of Ethics,45,
-Board of Pensions,General,0,0,2025,Adopted Budget,Full Year,,0,Board of Pensions,53,Pensions
-Board of Revision of Taxes,General,16,0,2025,Adopted Budget,Full Year,,16,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),General,187,0,2025,Adopted Budget,Full Year,,187,City Commissioner's Office,73,City Commissioners
-City Council,General,185,0,2025,Adopted Budget,Full Year,,185,City Council,01,
-City Representative,General,0,0,2025,Adopted Budget,Full Year,,0,Office of the City Representative,41,City Rep
-City Treasurer,General,22,0,2025,Adopted Budget,Full Year,,22,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,General,2,0,2025,Adopted Budget,Full Year,,2,Civil Service Commission,55,
-Commerce,General,80,0,2025,Adopted Budget,Full Year,,80,Office of the Director of Commerce,42,Commerce
-Finance,General,139,0,2025,Adopted Budget,Full Year,,139,Office of the Director of Finance,35,Finance
-First Judicial District,General,1720,0,2025,Adopted Budget,Full Year,,1720,First Judicial District,84,FJD
-Fleet Services,General,319,0,2025,Adopted Budget,Full Year,,319,Office of Fleet Management,25,Fleet
-Free Library,General,1009,0,2025,Adopted Budget,Full Year,,1009,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,General,34,0,2025,Adopted Budget,Full Year,,34,Commission on Human Relations,54,Human Relations
-Human Services (2),General,538,0,2025,Adopted Budget,Full Year,,538,Department of Human Services,22,DHS
-Labor,General,52,0,2025,Adopted Budget,Full Year,,52,Labor,03,
-Law,General,205,0,2025,Adopted Budget,Full Year,,205,Law Department,44,Law
-Licenses & Inspections,General,430,0,2025,Adopted Budget,Full Year,,430,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,General,1,0,2025,Adopted Budget,Full Year,,1,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,General,2,0,2025,Adopted Budget,Full Year,,2,L&I: Board of Review,27,
-Managing Director's Office,General,501,0,2025,Adopted Budget,Full Year,,501,Managing Director's Office,10,MDO
-Mayor's Office,General,45,0,2025,Adopted Budget,Full Year,,45,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,General,20,0,2025,Adopted Budget,Full Year,,20,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,General,10,0,2025,Adopted Budget,Full Year,,10,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,General,0,0,2025,Adopted Budget,Full Year,,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,General,53,0,2025,Adopted Budget,Full Year,,53,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,General,76,0,2025,Adopted Budget,Full Year,,76,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,General,3,0,2025,Adopted Budget,Full Year,,3,Office of Children and Families,66,OCF
-Office of Homeless Services,General,149,0,2025,Adopted Budget,Full Year,,149,Office of Homeless Services,24,OHS
-Office of Human Resources,General,96,0,2025,Adopted Budget,Full Year,,96,Office of Human Resources,56,OHR
-Office of Innovation and Technology,General,398,0,2025,Adopted Budget,Full Year,,398,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,General,26,0,2025,Adopted Budget,Full Year,,26,Office of the Inspector General,48,OIG
-Office of Property Assessment,General,226,0,2025,Adopted Budget,Full Year,,226,Office of Property Assessment,59,OPA
-Office of Sustainability,General,23,0,2025,Adopted Budget,Full Year,,23,Office of Sustainability,49,Sustainability
-Parks and Recreation,General,945,0,2025,Adopted Budget,Full Year,,945,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,General,83,0,2025,Adopted Budget,Full Year,,83,Department of Planning and Development,72,Planning & Development
-Prisons,General,2186,0,2025,Adopted Budget,Full Year,,2186,Philadelphia Prison System,23,Prisons
-Procurement,General,54,0,2025,Adopted Budget,Full Year,,54,Procurement Department,38,Procurement
-Public Health,General,864,0,2025,Adopted Budget,Full Year,,864,Department of Public Health,14,Public Health
-Public Property,General,176,0,2025,Adopted Budget,Full Year,,176,Department of Public Property,20,Public Property
-Records,General,60,0,2025,Adopted Budget,Full Year,,60,Department of Records,31,Records
-Register of Wills,General,73,0,2025,Adopted Budget,Full Year,,73,Register of Wills,68,
-Revenue,General,401,0,2025,Adopted Budget,Full Year,,401,Department of Revenue,36,Revenue
-Sheriff,General,459,0,2025,Adopted Budget,Full Year,,459,Office of the Sheriff,70,Sheriff
-Streets,General,1688,0,2025,Adopted Budget,Full Year,,1688,Streets Department,12,Streets
-Water,General,0,0,2025,Adopted Budget,Full Year,,0,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",General,0,0,2025,Adopted Budget,Full Year,,0,"Water, Sewer, and Stormwater Rate Board",67,
-Auditing (City Controller's Office),Other,0,0,2025,Adopted Budget,Full Year,,0,City Controller's Office,61,
-Aviation (1),Other,840,0,2025,Adopted Budget,Full Year,,840,Division of Aviation,43,Aviation
-Board of Ethics,Other,0,0,2025,Adopted Budget,Full Year,,0,Board of Ethics,45,
-Board of Pensions,Other,73,0,2025,Adopted Budget,Full Year,,73,Board of Pensions,53,Pensions
-Board of Revision of Taxes,Other,0,0,2025,Adopted Budget,Full Year,,0,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),Other,0,0,2025,Adopted Budget,Full Year,,0,City Commissioner's Office,73,City Commissioners
-City Council,Other,0,0,2025,Adopted Budget,Full Year,,0,City Council,01,
-City Representative,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of the City Representative,41,City Rep
-City Treasurer,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,Other,0,0,2025,Adopted Budget,Full Year,,0,Civil Service Commission,55,
-Commerce,Other,22,0,2025,Adopted Budget,Full Year,,22,Office of the Director of Commerce,42,Commerce
-Finance,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of the Director of Finance,35,Finance
-First Judicial District,Other,457,0,2025,Adopted Budget,Full Year,,457,First Judicial District,84,FJD
-Fleet Services,Other,84,0,2025,Adopted Budget,Full Year,,84,Office of Fleet Management,25,Fleet
-Free Library,Other,14,0,2025,Adopted Budget,Full Year,,14,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,Other,0,0,2025,Adopted Budget,Full Year,,0,Commission on Human Relations,54,Human Relations
-Human Services (2),Other,1351,0,2025,Adopted Budget,Full Year,,1351,Department of Human Services,22,DHS
-Labor,Other,0,0,2025,Adopted Budget,Full Year,,0,Labor,03,
-Law,Other,55,0,2025,Adopted Budget,Full Year,,55,Law Department,44,Law
-Licenses & Inspections,Other,8,0,2025,Adopted Budget,Full Year,,8,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,Other,0,0,2025,Adopted Budget,Full Year,,0,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,Other,0,0,2025,Adopted Budget,Full Year,,0,L&I: Board of Review,27,
-Managing Director's Office,Other,98,0,2025,Adopted Budget,Full Year,,98,Managing Director's Office,10,MDO
-Mayor's Office,Other,0,0,2025,Adopted Budget,Full Year,,0,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,Other,47,0,2025,Adopted Budget,Full Year,,47,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,Other,0,0,2025,Adopted Budget,Full Year,,0,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,Other,0,0,2025,Adopted Budget,Full Year,,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,Other,280,0,2025,Adopted Budget,Full Year,,280,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of Children and Families,66,OCF
-Office of Homeless Services,Other,40,0,2025,Adopted Budget,Full Year,,40,Office of Homeless Services,24,OHS
-Office of Human Resources,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of Human Resources,56,OHR
-Office of Innovation and Technology,Other,159,0,2025,Adopted Budget,Full Year,,159,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of the Inspector General,48,OIG
-Office of Property Assessment,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of Property Assessment,59,OPA
-Office of Sustainability,Other,1,0,2025,Adopted Budget,Full Year,,1,Office of Sustainability,49,Sustainability
-Parks and Recreation,Other,32,0,2025,Adopted Budget,Full Year,,32,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,Other,67,0,2025,Adopted Budget,Full Year,,67,Department of Planning and Development,72,Planning & Development
-Prisons,Other,0,0,2025,Adopted Budget,Full Year,,0,Philadelphia Prison System,23,Prisons
-Procurement,Other,2,0,2025,Adopted Budget,Full Year,,2,Procurement Department,38,Procurement
-Public Health,Other,217,0,2025,Adopted Budget,Full Year,,217,Department of Public Health,14,Public Health
-Public Property,Other,0,0,2025,Adopted Budget,Full Year,,0,Department of Public Property,20,Public Property
-Records,Other,0,0,2025,Adopted Budget,Full Year,,0,Department of Records,31,Records
-Register of Wills,Other,0,0,2025,Adopted Budget,Full Year,,0,Register of Wills,68,
-Revenue,Other,221,0,2025,Adopted Budget,Full Year,,221,Department of Revenue,36,Revenue
-Sheriff,Other,0,0,2025,Adopted Budget,Full Year,,0,Office of the Sheriff,70,Sheriff
-Streets,Other,809,0,2025,Adopted Budget,Full Year,,809,Streets Department,12,Streets
-Water,Other,2505,0,2025,Adopted Budget,Full Year,,2505,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",Other,1,0,2025,Adopted Budget,Full Year,,1,"Water, Sewer, and Stormwater Rate Board",67,
-Auditing (City Controller's Office),Total,135,0,2025,Adopted Budget,Full Year,,135,City Controller's Office,61,
-Aviation (1),Total,840,0,2025,Adopted Budget,Full Year,,840,Division of Aviation,43,Aviation
-Board of Ethics,Total,14,0,2025,Adopted Budget,Full Year,,14,Board of Ethics,45,
-Board of Pensions,Total,73,0,2025,Adopted Budget,Full Year,,73,Board of Pensions,53,Pensions
-Board of Revision of Taxes,Total,16,0,2025,Adopted Budget,Full Year,,16,Board of Revision of Taxes,63,BRT
-City Commissioners (Election Board),Total,187,0,2025,Adopted Budget,Full Year,,187,City Commissioner's Office,73,City Commissioners
-City Council,Total,185,0,2025,Adopted Budget,Full Year,,185,City Council,01,
-City Representative,Total,0,0,2025,Adopted Budget,Full Year,,0,Office of the City Representative,41,City Rep
-City Treasurer,Total,22,0,2025,Adopted Budget,Full Year,,22,Office of the City Treasurer,40,City Treasurer
-Civil Service Commission,Total,2,0,2025,Adopted Budget,Full Year,,2,Civil Service Commission,55,
-Commerce,Total,102,0,2025,Adopted Budget,Full Year,,102,Office of the Director of Commerce,42,Commerce
-Finance,Total,139,0,2025,Adopted Budget,Full Year,,139,Office of the Director of Finance,35,Finance
-First Judicial District,Total,2177,0,2025,Adopted Budget,Full Year,,2177,First Judicial District,84,FJD
-Fleet Services,Total,403,0,2025,Adopted Budget,Full Year,,403,Office of Fleet Management,25,Fleet
-Free Library,Total,1023,0,2025,Adopted Budget,Full Year,,1023,The Free Library of Philadelphia,52,Free Library
-Human Relations Commission,Total,34,0,2025,Adopted Budget,Full Year,,34,Commission on Human Relations,54,Human Relations
-Human Services (2),Total,1889,0,2025,Adopted Budget,Full Year,,1889,Department of Human Services,22,DHS
-Labor,Total,52,0,2025,Adopted Budget,Full Year,,52,Labor,03,
-Law,Total,260,0,2025,Adopted Budget,Full Year,,260,Law Department,44,Law
-Licenses & Inspections,Total,438,0,2025,Adopted Budget,Full Year,,438,Department of Licenses and Inspections,26,L&I
-L&I-Board of Building Standards,Total,1,0,2025,Adopted Budget,Full Year,,1,L&I: Board of Building and Standards,29,
-L&I-Board of L & | Review,Total,2,0,2025,Adopted Budget,Full Year,,2,L&I: Board of Review,27,
-Managing Director's Office,Total,599,0,2025,Adopted Budget,Full Year,,599,Managing Director's Office,10,MDO
-Mayor's Office,Total,45,0,2025,Adopted Budget,Full Year,,45,Mayor's Office,05,Mayor
-Mayor's Office-Comm. Empowerment & Opp.,Total,67,0,2025,Adopted Budget,Full Year,,67,Mayor's Office of Community Empowerment and Opportunity,08,CEO
-Mural Arts Program,Total,10,0,2025,Adopted Budget,Full Year,,10,Mural Arts Program,50,Mural Arts
-Office of Arts and Culture,Total,0,0,2025,Adopted Budget,Full Year,,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
-Office of Behavioral HIth & Intellectual disAbility,Total,333,0,2025,Adopted Budget,Full Year,,333,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
-Office of the Chief Administrative Officer,Total,76,0,2025,Adopted Budget,Full Year,,76,Office of the Chief Administrative Officer,65,CAO
-Office of Children and Families,Total,3,0,2025,Adopted Budget,Full Year,,3,Office of Children and Families,66,OCF
-Office of Homeless Services,Total,189,0,2025,Adopted Budget,Full Year,,189,Office of Homeless Services,24,OHS
-Office of Human Resources,Total,96,0,2025,Adopted Budget,Full Year,,96,Office of Human Resources,56,OHR
-Office of Innovation and Technology,Total,557,0,2025,Adopted Budget,Full Year,,557,Office of Innovation and Technology,04,OIT
-Office of the Inspector General,Total,26,0,2025,Adopted Budget,Full Year,,26,Office of the Inspector General,48,OIG
-Office of Property Assessment,Total,226,0,2025,Adopted Budget,Full Year,,226,Office of Property Assessment,59,OPA
-Office of Sustainability,Total,24,0,2025,Adopted Budget,Full Year,,24,Office of Sustainability,49,Sustainability
-Parks and Recreation,Total,977,0,2025,Adopted Budget,Full Year,,977,Department of Parks and Recreation,16,Parks & Recreation
-Planning & Development,Total,150,0,2025,Adopted Budget,Full Year,,150,Department of Planning and Development,72,Planning & Development
-Prisons,Total,2186,0,2025,Adopted Budget,Full Year,,2186,Philadelphia Prison System,23,Prisons
-Procurement,Total,56,0,2025,Adopted Budget,Full Year,,56,Procurement Department,38,Procurement
-Public Health,Total,1081,0,2025,Adopted Budget,Full Year,,1081,Department of Public Health,14,Public Health
-Public Property,Total,176,0,2025,Adopted Budget,Full Year,,176,Department of Public Property,20,Public Property
-Records,Total,60,0,2025,Adopted Budget,Full Year,,60,Department of Records,31,Records
-Register of Wills,Total,73,0,2025,Adopted Budget,Full Year,,73,Register of Wills,68,
-Revenue,Total,622,0,2025,Adopted Budget,Full Year,,622,Department of Revenue,36,Revenue
-Sheriff,Total,459,0,2025,Adopted Budget,Full Year,,459,Office of the Sheriff,70,Sheriff
-Streets,Total,2497,0,2025,Adopted Budget,Full Year,,2497,Streets Department,12,Streets
-Water,Total,2505,0,2025,Adopted Budget,Full Year,,2505,Water Department,28,Water
-"Water,Sewer & Stormwater Rate Board",Total,1,0,2025,Adopted Budget,Full Year,,1,"Water, Sewer, and Stormwater Rate Board",67,
-Police,General,1103,6380,2025,Adopted Budget,Full Year,,7483,Police Department,11,Police
-Police,Other,131,142,2025,Adopted Budget,Full Year,,273,Police Department,11,Police
-Police,Total,1234,6522,2025,Adopted Budget,Full Year,,7756,Police Department,11,Police
-Fire,General,177,3215,2025,Adopted Budget,Full Year,,3392,Fire Department,13,Fire
-Fire,Other,1,84,2025,Adopted Budget,Full Year,,85,Fire Department,13,Fire
-Fire,Total,178,3299,2025,Adopted Budget,Full Year,,3477,Fire Department,13,Fire
-District Attorney,General,572,33,2025,Adopted Budget,Full Year,,605,District Attorney's Office,69,DAO
-District Attorney,Other,97,8,2025,Adopted Budget,Full Year,,105,District Attorney's Office,69,DAO
-District Attorney,Total,669,41,2025,Adopted Budget,Full Year,,710,District Attorney's Office,69,DAO
+Auditing (City Controller's Office),General,113,0,2024,Actual,YTD,2024-06-30,113,City Controller's Office,61,
+Aviation (1),General,0,0,2024,Actual,YTD,2024-06-30,0,Division of Aviation,43,Aviation
+Board of Ethics,General,10,0,2024,Actual,YTD,2024-06-30,10,Board of Ethics,45,
+Board of Pensions,General,0,0,2024,Actual,YTD,2024-06-30,0,Board of Pensions,53,Pensions
+Board of Revision of Taxes,General,17,0,2024,Actual,YTD,2024-06-30,17,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),General,159,0,2024,Actual,YTD,2024-06-30,159,City Commissioner's Office,73,City Commissioners
+City Council,General,198,0,2024,Actual,YTD,2024-06-30,198,City Council,01,
+City Representative,General,0,0,2024,Actual,YTD,2024-06-30,0,Office of the City Representative,41,City Rep
+City Treasurer,General,19,0,2024,Actual,YTD,2024-06-30,19,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,General,2,0,2024,Actual,YTD,2024-06-30,2,Civil Service Commission,55,
+Commerce,General,58,0,2024,Actual,YTD,2024-06-30,58,Office of the Director of Commerce,42,Commerce
+Finance,General,126,0,2024,Actual,YTD,2024-06-30,126,Office of the Director of Finance,35,Finance
+First Judicial District,General,1707,0,2024,Actual,YTD,2024-06-30,1707,First Judicial District,84,FJD
+Fleet Services,General,269,0,2024,Actual,YTD,2024-06-30,269,Office of Fleet Management,25,Fleet
+Free Library,General,814,0,2024,Actual,YTD,2024-06-30,814,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,General,34,0,2024,Actual,YTD,2024-06-30,34,Commission on Human Relations,54,Human Relations
+Human Services (2),General,441,0,2024,Actual,YTD,2024-06-30,441,Department of Human Services,22,DHS
+Labor,General,36,0,2024,Actual,YTD,2024-06-30,36,Labor,03,
+Law,General,223,0,2024,Actual,YTD,2024-06-30,223,Law Department,44,Law
+Licenses & Inspections,General,351,0,2024,Actual,YTD,2024-06-30,351,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,General,2,0,2024,Actual,YTD,2024-06-30,2,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,General,1,0,2024,Actual,YTD,2024-06-30,1,L&I: Board of Review,27,
+Managing Director's Office,General,475,0,2024,Actual,YTD,2024-06-30,475,Managing Director's Office,10,MDO
+Mayor's Office,General,93,0,2024,Actual,YTD,2024-06-30,93,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,General,13,0,2024,Actual,YTD,2024-06-30,13,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,General,10,0,2024,Actual,YTD,2024-06-30,10,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,General,0,0,2024,Actual,YTD,2024-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,General,44,0,2024,Actual,YTD,2024-06-30,44,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,General,69,0,2024,Actual,YTD,2024-06-30,69,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,General,3,0,2024,Actual,YTD,2024-06-30,3,Office of Children and Families,66,OCF
+Office of Homeless Services,General,129,0,2024,Actual,YTD,2024-06-30,129,Office of Homeless Services,24,OHS
+Office of Human Resources,General,91,0,2024,Actual,YTD,2024-06-30,91,Office of Human Resources,56,OHR
+Office of Innovation and Technology,General,369,0,2024,Actual,YTD,2024-06-30,369,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,General,18,0,2024,Actual,YTD,2024-06-30,18,Office of the Inspector General,48,OIG
+Office of Property Assessment,General,178,0,2024,Actual,YTD,2024-06-30,178,Office of Property Assessment,59,OPA
+Office of Sustainability,General,23,0,2024,Actual,YTD,2024-06-30,23,Office of Sustainability,49,Sustainability
+Parks and Recreation,General,680,0,2024,Actual,YTD,2024-06-30,680,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,General,78,0,2024,Actual,YTD,2024-06-30,78,Department of Planning and Development,72,Planning & Development
+Prisons,General,1266,0,2024,Actual,YTD,2024-06-30,1266,Philadelphia Prison System,23,Prisons
+Procurement,General,36,0,2024,Actual,YTD,2024-06-30,36,Procurement Department,38,Procurement
+Public Health,General,730,0,2024,Actual,YTD,2024-06-30,730,Department of Public Health,14,Public Health
+Public Property,General,125,0,2024,Actual,YTD,2024-06-30,125,Department of Public Property,20,Public Property
+Records,General,55,0,2024,Actual,YTD,2024-06-30,55,Department of Records,31,Records
+Register of Wills,General,64,0,2024,Actual,YTD,2024-06-30,64,Register of Wills,68,
+Revenue,General,341,0,2024,Actual,YTD,2024-06-30,341,Department of Revenue,36,Revenue
+Sheriff,General,318,0,2024,Actual,YTD,2024-06-30,318,Office of the Sheriff,70,Sheriff
+Streets,General,1495,0,2024,Actual,YTD,2024-06-30,1495,Streets Department,12,Streets
+Water,General,0,0,2024,Actual,YTD,2024-06-30,0,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",General,0,0,2024,Actual,YTD,2024-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
+Auditing (City Controller's Office),Other,0,0,2024,Actual,YTD,2024-06-30,0,City Controller's Office,61,
+Aviation (1),Other,679,0,2024,Actual,YTD,2024-06-30,679,Division of Aviation,43,Aviation
+Board of Ethics,Other,0,0,2024,Actual,YTD,2024-06-30,0,Board of Ethics,45,
+Board of Pensions,Other,59,0,2024,Actual,YTD,2024-06-30,59,Board of Pensions,53,Pensions
+Board of Revision of Taxes,Other,0,0,2024,Actual,YTD,2024-06-30,0,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),Other,0,0,2024,Actual,YTD,2024-06-30,0,City Commissioner's Office,73,City Commissioners
+City Council,Other,0,0,2024,Actual,YTD,2024-06-30,0,City Council,01,
+City Representative,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of the City Representative,41,City Rep
+City Treasurer,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,Other,0,0,2024,Actual,YTD,2024-06-30,0,Civil Service Commission,55,
+Commerce,Other,21,0,2024,Actual,YTD,2024-06-30,21,Office of the Director of Commerce,42,Commerce
+Finance,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of the Director of Finance,35,Finance
+First Judicial District,Other,382,0,2024,Actual,YTD,2024-06-30,382,First Judicial District,84,FJD
+Fleet Services,Other,62,0,2024,Actual,YTD,2024-06-30,62,Office of Fleet Management,25,Fleet
+Free Library,Other,7,0,2024,Actual,YTD,2024-06-30,7,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,Other,0,0,2024,Actual,YTD,2024-06-30,0,Commission on Human Relations,54,Human Relations
+Human Services (2),Other,1076,0,2024,Actual,YTD,2024-06-30,1076,Department of Human Services,22,DHS
+Labor,Other,0,0,2024,Actual,YTD,2024-06-30,0,Labor,03,
+Law,Other,48,0,2024,Actual,YTD,2024-06-30,48,Law Department,44,Law
+Licenses & Inspections,Other,7,0,2024,Actual,YTD,2024-06-30,7,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,Other,0,0,2024,Actual,YTD,2024-06-30,0,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,Other,0,0,2024,Actual,YTD,2024-06-30,0,L&I: Board of Review,27,
+Managing Director's Office,Other,93,0,2024,Actual,YTD,2024-06-30,93,Managing Director's Office,10,MDO
+Mayor's Office,Other,0,0,2024,Actual,YTD,2024-06-30,0,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,Other,37,0,2024,Actual,YTD,2024-06-30,37,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,Other,0,0,2024,Actual,YTD,2024-06-30,0,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,Other,0,0,2024,Actual,YTD,2024-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,Other,224,0,2024,Actual,YTD,2024-06-30,224,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of Children and Families,66,OCF
+Office of Homeless Services,Other,21,0,2024,Actual,YTD,2024-06-30,21,Office of Homeless Services,24,OHS
+Office of Human Resources,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of Human Resources,56,OHR
+Office of Innovation and Technology,Other,108,0,2024,Actual,YTD,2024-06-30,108,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of the Inspector General,48,OIG
+Office of Property Assessment,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of Property Assessment,59,OPA
+Office of Sustainability,Other,2,0,2024,Actual,YTD,2024-06-30,2,Office of Sustainability,49,Sustainability
+Parks and Recreation,Other,18,0,2024,Actual,YTD,2024-06-30,18,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,Other,66,0,2024,Actual,YTD,2024-06-30,66,Department of Planning and Development,72,Planning & Development
+Prisons,Other,0,0,2024,Actual,YTD,2024-06-30,0,Philadelphia Prison System,23,Prisons
+Procurement,Other,0,0,2024,Actual,YTD,2024-06-30,0,Procurement Department,38,Procurement
+Public Health,Other,184,0,2024,Actual,YTD,2024-06-30,184,Department of Public Health,14,Public Health
+Public Property,Other,0,0,2024,Actual,YTD,2024-06-30,0,Department of Public Property,20,Public Property
+Records,Other,0,0,2024,Actual,YTD,2024-06-30,0,Department of Records,31,Records
+Register of Wills,Other,0,0,2024,Actual,YTD,2024-06-30,0,Register of Wills,68,
+Revenue,Other,186,0,2024,Actual,YTD,2024-06-30,186,Department of Revenue,36,Revenue
+Sheriff,Other,0,0,2024,Actual,YTD,2024-06-30,0,Office of the Sheriff,70,Sheriff
+Streets,Other,657,0,2024,Actual,YTD,2024-06-30,657,Streets Department,12,Streets
+Water,Other,2022,0,2024,Actual,YTD,2024-06-30,2022,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",Other,0,0,2024,Actual,YTD,2024-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
+Auditing (City Controller's Office),Total,113,0,2024,Actual,YTD,2024-06-30,113,City Controller's Office,61,
+Aviation (1),Total,679,0,2024,Actual,YTD,2024-06-30,679,Division of Aviation,43,Aviation
+Board of Ethics,Total,10,0,2024,Actual,YTD,2024-06-30,10,Board of Ethics,45,
+Board of Pensions,Total,59,0,2024,Actual,YTD,2024-06-30,59,Board of Pensions,53,Pensions
+Board of Revision of Taxes,Total,17,0,2024,Actual,YTD,2024-06-30,17,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),Total,159,0,2024,Actual,YTD,2024-06-30,159,City Commissioner's Office,73,City Commissioners
+City Council,Total,198,0,2024,Actual,YTD,2024-06-30,198,City Council,01,
+City Representative,Total,0,0,2024,Actual,YTD,2024-06-30,0,Office of the City Representative,41,City Rep
+City Treasurer,Total,19,0,2024,Actual,YTD,2024-06-30,19,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,Total,2,0,2024,Actual,YTD,2024-06-30,2,Civil Service Commission,55,
+Commerce,Total,79,0,2024,Actual,YTD,2024-06-30,79,Office of the Director of Commerce,42,Commerce
+Finance,Total,126,0,2024,Actual,YTD,2024-06-30,126,Office of the Director of Finance,35,Finance
+First Judicial District,Total,2089,0,2024,Actual,YTD,2024-06-30,2089,First Judicial District,84,FJD
+Fleet Services,Total,331,0,2024,Actual,YTD,2024-06-30,331,Office of Fleet Management,25,Fleet
+Free Library,Total,821,0,2024,Actual,YTD,2024-06-30,821,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,Total,34,0,2024,Actual,YTD,2024-06-30,34,Commission on Human Relations,54,Human Relations
+Human Services (2),Total,1517,0,2024,Actual,YTD,2024-06-30,1517,Department of Human Services,22,DHS
+Labor,Total,36,0,2024,Actual,YTD,2024-06-30,36,Labor,03,
+Law,Total,271,0,2024,Actual,YTD,2024-06-30,271,Law Department,44,Law
+Licenses & Inspections,Total,358,0,2024,Actual,YTD,2024-06-30,358,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,Total,2,0,2024,Actual,YTD,2024-06-30,2,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,Total,1,0,2024,Actual,YTD,2024-06-30,1,L&I: Board of Review,27,
+Managing Director's Office,Total,568,0,2024,Actual,YTD,2024-06-30,568,Managing Director's Office,10,MDO
+Mayor's Office,Total,93,0,2024,Actual,YTD,2024-06-30,93,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,Total,50,0,2024,Actual,YTD,2024-06-30,50,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,Total,10,0,2024,Actual,YTD,2024-06-30,10,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,Total,0,0,2024,Actual,YTD,2024-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,Total,268,0,2024,Actual,YTD,2024-06-30,268,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,Total,69,0,2024,Actual,YTD,2024-06-30,69,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,Total,3,0,2024,Actual,YTD,2024-06-30,3,Office of Children and Families,66,OCF
+Office of Homeless Services,Total,150,0,2024,Actual,YTD,2024-06-30,150,Office of Homeless Services,24,OHS
+Office of Human Resources,Total,91,0,2024,Actual,YTD,2024-06-30,91,Office of Human Resources,56,OHR
+Office of Innovation and Technology,Total,477,0,2024,Actual,YTD,2024-06-30,477,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,Total,18,0,2024,Actual,YTD,2024-06-30,18,Office of the Inspector General,48,OIG
+Office of Property Assessment,Total,178,0,2024,Actual,YTD,2024-06-30,178,Office of Property Assessment,59,OPA
+Office of Sustainability,Total,25,0,2024,Actual,YTD,2024-06-30,25,Office of Sustainability,49,Sustainability
+Parks and Recreation,Total,698,0,2024,Actual,YTD,2024-06-30,698,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,Total,144,0,2024,Actual,YTD,2024-06-30,144,Department of Planning and Development,72,Planning & Development
+Prisons,Total,1266,0,2024,Actual,YTD,2024-06-30,1266,Philadelphia Prison System,23,Prisons
+Procurement,Total,36,0,2024,Actual,YTD,2024-06-30,36,Procurement Department,38,Procurement
+Public Health,Total,914,0,2024,Actual,YTD,2024-06-30,914,Department of Public Health,14,Public Health
+Public Property,Total,125,0,2024,Actual,YTD,2024-06-30,125,Department of Public Property,20,Public Property
+Records,Total,55,0,2024,Actual,YTD,2024-06-30,55,Department of Records,31,Records
+Register of Wills,Total,64,0,2024,Actual,YTD,2024-06-30,64,Register of Wills,68,
+Revenue,Total,527,0,2024,Actual,YTD,2024-06-30,527,Department of Revenue,36,Revenue
+Sheriff,Total,318,0,2024,Actual,YTD,2024-06-30,318,Office of the Sheriff,70,Sheriff
+Streets,Total,2152,0,2024,Actual,YTD,2024-06-30,2152,Streets Department,12,Streets
+Water,Total,2022,0,2024,Actual,YTD,2024-06-30,2022,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",Total,0,0,2024,Actual,YTD,2024-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
+Police,General,866,5338,2024,Actual,YTD,2024-06-30,6204,Police Department,11,Police
+Police,Other,6,103,2024,Actual,YTD,2024-06-30,109,Police Department,11,Police
+Police,Total,872,5441,2024,Actual,YTD,2024-06-30,6313,Police Department,11,Police
+Fire,General,135,2680,2024,Actual,YTD,2024-06-30,2815,Fire Department,13,Fire
+Fire,Other,1,71,2024,Actual,YTD,2024-06-30,72,Fire Department,13,Fire
+Fire,Total,136,2751,2024,Actual,YTD,2024-06-30,2887,Fire Department,13,Fire
+District Attorney,General,530,33,2024,Actual,YTD,2024-06-30,563,District Attorney's Office,69,DAO
+District Attorney,Other,109,5,2024,Actual,YTD,2024-06-30,114,District Attorney's Office,69,DAO
+District Attorney,Total,639,38,2024,Actual,YTD,2024-06-30,677,District Attorney's Office,69,DAO
+Auditing (City Controller's Office),General,110,0,2023,Actual,Full Year,2023-06-30,110,City Controller's Office,61,
+Aviation (1),General,0,0,2023,Actual,Full Year,2023-06-30,0,Division of Aviation,43,Aviation
+Board of Ethics,General,10,0,2023,Actual,Full Year,2023-06-30,10,Board of Ethics,45,
+Board of Pensions,General,0,0,2023,Actual,Full Year,2023-06-30,0,Board of Pensions,53,Pensions
+Board of Revision of Taxes,General,15,0,2023,Actual,Full Year,2023-06-30,15,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),General,146,0,2023,Actual,Full Year,2023-06-30,146,City Commissioner's Office,73,City Commissioners
+City Council,General,164,0,2023,Actual,Full Year,2023-06-30,164,City Council,01,
+City Representative,General,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the City Representative,41,City Rep
+City Treasurer,General,20,0,2023,Actual,Full Year,2023-06-30,20,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,General,2,0,2023,Actual,Full Year,2023-06-30,2,Civil Service Commission,55,
+Commerce,General,53,0,2023,Actual,Full Year,2023-06-30,53,Office of the Director of Commerce,42,Commerce
+Finance,General,121,0,2023,Actual,Full Year,2023-06-30,121,Office of the Director of Finance,35,Finance
+First Judicial District,General,1685,0,2023,Actual,Full Year,2023-06-30,1685,First Judicial District,84,FJD
+Fleet Services,General,266,0,2023,Actual,Full Year,2023-06-30,266,Office of Fleet Management,25,Fleet
+Free Library,General,764,0,2023,Actual,Full Year,2023-06-30,764,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,General,30,0,2023,Actual,Full Year,2023-06-30,30,Commission on Human Relations,54,Human Relations
+Human Services (2),General,535,0,2023,Actual,Full Year,2023-06-30,535,Department of Human Services,22,DHS
+Labor,General,34,0,2023,Actual,Full Year,2023-06-30,34,Labor,03,
+Law,General,193,0,2023,Actual,Full Year,2023-06-30,193,Law Department,44,Law
+Licenses & Inspections,General,329,0,2023,Actual,Full Year,2023-06-30,329,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,General,1,0,2023,Actual,Full Year,2023-06-30,1,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,General,2,0,2023,Actual,Full Year,2023-06-30,2,L&I: Board of Review,27,
+Managing Director's Office,General,387,0,2023,Actual,Full Year,2023-06-30,387,Managing Director's Office,10,MDO
+Mayor's Office,General,53,0,2023,Actual,Full Year,2023-06-30,53,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,General,0,0,2023,Actual,Full Year,2023-06-30,0,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,General,9,0,2023,Actual,Full Year,2023-06-30,9,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,General,0,0,2023,Actual,Full Year,2023-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,General,44,0,2023,Actual,Full Year,2023-06-30,44,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,General,73,0,2023,Actual,Full Year,2023-06-30,73,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,General,5,0,2023,Actual,Full Year,2023-06-30,5,Office of Children and Families,66,OCF
+Office of Homeless Services,General,113,0,2023,Actual,Full Year,2023-06-30,113,Office of Homeless Services,24,OHS
+Office of Human Resources,General,82,0,2023,Actual,Full Year,2023-06-30,82,Office of Human Resources,56,OHR
+Office of Innovation and Technology,General,349,0,2023,Actual,Full Year,2023-06-30,349,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,General,18,0,2023,Actual,Full Year,2023-06-30,18,Office of the Inspector General,48,OIG
+Office of Property Assessment,General,182,0,2023,Actual,Full Year,2023-06-30,182,Office of Property Assessment,59,OPA
+Office of Sustainability,General,18,0,2023,Actual,Full Year,2023-06-30,18,Office of Sustainability,49,Sustainability
+Parks and Recreation,General,678,0,2023,Actual,Full Year,2023-06-30,678,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,General,66,0,2023,Actual,Full Year,2023-06-30,66,Department of Planning and Development,72,Planning & Development
+Prisons,General,1312,0,2023,Actual,Full Year,2023-06-30,1312,Philadelphia Prison System,23,Prisons
+Procurement,General,36,0,2023,Actual,Full Year,2023-06-30,36,Procurement Department,38,Procurement
+Public Health,General,690,0,2023,Actual,Full Year,2023-06-30,690,Department of Public Health,14,Public Health
+Public Property,General,119,0,2023,Actual,Full Year,2023-06-30,119,Department of Public Property,20,Public Property
+Records,General,53,0,2023,Actual,Full Year,2023-06-30,53,Department of Records,31,Records
+Register of Wills,General,63,0,2023,Actual,Full Year,2023-06-30,63,Register of Wills,68,
+Revenue,General,327,0,2023,Actual,Full Year,2023-06-30,327,Department of Revenue,36,Revenue
+Sheriff,General,328,0,2023,Actual,Full Year,2023-06-30,328,Office of the Sheriff,70,Sheriff
+Streets,General,2068,0,2023,Actual,Full Year,2023-06-30,2068,Streets Department,12,Streets
+Water,General,0,0,2023,Actual,Full Year,2023-06-30,0,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",General,0,0,2023,Actual,Full Year,2023-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
+Auditing (City Controller's Office),Other,0,0,2023,Actual,Full Year,2023-06-30,0,City Controller's Office,61,
+Aviation (1),Other,0,0,2023,Actual,Full Year,2023-06-30,0,Division of Aviation,43,Aviation
+Board of Ethics,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Board of Ethics,45,
+Board of Pensions,Other,57,0,2023,Actual,Full Year,2023-06-30,57,Board of Pensions,53,Pensions
+Board of Revision of Taxes,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),Other,0,0,2023,Actual,Full Year,2023-06-30,0,City Commissioner's Office,73,City Commissioners
+City Council,Other,0,0,2023,Actual,Full Year,2023-06-30,0,City Council,01,
+City Representative,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the City Representative,41,City Rep
+City Treasurer,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Civil Service Commission,55,
+Commerce,Other,637,0,2023,Actual,Full Year,2023-06-30,637,Office of the Director of Commerce,42,Commerce
+Finance,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the Director of Finance,35,Finance
+First Judicial District,Other,404,0,2023,Actual,Full Year,2023-06-30,404,First Judicial District,84,FJD
+Fleet Services,Other,61,0,2023,Actual,Full Year,2023-06-30,61,Office of Fleet Management,25,Fleet
+Free Library,Other,6,0,2023,Actual,Full Year,2023-06-30,6,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Commission on Human Relations,54,Human Relations
+Human Services (2),Other,893,0,2023,Actual,Full Year,2023-06-30,893,Department of Human Services,22,DHS
+Labor,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Labor,03,
+Law,Other,46,0,2023,Actual,Full Year,2023-06-30,46,Law Department,44,Law
+Licenses & Inspections,Other,8,0,2023,Actual,Full Year,2023-06-30,8,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,Other,0,0,2023,Actual,Full Year,2023-06-30,0,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,Other,0,0,2023,Actual,Full Year,2023-06-30,0,L&I: Board of Review,27,
+Managing Director's Office,Other,103,0,2023,Actual,Full Year,2023-06-30,103,Managing Director's Office,10,MDO
+Mayor's Office,Other,5,0,2023,Actual,Full Year,2023-06-30,5,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,Other,28,0,2023,Actual,Full Year,2023-06-30,28,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,Other,0,0,2023,Actual,Full Year,2023-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,Other,222,0,2023,Actual,Full Year,2023-06-30,222,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of Children and Families,66,OCF
+Office of Homeless Services,Other,16,0,2023,Actual,Full Year,2023-06-30,16,Office of Homeless Services,24,OHS
+Office of Human Resources,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of Human Resources,56,OHR
+Office of Innovation and Technology,Other,106,0,2023,Actual,Full Year,2023-06-30,106,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the Inspector General,48,OIG
+Office of Property Assessment,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of Property Assessment,59,OPA
+Office of Sustainability,Other,2,0,2023,Actual,Full Year,2023-06-30,2,Office of Sustainability,49,Sustainability
+Parks and Recreation,Other,25,0,2023,Actual,Full Year,2023-06-30,25,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,Other,62,0,2023,Actual,Full Year,2023-06-30,62,Department of Planning and Development,72,Planning & Development
+Prisons,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Philadelphia Prison System,23,Prisons
+Procurement,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Procurement Department,38,Procurement
+Public Health,Other,168,0,2023,Actual,Full Year,2023-06-30,168,Department of Public Health,14,Public Health
+Public Property,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Department of Public Property,20,Public Property
+Records,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Department of Records,31,Records
+Register of Wills,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Register of Wills,68,
+Revenue,Other,170,0,2023,Actual,Full Year,2023-06-30,170,Department of Revenue,36,Revenue
+Sheriff,Other,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the Sheriff,70,Sheriff
+Streets,Other,2,0,2023,Actual,Full Year,2023-06-30,2,Streets Department,12,Streets
+Water,Other,1991,0,2023,Actual,Full Year,2023-06-30,1991,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",Other,0,0,2023,Actual,Full Year,2023-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
+Auditing (City Controller's Office),Total,110,0,2023,Actual,Full Year,2023-06-30,110,City Controller's Office,61,
+Aviation (1),Total,0,0,2023,Actual,Full Year,2023-06-30,0,Division of Aviation,43,Aviation
+Board of Ethics,Total,10,0,2023,Actual,Full Year,2023-06-30,10,Board of Ethics,45,
+Board of Pensions,Total,57,0,2023,Actual,Full Year,2023-06-30,57,Board of Pensions,53,Pensions
+Board of Revision of Taxes,Total,15,0,2023,Actual,Full Year,2023-06-30,15,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),Total,146,0,2023,Actual,Full Year,2023-06-30,146,City Commissioner's Office,73,City Commissioners
+City Council,Total,164,0,2023,Actual,Full Year,2023-06-30,164,City Council,01,
+City Representative,Total,0,0,2023,Actual,Full Year,2023-06-30,0,Office of the City Representative,41,City Rep
+City Treasurer,Total,20,0,2023,Actual,Full Year,2023-06-30,20,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,Total,2,0,2023,Actual,Full Year,2023-06-30,2,Civil Service Commission,55,
+Commerce,Total,690,0,2023,Actual,Full Year,2023-06-30,690,Office of the Director of Commerce,42,Commerce
+Finance,Total,121,0,2023,Actual,Full Year,2023-06-30,121,Office of the Director of Finance,35,Finance
+First Judicial District,Total,2089,0,2023,Actual,Full Year,2023-06-30,2089,First Judicial District,84,FJD
+Fleet Services,Total,327,0,2023,Actual,Full Year,2023-06-30,327,Office of Fleet Management,25,Fleet
+Free Library,Total,770,0,2023,Actual,Full Year,2023-06-30,770,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,Total,30,0,2023,Actual,Full Year,2023-06-30,30,Commission on Human Relations,54,Human Relations
+Human Services (2),Total,1428,0,2023,Actual,Full Year,2023-06-30,1428,Department of Human Services,22,DHS
+Labor,Total,34,0,2023,Actual,Full Year,2023-06-30,34,Labor,03,
+Law,Total,239,0,2023,Actual,Full Year,2023-06-30,239,Law Department,44,Law
+Licenses & Inspections,Total,337,0,2023,Actual,Full Year,2023-06-30,337,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,Total,1,0,2023,Actual,Full Year,2023-06-30,1,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,Total,2,0,2023,Actual,Full Year,2023-06-30,2,L&I: Board of Review,27,
+Managing Director's Office,Total,490,0,2023,Actual,Full Year,2023-06-30,490,Managing Director's Office,10,MDO
+Mayor's Office,Total,58,0,2023,Actual,Full Year,2023-06-30,58,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,Total,28,0,2023,Actual,Full Year,2023-06-30,28,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,Total,9,0,2023,Actual,Full Year,2023-06-30,9,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,Total,0,0,2023,Actual,Full Year,2023-06-30,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,Total,266,0,2023,Actual,Full Year,2023-06-30,266,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,Total,73,0,2023,Actual,Full Year,2023-06-30,73,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,Total,5,0,2023,Actual,Full Year,2023-06-30,5,Office of Children and Families,66,OCF
+Office of Homeless Services,Total,129,0,2023,Actual,Full Year,2023-06-30,129,Office of Homeless Services,24,OHS
+Office of Human Resources,Total,82,0,2023,Actual,Full Year,2023-06-30,82,Office of Human Resources,56,OHR
+Office of Innovation and Technology,Total,455,0,2023,Actual,Full Year,2023-06-30,455,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,Total,18,0,2023,Actual,Full Year,2023-06-30,18,Office of the Inspector General,48,OIG
+Office of Property Assessment,Total,182,0,2023,Actual,Full Year,2023-06-30,182,Office of Property Assessment,59,OPA
+Office of Sustainability,Total,20,0,2023,Actual,Full Year,2023-06-30,20,Office of Sustainability,49,Sustainability
+Parks and Recreation,Total,703,0,2023,Actual,Full Year,2023-06-30,703,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,Total,128,0,2023,Actual,Full Year,2023-06-30,128,Department of Planning and Development,72,Planning & Development
+Prisons,Total,1312,0,2023,Actual,Full Year,2023-06-30,1312,Philadelphia Prison System,23,Prisons
+Procurement,Total,36,0,2023,Actual,Full Year,2023-06-30,36,Procurement Department,38,Procurement
+Public Health,Total,858,0,2023,Actual,Full Year,2023-06-30,858,Department of Public Health,14,Public Health
+Public Property,Total,119,0,2023,Actual,Full Year,2023-06-30,119,Department of Public Property,20,Public Property
+Records,Total,53,0,2023,Actual,Full Year,2023-06-30,53,Department of Records,31,Records
+Register of Wills,Total,63,0,2023,Actual,Full Year,2023-06-30,63,Register of Wills,68,
+Revenue,Total,497,0,2023,Actual,Full Year,2023-06-30,497,Department of Revenue,36,Revenue
+Sheriff,Total,328,0,2023,Actual,Full Year,2023-06-30,328,Office of the Sheriff,70,Sheriff
+Streets,Total,2070,0,2023,Actual,Full Year,2023-06-30,2070,Streets Department,12,Streets
+Water,Total,1991,0,2023,Actual,Full Year,2023-06-30,1991,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",Total,0,0,2023,Actual,Full Year,2023-06-30,0,"Water, Sewer, and Stormwater Rate Board",67,
+Police,General,801,5550,2023,Actual,Full Year,2023-06-30,6351,Police Department,11,Police
+Police,Other,7,117,2023,Actual,Full Year,2023-06-30,124,Police Department,11,Police
+Police,Total,808,5667,2023,Actual,Full Year,2023-06-30,6475,Police Department,11,Police
+Fire,General,133,2661,2023,Actual,Full Year,2023-06-30,2794,Fire Department,13,Fire
+Fire,Other,10,67,2023,Actual,Full Year,2023-06-30,77,Fire Department,13,Fire
+Fire,Total,143,2728,2023,Actual,Full Year,2023-06-30,2871,Fire Department,13,Fire
+District Attorney,General,541,32,2023,Actual,Full Year,2023-06-30,573,District Attorney's Office,69,DAO
+District Attorney,Other,103,5,2023,Actual,Full Year,2023-06-30,108,District Attorney's Office,69,DAO
+District Attorney,Total,644,37,2023,Actual,Full Year,2023-06-30,681,District Attorney's Office,69,DAO
+Auditing (City Controller's Office),General,135,0,2024,Adopted Budget,Full Year,,135,City Controller's Office,61,
+Aviation (1),General,0,0,2024,Adopted Budget,Full Year,,0,Division of Aviation,43,Aviation
+Board of Ethics,General,14,0,2024,Adopted Budget,Full Year,,14,Board of Ethics,45,
+Board of Pensions,General,0,0,2024,Adopted Budget,Full Year,,0,Board of Pensions,53,Pensions
+Board of Revision of Taxes,General,16,0,2024,Adopted Budget,Full Year,,16,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),General,187,0,2024,Adopted Budget,Full Year,,187,City Commissioner's Office,73,City Commissioners
+City Council,General,185,0,2024,Adopted Budget,Full Year,,185,City Council,01,
+City Representative,General,0,0,2024,Adopted Budget,Full Year,,0,Office of the City Representative,41,City Rep
+City Treasurer,General,22,0,2024,Adopted Budget,Full Year,,22,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,General,2,0,2024,Adopted Budget,Full Year,,2,Civil Service Commission,55,
+Commerce,General,80,0,2024,Adopted Budget,Full Year,,80,Office of the Director of Commerce,42,Commerce
+Finance,General,139,0,2024,Adopted Budget,Full Year,,139,Office of the Director of Finance,35,Finance
+First Judicial District,General,1720,0,2024,Adopted Budget,Full Year,,1720,First Judicial District,84,FJD
+Fleet Services,General,319,0,2024,Adopted Budget,Full Year,,319,Office of Fleet Management,25,Fleet
+Free Library,General,1009,0,2024,Adopted Budget,Full Year,,1009,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,General,34,0,2024,Adopted Budget,Full Year,,34,Commission on Human Relations,54,Human Relations
+Human Services (2),General,538,0,2024,Adopted Budget,Full Year,,538,Department of Human Services,22,DHS
+Labor,General,52,0,2024,Adopted Budget,Full Year,,52,Labor,03,
+Law,General,205,0,2024,Adopted Budget,Full Year,,205,Law Department,44,Law
+Licenses & Inspections,General,430,0,2024,Adopted Budget,Full Year,,430,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,General,1,0,2024,Adopted Budget,Full Year,,1,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,General,2,0,2024,Adopted Budget,Full Year,,2,L&I: Board of Review,27,
+Managing Director's Office,General,501,0,2024,Adopted Budget,Full Year,,501,Managing Director's Office,10,MDO
+Mayor's Office,General,45,0,2024,Adopted Budget,Full Year,,45,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,General,20,0,2024,Adopted Budget,Full Year,,20,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,General,10,0,2024,Adopted Budget,Full Year,,10,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,General,0,0,2024,Adopted Budget,Full Year,,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,General,53,0,2024,Adopted Budget,Full Year,,53,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,General,76,0,2024,Adopted Budget,Full Year,,76,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,General,3,0,2024,Adopted Budget,Full Year,,3,Office of Children and Families,66,OCF
+Office of Homeless Services,General,149,0,2024,Adopted Budget,Full Year,,149,Office of Homeless Services,24,OHS
+Office of Human Resources,General,96,0,2024,Adopted Budget,Full Year,,96,Office of Human Resources,56,OHR
+Office of Innovation and Technology,General,398,0,2024,Adopted Budget,Full Year,,398,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,General,26,0,2024,Adopted Budget,Full Year,,26,Office of the Inspector General,48,OIG
+Office of Property Assessment,General,226,0,2024,Adopted Budget,Full Year,,226,Office of Property Assessment,59,OPA
+Office of Sustainability,General,23,0,2024,Adopted Budget,Full Year,,23,Office of Sustainability,49,Sustainability
+Parks and Recreation,General,945,0,2024,Adopted Budget,Full Year,,945,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,General,83,0,2024,Adopted Budget,Full Year,,83,Department of Planning and Development,72,Planning & Development
+Prisons,General,2186,0,2024,Adopted Budget,Full Year,,2186,Philadelphia Prison System,23,Prisons
+Procurement,General,54,0,2024,Adopted Budget,Full Year,,54,Procurement Department,38,Procurement
+Public Health,General,864,0,2024,Adopted Budget,Full Year,,864,Department of Public Health,14,Public Health
+Public Property,General,176,0,2024,Adopted Budget,Full Year,,176,Department of Public Property,20,Public Property
+Records,General,60,0,2024,Adopted Budget,Full Year,,60,Department of Records,31,Records
+Register of Wills,General,73,0,2024,Adopted Budget,Full Year,,73,Register of Wills,68,
+Revenue,General,401,0,2024,Adopted Budget,Full Year,,401,Department of Revenue,36,Revenue
+Sheriff,General,459,0,2024,Adopted Budget,Full Year,,459,Office of the Sheriff,70,Sheriff
+Streets,General,1688,0,2024,Adopted Budget,Full Year,,1688,Streets Department,12,Streets
+Water,General,0,0,2024,Adopted Budget,Full Year,,0,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",General,0,0,2024,Adopted Budget,Full Year,,0,"Water, Sewer, and Stormwater Rate Board",67,
+Auditing (City Controller's Office),Other,0,0,2024,Adopted Budget,Full Year,,0,City Controller's Office,61,
+Aviation (1),Other,840,0,2024,Adopted Budget,Full Year,,840,Division of Aviation,43,Aviation
+Board of Ethics,Other,0,0,2024,Adopted Budget,Full Year,,0,Board of Ethics,45,
+Board of Pensions,Other,73,0,2024,Adopted Budget,Full Year,,73,Board of Pensions,53,Pensions
+Board of Revision of Taxes,Other,0,0,2024,Adopted Budget,Full Year,,0,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),Other,0,0,2024,Adopted Budget,Full Year,,0,City Commissioner's Office,73,City Commissioners
+City Council,Other,0,0,2024,Adopted Budget,Full Year,,0,City Council,01,
+City Representative,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of the City Representative,41,City Rep
+City Treasurer,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,Other,0,0,2024,Adopted Budget,Full Year,,0,Civil Service Commission,55,
+Commerce,Other,22,0,2024,Adopted Budget,Full Year,,22,Office of the Director of Commerce,42,Commerce
+Finance,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of the Director of Finance,35,Finance
+First Judicial District,Other,457,0,2024,Adopted Budget,Full Year,,457,First Judicial District,84,FJD
+Fleet Services,Other,84,0,2024,Adopted Budget,Full Year,,84,Office of Fleet Management,25,Fleet
+Free Library,Other,14,0,2024,Adopted Budget,Full Year,,14,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,Other,0,0,2024,Adopted Budget,Full Year,,0,Commission on Human Relations,54,Human Relations
+Human Services (2),Other,1351,0,2024,Adopted Budget,Full Year,,1351,Department of Human Services,22,DHS
+Labor,Other,0,0,2024,Adopted Budget,Full Year,,0,Labor,03,
+Law,Other,55,0,2024,Adopted Budget,Full Year,,55,Law Department,44,Law
+Licenses & Inspections,Other,8,0,2024,Adopted Budget,Full Year,,8,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,Other,0,0,2024,Adopted Budget,Full Year,,0,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,Other,0,0,2024,Adopted Budget,Full Year,,0,L&I: Board of Review,27,
+Managing Director's Office,Other,98,0,2024,Adopted Budget,Full Year,,98,Managing Director's Office,10,MDO
+Mayor's Office,Other,0,0,2024,Adopted Budget,Full Year,,0,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,Other,47,0,2024,Adopted Budget,Full Year,,47,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,Other,0,0,2024,Adopted Budget,Full Year,,0,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,Other,0,0,2024,Adopted Budget,Full Year,,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,Other,280,0,2024,Adopted Budget,Full Year,,280,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of Children and Families,66,OCF
+Office of Homeless Services,Other,40,0,2024,Adopted Budget,Full Year,,40,Office of Homeless Services,24,OHS
+Office of Human Resources,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of Human Resources,56,OHR
+Office of Innovation and Technology,Other,159,0,2024,Adopted Budget,Full Year,,159,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of the Inspector General,48,OIG
+Office of Property Assessment,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of Property Assessment,59,OPA
+Office of Sustainability,Other,1,0,2024,Adopted Budget,Full Year,,1,Office of Sustainability,49,Sustainability
+Parks and Recreation,Other,32,0,2024,Adopted Budget,Full Year,,32,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,Other,67,0,2024,Adopted Budget,Full Year,,67,Department of Planning and Development,72,Planning & Development
+Prisons,Other,0,0,2024,Adopted Budget,Full Year,,0,Philadelphia Prison System,23,Prisons
+Procurement,Other,2,0,2024,Adopted Budget,Full Year,,2,Procurement Department,38,Procurement
+Public Health,Other,217,0,2024,Adopted Budget,Full Year,,217,Department of Public Health,14,Public Health
+Public Property,Other,0,0,2024,Adopted Budget,Full Year,,0,Department of Public Property,20,Public Property
+Records,Other,0,0,2024,Adopted Budget,Full Year,,0,Department of Records,31,Records
+Register of Wills,Other,0,0,2024,Adopted Budget,Full Year,,0,Register of Wills,68,
+Revenue,Other,221,0,2024,Adopted Budget,Full Year,,221,Department of Revenue,36,Revenue
+Sheriff,Other,0,0,2024,Adopted Budget,Full Year,,0,Office of the Sheriff,70,Sheriff
+Streets,Other,809,0,2024,Adopted Budget,Full Year,,809,Streets Department,12,Streets
+Water,Other,2505,0,2024,Adopted Budget,Full Year,,2505,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",Other,1,0,2024,Adopted Budget,Full Year,,1,"Water, Sewer, and Stormwater Rate Board",67,
+Auditing (City Controller's Office),Total,135,0,2024,Adopted Budget,Full Year,,135,City Controller's Office,61,
+Aviation (1),Total,840,0,2024,Adopted Budget,Full Year,,840,Division of Aviation,43,Aviation
+Board of Ethics,Total,14,0,2024,Adopted Budget,Full Year,,14,Board of Ethics,45,
+Board of Pensions,Total,73,0,2024,Adopted Budget,Full Year,,73,Board of Pensions,53,Pensions
+Board of Revision of Taxes,Total,16,0,2024,Adopted Budget,Full Year,,16,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),Total,187,0,2024,Adopted Budget,Full Year,,187,City Commissioner's Office,73,City Commissioners
+City Council,Total,185,0,2024,Adopted Budget,Full Year,,185,City Council,01,
+City Representative,Total,0,0,2024,Adopted Budget,Full Year,,0,Office of the City Representative,41,City Rep
+City Treasurer,Total,22,0,2024,Adopted Budget,Full Year,,22,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,Total,2,0,2024,Adopted Budget,Full Year,,2,Civil Service Commission,55,
+Commerce,Total,102,0,2024,Adopted Budget,Full Year,,102,Office of the Director of Commerce,42,Commerce
+Finance,Total,139,0,2024,Adopted Budget,Full Year,,139,Office of the Director of Finance,35,Finance
+First Judicial District,Total,2177,0,2024,Adopted Budget,Full Year,,2177,First Judicial District,84,FJD
+Fleet Services,Total,403,0,2024,Adopted Budget,Full Year,,403,Office of Fleet Management,25,Fleet
+Free Library,Total,1023,0,2024,Adopted Budget,Full Year,,1023,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,Total,34,0,2024,Adopted Budget,Full Year,,34,Commission on Human Relations,54,Human Relations
+Human Services (2),Total,1889,0,2024,Adopted Budget,Full Year,,1889,Department of Human Services,22,DHS
+Labor,Total,52,0,2024,Adopted Budget,Full Year,,52,Labor,03,
+Law,Total,260,0,2024,Adopted Budget,Full Year,,260,Law Department,44,Law
+Licenses & Inspections,Total,438,0,2024,Adopted Budget,Full Year,,438,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,Total,1,0,2024,Adopted Budget,Full Year,,1,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,Total,2,0,2024,Adopted Budget,Full Year,,2,L&I: Board of Review,27,
+Managing Director's Office,Total,599,0,2024,Adopted Budget,Full Year,,599,Managing Director's Office,10,MDO
+Mayor's Office,Total,45,0,2024,Adopted Budget,Full Year,,45,Mayor's Office,05,Mayor
+Mayor's Office-Comm. Empowerment & Opp.,Total,67,0,2024,Adopted Budget,Full Year,,67,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,Total,10,0,2024,Adopted Budget,Full Year,,10,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture,Total,0,0,2024,Adopted Budget,Full Year,,0,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,Total,333,0,2024,Adopted Budget,Full Year,,333,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,Total,76,0,2024,Adopted Budget,Full Year,,76,Office of the Chief Administrative Officer,65,CAO
+Office of Children and Families,Total,3,0,2024,Adopted Budget,Full Year,,3,Office of Children and Families,66,OCF
+Office of Homeless Services,Total,189,0,2024,Adopted Budget,Full Year,,189,Office of Homeless Services,24,OHS
+Office of Human Resources,Total,96,0,2024,Adopted Budget,Full Year,,96,Office of Human Resources,56,OHR
+Office of Innovation and Technology,Total,557,0,2024,Adopted Budget,Full Year,,557,Office of Innovation and Technology,04,OIT
+Office of the Inspector General,Total,26,0,2024,Adopted Budget,Full Year,,26,Office of the Inspector General,48,OIG
+Office of Property Assessment,Total,226,0,2024,Adopted Budget,Full Year,,226,Office of Property Assessment,59,OPA
+Office of Sustainability,Total,24,0,2024,Adopted Budget,Full Year,,24,Office of Sustainability,49,Sustainability
+Parks and Recreation,Total,977,0,2024,Adopted Budget,Full Year,,977,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,Total,150,0,2024,Adopted Budget,Full Year,,150,Department of Planning and Development,72,Planning & Development
+Prisons,Total,2186,0,2024,Adopted Budget,Full Year,,2186,Philadelphia Prison System,23,Prisons
+Procurement,Total,56,0,2024,Adopted Budget,Full Year,,56,Procurement Department,38,Procurement
+Public Health,Total,1081,0,2024,Adopted Budget,Full Year,,1081,Department of Public Health,14,Public Health
+Public Property,Total,176,0,2024,Adopted Budget,Full Year,,176,Department of Public Property,20,Public Property
+Records,Total,60,0,2024,Adopted Budget,Full Year,,60,Department of Records,31,Records
+Register of Wills,Total,73,0,2024,Adopted Budget,Full Year,,73,Register of Wills,68,
+Revenue,Total,622,0,2024,Adopted Budget,Full Year,,622,Department of Revenue,36,Revenue
+Sheriff,Total,459,0,2024,Adopted Budget,Full Year,,459,Office of the Sheriff,70,Sheriff
+Streets,Total,2497,0,2024,Adopted Budget,Full Year,,2497,Streets Department,12,Streets
+Water,Total,2505,0,2024,Adopted Budget,Full Year,,2505,Water Department,28,Water
+"Water,Sewer & Stormwater Rate Board",Total,1,0,2024,Adopted Budget,Full Year,,1,"Water, Sewer, and Stormwater Rate Board",67,
+Police,General,1103,6380,2024,Adopted Budget,Full Year,,7483,Police Department,11,Police
+Police,Other,131,142,2024,Adopted Budget,Full Year,,273,Police Department,11,Police
+Police,Total,1234,6522,2024,Adopted Budget,Full Year,,7756,Police Department,11,Police
+Fire,General,177,3215,2024,Adopted Budget,Full Year,,3392,Fire Department,13,Fire
+Fire,Other,1,84,2024,Adopted Budget,Full Year,,85,Fire Department,13,Fire
+Fire,Total,178,3299,2024,Adopted Budget,Full Year,,3477,Fire Department,13,Fire
+District Attorney,General,572,33,2024,Adopted Budget,Full Year,,605,District Attorney's Office,69,DAO
+District Attorney,Other,97,8,2024,Adopted Budget,Full Year,,105,District Attorney's Office,69,DAO
+District Attorney,Total,669,41,2024,Adopted Budget,Full Year,,710,District Attorney's Office,69,DAO
