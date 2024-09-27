@@ -202,7 +202,7 @@ class BudgetSummaryBase(ETLPipelineAWS):  # type: ignore
         # Past with textract
         data = []
         for i in range(1, self.num_pages + 1):
-            data.append(self._get_textract_output(i))
+            data.append(self._get_textract_output(i, subfolder=self.kind))
 
         data = pd.concat(data).reset_index(drop=True).fillna("")
 

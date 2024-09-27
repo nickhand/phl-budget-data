@@ -5,7 +5,7 @@ import inspect
 from abc import ABC, abstractmethod
 from collections import defaultdict
 from pathlib import Path
-from typing import Callable, Iterator, Type
+from typing import Callable, Iterator, Type, Optional
 
 import pandas as pd
 from loguru import logger
@@ -169,7 +169,11 @@ class ETLPipelineAWS(ETLPipeline):  # type: ignore
     """
 
     def _get_textract_output(
-        self, pg_num: int, concat_axis: int = 0, remove_headers: bool = False
+        self,
+        pg_num: int,
+        concat_axis: int = 0,
+        remove_headers: bool = False,
+        subfolder: Optional[str] = None,
     ) -> pd.DataFrame:
         """
         Use AWS Textract to extract the contents of the PDF.
@@ -185,6 +189,8 @@ class ETLPipelineAWS(ETLPipeline):  # type: ignore
         """
         # Get the file name
         interim_dir = self.get_data_directory("interim")
+        if subfolder:
+            interim_dir = interim_dir / subfolder
         filename = interim_dir / f"{self.path.stem}-pg-{pg_num}.csv"
 
         # We need to parse
