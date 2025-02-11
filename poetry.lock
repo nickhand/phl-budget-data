@@ -191,13 +191,13 @@ lxml = ["lxml"]
 
 [[package]]
 name = "billy-penn"
-version = "0.1.9"
+version = "0.1.10"
 description = "A package for meta information about the City of Philadelphia's government."
 optional = false
-python-versions = ">=3.8,<4.0"
+python-versions = "<4.0,>=3.8"
 files = [
-    {file = "billy_penn-0.1.9-py3-none-any.whl", hash = "sha256:c7e4466c39a8dfda002e8af22e5bee1c23d810fc56e8877a3205c8dda9b13e69"},
-    {file = "billy_penn-0.1.9.tar.gz", hash = "sha256:85d36fc4477e5509ffe5705d5e4992fb9bb81a418fd2dc957f63f8404cacb9c1"},
+    {file = "billy_penn-0.1.10-py3-none-any.whl", hash = "sha256:97d82ba81c1b3f97e6d92237fda3f4e9d7e605b60a2e556645eaa38d9df7017c"},
+    {file = "billy_penn-0.1.10.tar.gz", hash = "sha256:3d1f20240cf92cdc347785a389e2ade7189337387ca92ae1508a011a958faae7"},
 ]
 
 [package.dependencies]
@@ -3041,4 +3041,4 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<4.0"
-content-hash = "94d63ecab7183f037187ca898ec1a02fe448d21c00869b0b70abe3c706f67468"
+content-hash = "87b397907766137add44b25c9d0c6d256718ab73494fa82c07f517725f036354"

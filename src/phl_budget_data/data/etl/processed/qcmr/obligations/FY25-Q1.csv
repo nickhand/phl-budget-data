@@ -1,0 +1,499 @@
+dept_name_raw,total,fiscal_year,variable,time_period,as_of_date,dept_name,dept_code,abbreviation
+Art Museum Subsidy,2142000,2024,Actual,Full Year,2024-06-30,Art Museum,34,
+Auditing (City Controller's Office),10254412,2024,Actual,Full Year,2024-06-30,City Controller's Office,61,
+Board of Ethics,1048993,2024,Actual,Full Year,2024-06-30,Board of Ethics,45,
+Board of Revision of Taxes,1211595,2024,Actual,Full Year,2024-06-30,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),26853789,2024,Actual,Full Year,2024-06-30,City Commissioner's Office,73,City Commissioners
+City Council,19436356,2024,Actual,Full Year,2024-06-30,City Council,01,
+City Treasurer,4175412,2024,Actual,Full Year,2024-06-30,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,186387,2024,Actual,Full Year,2024-06-30,Civil Service Commission,55,
+Commerce,15503637,2024,Actual,Full Year,2024-06-30,Office of the Director of Commerce,42,Commerce
+Commerce-Convention Center Subsidy,15000000,2024,Actual,Full Year,2024-06-30,Commerce: Convention Center Subsidy,42-CC,
+Commerce-Economic Stimulus,22984879,2024,Actual,Full Year,2024-06-30,Commerce: Economic Stimulus,42-ES,
+District Attorney,54119070,2024,Actual,Full Year,2024-06-30,District Attorney's Office,69,DAO
+Finance,122458048,2024,Actual,Full Year,2024-06-30,Office of the Director of Finance,35,Finance
+Finance-Budget Stabilization Reserve,42261000,2024,Actual,Full Year,2024-06-30,Finance: Budget Stabilization Reserve,35-BSR,
+Finance-Disability-Reg #32 Payroll,6475123,2024,Actual,Full Year,2024-06-30,Finance: Reg #32,35-R32,
+Finance-Grant Match,0,2024,Actual,Full Year,2024-06-30,Finance: Grant Match,35-GM,
+Finance-Community College Subsidy,58983448,2024,Actual,Full Year,2024-06-30,Finance: Community College Subsidy,35-CC,
+Finance Employee Benefits (1),1663428148,2024,Actual,Full Year,2024-06-30,Finance: Employee Benefits,35-EB,Employee Benefits
+Employee Benefits: Unemployment Compensation,1887093,2024,Actual,Full Year,2024-06-30,Employee Benefits: Unemployment Compensation,35-EB-UC,
+Employee Benefits: Employee Disability,90003981,2024,Actual,Full Year,2024-06-30,Employee Benefits: Employee Disability,35-EB-DIS,
+Employee Benefits: Pension Obligation Bonds,120990284,2024,Actual,Full Year,2024-06-30,Employee Benefits: Pension Obligation Bonds,35-EB-POB,
+Employee Benefits: Pension,837916723,2024,Actual,Full Year,2024-06-30,Employee Benefits: Pension,35-EB-PEN,
+Employee Benefits: FICA,97955333,2024,Actual,Full Year,2024-06-30,Employee Benefits: FICA,35-EB-FICA,
+Employee Benefits: Flex Cash Payments,1139318,2024,Actual,Full Year,2024-06-30,Employee Benefits: Flex Cash Payments,35-EB-FLEX,
+Employee Benefits: Health / Medical,502178667,2024,Actual,Full Year,2024-06-30,Employee Benefits: Health/Medical,35-EB-HM,
+Employee Benefits: Group Life Insurance,4671891,2024,Actual,Full Year,2024-06-30,Employee Benefits: Group Life Insurance,35-EB-GLI,
+Employee Benefits: Group Legal,6525108,2024,Actual,Full Year,2024-06-30,Employee Benefits: Group Legal,35-EB-GL,
+Employee Benefits: Tool Allowance,159750,2024,Actual,Full Year,2024-06-30,Employee Benefits: Tool Allowance,35-EB-TA,
+Finance-Hero Scholarship Awards,22000,2024,Actual,Full Year,2024-06-30,Finance: Hero Scholarship Awards,35-HA,
+Finance-Payment to Housing Trust Fund,30612698,2024,Actual,Full Year,2024-06-30,Finance: Housing Trust Fund,35-HTF,
+Finance-Indemnities (2),-6432629,2024,Actual,Full Year,2024-06-30,Finance: Indemnities,35-IN,
+Finance-Refunds,238134,2024,Actual,Full Year,2024-06-30,Finance: Refunds,35-R,
+Finance-School District Contribution,282052590,2024,Actual,Full Year,2024-06-30,Finance: School District Contribution,35-SD,
+Finance-Witness Fees,179100,2024,Actual,Full Year,2024-06-30,Finance: Witness Fees,35-WF,
+Fire,411328135,2024,Actual,Full Year,2024-06-30,Fire Department,13,Fire
+First Judicial District,128755233,2024,Actual,Full Year,2024-06-30,First Judicial District,84,FJD
+Fleet Services,56747082,2024,Actual,Full Year,2024-06-30,Office of Fleet Management,25,Fleet
+Fleet Services Vehicle Purchases,41044910,2024,Actual,Full Year,2024-06-30,Fleet: Vehicle Lease/Purchases,25-V,
+Free Library,59443608,2024,Actual,Full Year,2024-06-30,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,2540360,2024,Actual,Full Year,2024-06-30,Commission on Human Relations,54,Human Relations
+Human Services,216594318,2024,Actual,Full Year,2024-06-30,Department of Human Services,22,DHS
+Labor,4043151,2024,Actual,Full Year,2024-06-30,Labor,03,
+Law,33088597,2024,Actual,Full Year,2024-06-30,Law Department,44,Law
+Licenses & Inspections,42679821,2024,Actual,Full Year,2024-06-30,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,86372,2024,Actual,Full Year,2024-06-30,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,181127,2024,Actual,Full Year,2024-06-30,L&I: Board of Review,27,
+Managing Director-Base,187859110,2024,Actual,Full Year,2024-06-30,Managing Director's Office,10,MDO
+Managing Director-Citizens Police Oversight Commission,1390833,2024,Actual,Full Year,2024-06-30,MDO: Citizens Police Oversight Commission,10-CP,
+Managing Director-Defender Association,54283600,2024,Actual,Full Year,2024-06-30,MDO: Legal Services,10-LS,
+Managing Director-Clean and Green (3),0,2024,Actual,Full Year,2024-06-30,MDO: Clean and Green,10-CG,
+Managing Director-Public Safety (3),0,2024,Actual,Full Year,2024-06-30,MDO: Public Safety,10-PS,
+Mayor's Office,8201125,2024,Actual,Full Year,2024-06-30,Mayor's Office,05,Mayor
+Mayor's Office-Scholarships,60043,2024,Actual,Full Year,2024-06-30,Mayor's Office: Scholarships,05-S,
+Mayor's Office-Comm. Empowerment & Opp.,2666794,2024,Actual,Full Year,2024-06-30,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,3506907,2024,Actual,Full Year,2024-06-30,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture (3),0,2024,Actual,Full Year,2024-06-30,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,29724186,2024,Actual,Full Year,2024-06-30,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,14546475,2024,Actual,Full Year,2024-06-30,Office of the Chief Administrative Officer,65,CAO
+Office of Education,481098,2024,Actual,Full Year,2024-06-30,Office of Children and Families,66,OCF
+Office of Homeless Services,82062853,2024,Actual,Full Year,2024-06-30,Office of Homeless Services,24,OHS
+Office of Human Resources,14033058,2024,Actual,Full Year,2024-06-30,Office of Human Resources,56,OHR
+Office of Innovation and Technology-Base,91889056,2024,Actual,Full Year,2024-06-30,Office of Innovation and Technology,04,OIT
+Office of Innovation and Technology-911,13930680,2024,Actual,Full Year,2024-06-30,OIT: 911,04-911,
+Office of the Inspector General,1875081,2024,Actual,Full Year,2024-06-30,Office of the Inspector General,48,OIG
+Office of Property Assessment,15397406,2024,Actual,Full Year,2024-06-30,Office of Property Assessment,59,OPA
+Office of Sustainability,3442572,2024,Actual,Full Year,2024-06-30,Office of Sustainability,49,Sustainability
+Parks and Recreation,83254916,2024,Actual,Full Year,2024-06-30,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,32729325,2024,Actual,Full Year,2024-06-30,Department of Planning and Development,72,Planning & Development
+Police,873063727,2024,Actual,Full Year,2024-06-30,Police Department,11,Police
+Prisons,253147157,2024,Actual,Full Year,2024-06-30,Philadelphia Prison System,23,Prisons
+Procurement,6170980,2024,Actual,Full Year,2024-06-30,Procurement Department,38,Procurement
+Public Health,152109295,2024,Actual,Full Year,2024-06-30,Department of Public Health,14,Public Health
+Public Property,98064728,2024,Actual,Full Year,2024-06-30,Department of Public Property,20,Public Property
+Public Property-SEPTA Subsidy,109567000,2024,Actual,Full Year,2024-06-30,Public Property: SEPTA Subsidy,20-SS,
+Public Property-Space Rentals,37309097,2024,Actual,Full Year,2024-06-30,Public Property: Space Rentals,20-SR,
+Public Property-Utilities,28534487,2024,Actual,Full Year,2024-06-30,Public Property: Utilities,20-U,
+Records,4368412,2024,Actual,Full Year,2024-06-30,Department of Records,31,Records
+Register of Wills,5045259,2024,Actual,Full Year,2024-06-30,Register of Wills,68,
+Revenue,25735865,2024,Actual,Full Year,2024-06-30,Department of Revenue,36,Revenue
+Sheriff,32881063,2024,Actual,Full Year,2024-06-30,Office of the Sheriff,70,Sheriff
+Sinking Fund Commission (Debt Service),294424846,2024,Actual,Full Year,2024-06-30,Sinking Fund Commission,37,Sinking Fund
+Streets-Disposal,55899306,2024,Actual,Full Year,2024-06-30,Streets: Disposal,12-D,
+Streets,147351294,2024,Actual,Full Year,2024-06-30,Streets Department,12,Streets
+Art Museum Subsidy,0,2025,Target Budget,YTD,2024-09-30,Art Museum,34,
+Auditing (City Controller's Office),2569710,2025,Target Budget,YTD,2024-09-30,City Controller's Office,61,
+Board of Ethics,232149,2025,Target Budget,YTD,2024-09-30,Board of Ethics,45,
+Board of Revision of Taxes,268031,2025,Target Budget,YTD,2024-09-30,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),9680704,2025,Target Budget,YTD,2024-09-30,City Commissioner's Office,73,City Commissioners
+City Council,5059283,2025,Target Budget,YTD,2024-09-30,City Council,01,
+City Treasurer,458401,2025,Target Budget,YTD,2024-09-30,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,32250,2025,Target Budget,YTD,2024-09-30,Civil Service Commission,55,
+Commerce,2817775,2025,Target Budget,YTD,2024-09-30,Office of the Director of Commerce,42,Commerce
+Commerce-Convention Center Subsidy,15000000,2025,Target Budget,YTD,2024-09-30,Commerce: Convention Center Subsidy,42-CC,
+Commerce-Economic Stimulus,21773394,2025,Target Budget,YTD,2024-09-30,Commerce: Economic Stimulus,42-ES,
+District Attorney,13583868,2025,Target Budget,YTD,2024-09-30,District Attorney's Office,69,DAO
+Finance,7612918,2025,Target Budget,YTD,2024-09-30,Office of the Director of Finance,35,Finance
+Finance-Budget Stabilization Reserve,58291000,2025,Target Budget,YTD,2024-09-30,Finance: Budget Stabilization Reserve,35-BSR,
+Finance-Disability-Reg #32 Payroll,3279609,2025,Target Budget,YTD,2024-09-30,Finance: Reg #32,35-R32,
+Finance-Grant Match,0,2025,Target Budget,YTD,2024-09-30,Finance: Grant Match,35-GM,
+Finance-Community College Subsidy,56003181,2025,Target Budget,YTD,2024-09-30,Finance: Community College Subsidy,35-CC,
+Finance Employee Benefits (1),218833451,2025,Target Budget,YTD,2024-09-30,Finance: Employee Benefits,35-EB,Employee Benefits
+Employee Benefits: Unemployment Compensation,670481,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Unemployment Compensation,35-EB-UC,
+Employee Benefits: Employee Disability,30446623,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Employee Disability,35-EB-DIS,
+Employee Benefits: Pension Obligation Bonds,12966626,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Pension Obligation Bonds,35-EB-POB,
+Employee Benefits: Pension,-7860020,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Pension,35-EB-PEN,
+Employee Benefits: FICA,25218033,2025,Target Budget,YTD,2024-09-30,Employee Benefits: FICA,35-EB-FICA,
+Employee Benefits: Flex Cash Payments,0,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Flex Cash Payments,35-EB-FLEX,
+Employee Benefits: Health / Medical,154192745,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Health/Medical,35-EB-HM,
+Employee Benefits: Group Life Insurance,1156109,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Group Life Insurance,35-EB-GLI,
+Employee Benefits: Group Legal,2042854,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Group Legal,35-EB-GL,
+Employee Benefits: Tool Allowance,0,2025,Target Budget,YTD,2024-09-30,Employee Benefits: Tool Allowance,35-EB-TA,
+Finance-Hero Scholarship Awards,0,2025,Target Budget,YTD,2024-09-30,Finance: Hero Scholarship Awards,35-HA,
+Finance-Payment to Housing Trust Fund,31390926,2025,Target Budget,YTD,2024-09-30,Finance: Housing Trust Fund,35-HTF,
+Finance-Indemnities (2),41985687,2025,Target Budget,YTD,2024-09-30,Finance: Indemnities,35-IN,
+Finance-Refunds,10828,2025,Target Budget,YTD,2024-09-30,Finance: Refunds,35-R,
+Finance-School District Contribution,71013148,2025,Target Budget,YTD,2024-09-30,Finance: School District Contribution,35-SD,
+Finance-Witness Fees,56249,2025,Target Budget,YTD,2024-09-30,Finance: Witness Fees,35-WF,
+Fire,94195733,2025,Target Budget,YTD,2024-09-30,Fire Department,13,Fire
+First Judicial District,27504759,2025,Target Budget,YTD,2024-09-30,First Judicial District,84,FJD
+Fleet Services,23517207,2025,Target Budget,YTD,2024-09-30,Office of Fleet Management,25,Fleet
+Fleet Services Vehicle Purchases,4267131,2025,Target Budget,YTD,2024-09-30,Fleet: Vehicle Lease/Purchases,25-V,
+Free Library,17933044,2025,Target Budget,YTD,2024-09-30,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,628988,2025,Target Budget,YTD,2024-09-30,Commission on Human Relations,54,Human Relations
+Human Services,149109660,2025,Target Budget,YTD,2024-09-30,Department of Human Services,22,DHS
+Labor,827181,2025,Target Budget,YTD,2024-09-30,Labor,03,
+Law,8962071,2025,Target Budget,YTD,2024-09-30,Law Department,44,Law
+Licenses & Inspections,10895807,2025,Target Budget,YTD,2024-09-30,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,20427,2025,Target Budget,YTD,2024-09-30,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,53345,2025,Target Budget,YTD,2024-09-30,L&I: Board of Review,27,
+Managing Director-Base,64208150,2025,Target Budget,YTD,2024-09-30,Managing Director's Office,10,MDO
+Managing Director-Citizens Police Oversight Commission,461529,2025,Target Budget,YTD,2024-09-30,MDO: Citizens Police Oversight Commission,10-CP,
+Managing Director-Defender Association,66497780,2025,Target Budget,YTD,2024-09-30,MDO: Legal Services,10-LS,
+Managing Director-Clean and Green (3),59847,2025,Target Budget,YTD,2024-09-30,MDO: Clean and Green,10-CG,
+Managing Director-Public Safety (3),2675532,2025,Target Budget,YTD,2024-09-30,MDO: Public Safety,10-PS,
+Mayor's Office,2287061,2025,Target Budget,YTD,2024-09-30,Mayor's Office,05,Mayor
+Mayor's Office-Scholarships,0,2025,Target Budget,YTD,2024-09-30,Mayor's Office: Scholarships,05-S,
+Mayor's Office-Comm. Empowerment & Opp.,1191442,2025,Target Budget,YTD,2024-09-30,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,122164,2025,Target Budget,YTD,2024-09-30,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture (3),800000,2025,Target Budget,YTD,2024-09-30,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,11504522,2025,Target Budget,YTD,2024-09-30,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,4112506,2025,Target Budget,YTD,2024-09-30,Office of the Chief Administrative Officer,65,CAO
+Office of Education,124852,2025,Target Budget,YTD,2024-09-30,Office of Children and Families,66,OCF
+Office of Homeless Services,45953470,2025,Target Budget,YTD,2024-09-30,Office of Homeless Services,24,OHS
+Office of Human Resources,2153366,2025,Target Budget,YTD,2024-09-30,Office of Human Resources,56,OHR
+Office of Innovation and Technology-Base,40450009,2025,Target Budget,YTD,2024-09-30,Office of Innovation and Technology,04,OIT
+Office of Innovation and Technology-911,10759451,2025,Target Budget,YTD,2024-09-30,OIT: 911,04-911,
+Office of the Inspector General,462176,2025,Target Budget,YTD,2024-09-30,Office of the Inspector General,48,OIG
+Office of Property Assessment,4242239,2025,Target Budget,YTD,2024-09-30,Office of Property Assessment,59,OPA
+Office of Sustainability,596063,2025,Target Budget,YTD,2024-09-30,Office of Sustainability,49,Sustainability
+Parks and Recreation,27199064,2025,Target Budget,YTD,2024-09-30,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,4560584,2025,Target Budget,YTD,2024-09-30,Department of Planning and Development,72,Planning & Development
+Police,187025088,2025,Target Budget,YTD,2024-09-30,Police Department,11,Police
+Prisons,111676363,2025,Target Budget,YTD,2024-09-30,Philadelphia Prison System,23,Prisons
+Procurement,1413569,2025,Target Budget,YTD,2024-09-30,Procurement Department,38,Procurement
+Public Health,58308361,2025,Target Budget,YTD,2024-09-30,Department of Public Health,14,Public Health
+Public Property,40201777,2025,Target Budget,YTD,2024-09-30,Department of Public Property,20,Public Property
+Public Property-SEPTA Subsidy,0,2025,Target Budget,YTD,2024-09-30,Public Property: SEPTA Subsidy,20-SS,
+Public Property-Space Rentals,37705029,2025,Target Budget,YTD,2024-09-30,Public Property: Space Rentals,20-SR,
+Public Property-Utilities,26074511,2025,Target Budget,YTD,2024-09-30,Public Property: Utilities,20-U,
+Records,1290882,2025,Target Budget,YTD,2024-09-30,Department of Records,31,Records
+Register of Wills,1028379,2025,Target Budget,YTD,2024-09-30,Register of Wills,68,
+Revenue,7774158,2025,Target Budget,YTD,2024-09-30,Department of Revenue,36,Revenue
+Sheriff,8411063,2025,Target Budget,YTD,2024-09-30,Office of the Sheriff,70,Sheriff
+Sinking Fund Commission (Debt Service),168042809,2025,Target Budget,YTD,2024-09-30,Sinking Fund Commission,37,Sinking Fund
+Streets-Disposal,15520868,2025,Target Budget,YTD,2024-09-30,Streets: Disposal,12-D,
+Streets,23749557,2025,Target Budget,YTD,2024-09-30,Streets Department,12,Streets
+Art Museum Subsidy,0,2025,Actual,YTD,2024-09-30,Art Museum,34,
+Auditing (City Controller's Office),2569710,2025,Actual,YTD,2024-09-30,City Controller's Office,61,
+Board of Ethics,232149,2025,Actual,YTD,2024-09-30,Board of Ethics,45,
+Board of Revision of Taxes,268031,2025,Actual,YTD,2024-09-30,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),9680704,2025,Actual,YTD,2024-09-30,City Commissioner's Office,73,City Commissioners
+City Council,5059283,2025,Actual,YTD,2024-09-30,City Council,01,
+City Treasurer,458401,2025,Actual,YTD,2024-09-30,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,32250,2025,Actual,YTD,2024-09-30,Civil Service Commission,55,
+Commerce,2817775,2025,Actual,YTD,2024-09-30,Office of the Director of Commerce,42,Commerce
+Commerce-Convention Center Subsidy,15000000,2025,Actual,YTD,2024-09-30,Commerce: Convention Center Subsidy,42-CC,
+Commerce-Economic Stimulus,21773394,2025,Actual,YTD,2024-09-30,Commerce: Economic Stimulus,42-ES,
+District Attorney,13583868,2025,Actual,YTD,2024-09-30,District Attorney's Office,69,DAO
+Finance,7612918,2025,Actual,YTD,2024-09-30,Office of the Director of Finance,35,Finance
+Finance-Budget Stabilization Reserve,58291000,2025,Actual,YTD,2024-09-30,Finance: Budget Stabilization Reserve,35-BSR,
+Finance-Disability-Reg #32 Payroll,3279609,2025,Actual,YTD,2024-09-30,Finance: Reg #32,35-R32,
+Finance-Grant Match,0,2025,Actual,YTD,2024-09-30,Finance: Grant Match,35-GM,
+Finance-Community College Subsidy,56003181,2025,Actual,YTD,2024-09-30,Finance: Community College Subsidy,35-CC,
+Finance Employee Benefits (1),218833451,2025,Actual,YTD,2024-09-30,Finance: Employee Benefits,35-EB,Employee Benefits
+Employee Benefits: Unemployment Compensation,670481,2025,Actual,YTD,2024-09-30,Employee Benefits: Unemployment Compensation,35-EB-UC,
+Employee Benefits: Employee Disability,30446623,2025,Actual,YTD,2024-09-30,Employee Benefits: Employee Disability,35-EB-DIS,
+Employee Benefits: Pension Obligation Bonds,12966626,2025,Actual,YTD,2024-09-30,Employee Benefits: Pension Obligation Bonds,35-EB-POB,
+Employee Benefits: Pension,-7860020,2025,Actual,YTD,2024-09-30,Employee Benefits: Pension,35-EB-PEN,
+Employee Benefits: FICA,25218033,2025,Actual,YTD,2024-09-30,Employee Benefits: FICA,35-EB-FICA,
+Employee Benefits: Flex Cash Payments,0,2025,Actual,YTD,2024-09-30,Employee Benefits: Flex Cash Payments,35-EB-FLEX,
+Employee Benefits: Health / Medical,154192745,2025,Actual,YTD,2024-09-30,Employee Benefits: Health/Medical,35-EB-HM,
+Employee Benefits: Group Life Insurance,1156109,2025,Actual,YTD,2024-09-30,Employee Benefits: Group Life Insurance,35-EB-GLI,
+Employee Benefits: Group Legal,2042854,2025,Actual,YTD,2024-09-30,Employee Benefits: Group Legal,35-EB-GL,
+Employee Benefits: Tool Allowance,0,2025,Actual,YTD,2024-09-30,Employee Benefits: Tool Allowance,35-EB-TA,
+Finance-Hero Scholarship Awards,0,2025,Actual,YTD,2024-09-30,Finance: Hero Scholarship Awards,35-HA,
+Finance-Payment to Housing Trust Fund,31390926,2025,Actual,YTD,2024-09-30,Finance: Housing Trust Fund,35-HTF,
+Finance-Indemnities (2),41985687,2025,Actual,YTD,2024-09-30,Finance: Indemnities,35-IN,
+Finance-Refunds,10828,2025,Actual,YTD,2024-09-30,Finance: Refunds,35-R,
+Finance-School District Contribution,71013148,2025,Actual,YTD,2024-09-30,Finance: School District Contribution,35-SD,
+Finance-Witness Fees,56249,2025,Actual,YTD,2024-09-30,Finance: Witness Fees,35-WF,
+Fire,94195733,2025,Actual,YTD,2024-09-30,Fire Department,13,Fire
+First Judicial District,27504759,2025,Actual,YTD,2024-09-30,First Judicial District,84,FJD
+Fleet Services,23517207,2025,Actual,YTD,2024-09-30,Office of Fleet Management,25,Fleet
+Fleet Services Vehicle Purchases,4267131,2025,Actual,YTD,2024-09-30,Fleet: Vehicle Lease/Purchases,25-V,
+Free Library,17933044,2025,Actual,YTD,2024-09-30,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,628988,2025,Actual,YTD,2024-09-30,Commission on Human Relations,54,Human Relations
+Human Services,149109660,2025,Actual,YTD,2024-09-30,Department of Human Services,22,DHS
+Labor,827181,2025,Actual,YTD,2024-09-30,Labor,03,
+Law,8962071,2025,Actual,YTD,2024-09-30,Law Department,44,Law
+Licenses & Inspections,10895807,2025,Actual,YTD,2024-09-30,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,20427,2025,Actual,YTD,2024-09-30,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,53345,2025,Actual,YTD,2024-09-30,L&I: Board of Review,27,
+Managing Director-Base,64208150,2025,Actual,YTD,2024-09-30,Managing Director's Office,10,MDO
+Managing Director-Citizens Police Oversight Commission,461529,2025,Actual,YTD,2024-09-30,MDO: Citizens Police Oversight Commission,10-CP,
+Managing Director-Defender Association,66497780,2025,Actual,YTD,2024-09-30,MDO: Legal Services,10-LS,
+Managing Director-Clean and Green (3),59847,2025,Actual,YTD,2024-09-30,MDO: Clean and Green,10-CG,
+Managing Director-Public Safety (3),2675532,2025,Actual,YTD,2024-09-30,MDO: Public Safety,10-PS,
+Mayor's Office,2287061,2025,Actual,YTD,2024-09-30,Mayor's Office,05,Mayor
+Mayor's Office-Scholarships,0,2025,Actual,YTD,2024-09-30,Mayor's Office: Scholarships,05-S,
+Mayor's Office-Comm. Empowerment & Opp.,1191442,2025,Actual,YTD,2024-09-30,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,122164,2025,Actual,YTD,2024-09-30,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture (3),800000,2025,Actual,YTD,2024-09-30,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,11504522,2025,Actual,YTD,2024-09-30,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,4112506,2025,Actual,YTD,2024-09-30,Office of the Chief Administrative Officer,65,CAO
+Office of Education,124852,2025,Actual,YTD,2024-09-30,Office of Children and Families,66,OCF
+Office of Homeless Services,45953470,2025,Actual,YTD,2024-09-30,Office of Homeless Services,24,OHS
+Office of Human Resources,2153366,2025,Actual,YTD,2024-09-30,Office of Human Resources,56,OHR
+Office of Innovation and Technology-Base,40450009,2025,Actual,YTD,2024-09-30,Office of Innovation and Technology,04,OIT
+Office of Innovation and Technology-911,10759451,2025,Actual,YTD,2024-09-30,OIT: 911,04-911,
+Office of the Inspector General,462176,2025,Actual,YTD,2024-09-30,Office of the Inspector General,48,OIG
+Office of Property Assessment,4242239,2025,Actual,YTD,2024-09-30,Office of Property Assessment,59,OPA
+Office of Sustainability,596063,2025,Actual,YTD,2024-09-30,Office of Sustainability,49,Sustainability
+Parks and Recreation,27199064,2025,Actual,YTD,2024-09-30,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,4560584,2025,Actual,YTD,2024-09-30,Department of Planning and Development,72,Planning & Development
+Police,187025088,2025,Actual,YTD,2024-09-30,Police Department,11,Police
+Prisons,111676363,2025,Actual,YTD,2024-09-30,Philadelphia Prison System,23,Prisons
+Procurement,1413569,2025,Actual,YTD,2024-09-30,Procurement Department,38,Procurement
+Public Health,58308361,2025,Actual,YTD,2024-09-30,Department of Public Health,14,Public Health
+Public Property,40201777,2025,Actual,YTD,2024-09-30,Department of Public Property,20,Public Property
+Public Property-SEPTA Subsidy,0,2025,Actual,YTD,2024-09-30,Public Property: SEPTA Subsidy,20-SS,
+Public Property-Space Rentals,37705029,2025,Actual,YTD,2024-09-30,Public Property: Space Rentals,20-SR,
+Public Property-Utilities,26074511,2025,Actual,YTD,2024-09-30,Public Property: Utilities,20-U,
+Records,1290882,2025,Actual,YTD,2024-09-30,Department of Records,31,Records
+Register of Wills,1028379,2025,Actual,YTD,2024-09-30,Register of Wills,68,
+Revenue,7774158,2025,Actual,YTD,2024-09-30,Department of Revenue,36,Revenue
+Sheriff,8411063,2025,Actual,YTD,2024-09-30,Office of the Sheriff,70,Sheriff
+Sinking Fund Commission (Debt Service),168042809,2025,Actual,YTD,2024-09-30,Sinking Fund Commission,37,Sinking Fund
+Streets-Disposal,15520868,2025,Actual,YTD,2024-09-30,Streets: Disposal,12-D,
+Streets,23749557,2025,Actual,YTD,2024-09-30,Streets Department,12,Streets
+Art Museum Subsidy,2642000,2025,Adopted Budget,Full Year,2024-09-30,Art Museum,34,
+Auditing (City Controller's Office),11148245,2025,Adopted Budget,Full Year,2024-09-30,City Controller's Office,61,
+Board of Ethics,1382433,2025,Adopted Budget,Full Year,2024-09-30,Board of Ethics,45,
+Board of Revision of Taxes,1147431,2025,Adopted Budget,Full Year,2024-09-30,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),33404298,2025,Adopted Budget,Full Year,2024-09-30,City Commissioner's Office,73,City Commissioners
+City Council,25001418,2025,Adopted Budget,Full Year,2024-09-30,City Council,01,
+City Treasurer,5289652,2025,Adopted Budget,Full Year,2024-09-30,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,43718661,2025,Adopted Budget,Full Year,2024-09-30,Civil Service Commission,55,
+Commerce,13922041,2025,Adopted Budget,Full Year,2024-09-30,Office of the Director of Commerce,42,Commerce
+Commerce-Convention Center Subsidy,15000000,2025,Adopted Budget,Full Year,2024-09-30,Commerce: Convention Center Subsidy,42-CC,
+Commerce-Economic Stimulus,32795294,2025,Adopted Budget,Full Year,2024-09-30,Commerce: Economic Stimulus,42-ES,
+District Attorney,54286779,2025,Adopted Budget,Full Year,2024-09-30,District Attorney's Office,69,DAO
+Finance,27587281,2025,Adopted Budget,Full Year,2024-09-30,Office of the Director of Finance,35,Finance
+Finance-Budget Stabilization Reserve,58291000,2025,Adopted Budget,Full Year,2024-09-30,Finance: Budget Stabilization Reserve,35-BSR,
+Finance-Disability-Reg #32 Payroll,7200000,2025,Adopted Budget,Full Year,2024-09-30,Finance: Reg #32,35-R32,
+Finance-Grant Match,0,2025,Adopted Budget,Full Year,2024-09-30,Finance: Grant Match,35-GM,
+Finance-Community College Subsidy,56003181,2025,Adopted Budget,Full Year,2024-09-30,Finance: Community College Subsidy,35-CC,
+Finance Employee Benefits (1),1677120077,2025,Adopted Budget,Full Year,2024-09-30,Finance: Employee Benefits,35-EB,Employee Benefits
+Employee Benefits: Unemployment Compensation,4600000,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Unemployment Compensation,35-EB-UC,
+Employee Benefits: Employee Disability,112137837,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Employee Disability,35-EB-DIS,
+Employee Benefits: Pension Obligation Bonds,129721808,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Pension Obligation Bonds,35-EB-POB,
+Employee Benefits: Pension,703425153,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Pension,35-EB-PEN,
+Employee Benefits: FICA,101729695,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: FICA,35-EB-FICA,
+Employee Benefits: Flex Cash Payments,1700000,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Flex Cash Payments,35-EB-FLEX,
+Employee Benefits: Health / Medical,607955584,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Health/Medical,35-EB-HM,
+Employee Benefits: Group Life Insurance,9000000,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Group Life Insurance,35-EB-GLI,
+Employee Benefits: Group Legal,6500000,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Group Legal,35-EB-GL,
+Employee Benefits: Tool Allowance,350000,2025,Adopted Budget,Full Year,2024-09-30,Employee Benefits: Tool Allowance,35-EB-TA,
+Finance-Hero Scholarship Awards,50000,2025,Adopted Budget,Full Year,2024-09-30,Finance: Hero Scholarship Awards,35-HA,
+Finance-Payment to Housing Trust Fund,31006714,2025,Adopted Budget,Full Year,2024-09-30,Finance: Housing Trust Fund,35-HTF,
+Finance-Indemnities (2),61246000,2025,Adopted Budget,Full Year,2024-09-30,Finance: Indemnities,35-IN,
+Finance-Refunds,250000,2025,Adopted Budget,Full Year,2024-09-30,Finance: Refunds,35-R,
+Finance-School District Contribution,284052590,2025,Adopted Budget,Full Year,2024-09-30,Finance: School District Contribution,35-SD,
+Finance-Witness Fees,180094,2025,Adopted Budget,Full Year,2024-09-30,Finance: Witness Fees,35-WF,
+Fire,432093306,2025,Adopted Budget,Full Year,2024-09-30,Fire Department,13,Fire
+First Judicial District,129901368,2025,Adopted Budget,Full Year,2024-09-30,First Judicial District,84,FJD
+Fleet Services,52312815,2025,Adopted Budget,Full Year,2024-09-30,Office of Fleet Management,25,Fleet
+Fleet Services Vehicle Purchases,6047245,2025,Adopted Budget,Full Year,2024-09-30,Fleet: Vehicle Lease/Purchases,25-V,
+Free Library,71703640,2025,Adopted Budget,Full Year,2024-09-30,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,2758676,2025,Adopted Budget,Full Year,2024-09-30,Commission on Human Relations,54,Human Relations
+Human Services,222404818,2025,Adopted Budget,Full Year,2024-09-30,Department of Human Services,22,DHS
+Labor,4653592,2025,Adopted Budget,Full Year,2024-09-30,Labor,03,
+Law,29701870,2025,Adopted Budget,Full Year,2024-09-30,Law Department,44,Law
+Licenses & Inspections,43226201,2025,Adopted Budget,Full Year,2024-09-30,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,86609,2025,Adopted Budget,Full Year,2024-09-30,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,182543,2025,Adopted Budget,Full Year,2024-09-30,L&I: Board of Review,27,
+Managing Director-Base,177556197,2025,Adopted Budget,Full Year,2024-09-30,Managing Director's Office,10,MDO
+Managing Director-Citizens Police Oversight Commission,3023642,2025,Adopted Budget,Full Year,2024-09-30,MDO: Citizens Police Oversight Commission,10-CP,
+Managing Director-Defender Association,65997780,2025,Adopted Budget,Full Year,2024-09-30,MDO: Legal Services,10-LS,
+Managing Director-Clean and Green (3),1055000,2025,Adopted Budget,Full Year,2024-09-30,MDO: Clean and Green,10-CG,
+Managing Director-Public Safety (3),13384101,2025,Adopted Budget,Full Year,2024-09-30,MDO: Public Safety,10-PS,
+Mayor's Office,15275533,2025,Adopted Budget,Full Year,2024-09-30,Mayor's Office,05,Mayor
+Mayor's Office-Scholarships,0,2025,Adopted Budget,Full Year,2024-09-30,Mayor's Office: Scholarships,05-S,
+Mayor's Office-Comm. Empowerment & Opp.,5913909,2025,Adopted Budget,Full Year,2024-09-30,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,3683320,2025,Adopted Budget,Full Year,2024-09-30,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture (3),10825601,2025,Adopted Budget,Full Year,2024-09-30,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,28998703,2025,Adopted Budget,Full Year,2024-09-30,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,20225522,2025,Adopted Budget,Full Year,2024-09-30,Office of the Chief Administrative Officer,65,CAO
+Office of Education,949098,2025,Adopted Budget,Full Year,2024-09-30,Office of Children and Families,66,OCF
+Office of Homeless Services,88714379,2025,Adopted Budget,Full Year,2024-09-30,Office of Homeless Services,24,OHS
+Office of Human Resources,10376056,2025,Adopted Budget,Full Year,2024-09-30,Office of Human Resources,56,OHR
+Office of Innovation and Technology-Base,107622232,2025,Adopted Budget,Full Year,2024-09-30,Office of Innovation and Technology,04,OIT
+Office of Innovation and Technology-911,27840014,2025,Adopted Budget,Full Year,2024-09-30,OIT: 911,04-911,
+Office of the Inspector General,2846548,2025,Adopted Budget,Full Year,2024-09-30,Office of the Inspector General,48,OIG
+Office of Property Assessment,18310182,2025,Adopted Budget,Full Year,2024-09-30,Office of Property Assessment,59,OPA
+Office of Sustainability,2450013,2025,Adopted Budget,Full Year,2024-09-30,Office of Sustainability,49,Sustainability
+Parks and Recreation,81498310,2025,Adopted Budget,Full Year,2024-09-30,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,17780802,2025,Adopted Budget,Full Year,2024-09-30,Department of Planning and Development,72,Planning & Development
+Police,877435832,2025,Adopted Budget,Full Year,2024-09-30,Police Department,11,Police
+Prisons,300962781,2025,Adopted Budget,Full Year,2024-09-30,Philadelphia Prison System,23,Prisons
+Procurement,6769498,2025,Adopted Budget,Full Year,2024-09-30,Procurement Department,38,Procurement
+Public Health,151826661,2025,Adopted Budget,Full Year,2024-09-30,Department of Public Health,14,Public Health
+Public Property,88063779,2025,Adopted Budget,Full Year,2024-09-30,Department of Public Property,20,Public Property
+Public Property-SEPTA Subsidy,133291440,2025,Adopted Budget,Full Year,2024-09-30,Public Property: SEPTA Subsidy,20-SS,
+Public Property-Space Rentals,40038929,2025,Adopted Budget,Full Year,2024-09-30,Public Property: Space Rentals,20-SR,
+Public Property-Utilities,26276250,2025,Adopted Budget,Full Year,2024-09-30,Public Property: Utilities,20-U,
+Records,4595951,2025,Adopted Budget,Full Year,2024-09-30,Department of Records,31,Records
+Register of Wills,5774798,2025,Adopted Budget,Full Year,2024-09-30,Register of Wills,68,
+Revenue,31997395,2025,Adopted Budget,Full Year,2024-09-30,Department of Revenue,36,Revenue
+Sheriff,35666954,2025,Adopted Budget,Full Year,2024-09-30,Office of the Sheriff,70,Sheriff
+Sinking Fund Commission (Debt Service),355527473,2025,Adopted Budget,Full Year,2024-09-30,Sinking Fund Commission,37,Sinking Fund
+Streets-Disposal,59589127,2025,Adopted Budget,Full Year,2024-09-30,Streets: Disposal,12-D,
+Streets,107541318,2025,Adopted Budget,Full Year,2024-09-30,Streets Department,12,Streets
+Art Museum Subsidy,2642000,2025,Target Budget,Full Year,2024-09-30,Art Museum,34,
+Auditing (City Controller's Office),11148245,2025,Target Budget,Full Year,2024-09-30,City Controller's Office,61,
+Board of Ethics,1382433,2025,Target Budget,Full Year,2024-09-30,Board of Ethics,45,
+Board of Revision of Taxes,1147431,2025,Target Budget,Full Year,2024-09-30,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),33404298,2025,Target Budget,Full Year,2024-09-30,City Commissioner's Office,73,City Commissioners
+City Council,25001418,2025,Target Budget,Full Year,2024-09-30,City Council,01,
+City Treasurer,5289652,2025,Target Budget,Full Year,2024-09-30,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,43718661,2025,Target Budget,Full Year,2024-09-30,Civil Service Commission,55,
+Commerce,13922041,2025,Target Budget,Full Year,2024-09-30,Office of the Director of Commerce,42,Commerce
+Commerce-Convention Center Subsidy,15000000,2025,Target Budget,Full Year,2024-09-30,Commerce: Convention Center Subsidy,42-CC,
+Commerce-Economic Stimulus,32795294,2025,Target Budget,Full Year,2024-09-30,Commerce: Economic Stimulus,42-ES,
+District Attorney,54286779,2025,Target Budget,Full Year,2024-09-30,District Attorney's Office,69,DAO
+Finance,27587281,2025,Target Budget,Full Year,2024-09-30,Office of the Director of Finance,35,Finance
+Finance-Budget Stabilization Reserve,58291000,2025,Target Budget,Full Year,2024-09-30,Finance: Budget Stabilization Reserve,35-BSR,
+Finance-Disability-Reg #32 Payroll,7200000,2025,Target Budget,Full Year,2024-09-30,Finance: Reg #32,35-R32,
+Finance-Grant Match,0,2025,Target Budget,Full Year,2024-09-30,Finance: Grant Match,35-GM,
+Finance-Community College Subsidy,56003181,2025,Target Budget,Full Year,2024-09-30,Finance: Community College Subsidy,35-CC,
+Finance Employee Benefits (1),1677120077,2025,Target Budget,Full Year,2024-09-30,Finance: Employee Benefits,35-EB,Employee Benefits
+Employee Benefits: Unemployment Compensation,4600000,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Unemployment Compensation,35-EB-UC,
+Employee Benefits: Employee Disability,112137837,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Employee Disability,35-EB-DIS,
+Employee Benefits: Pension Obligation Bonds,129721808,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Pension Obligation Bonds,35-EB-POB,
+Employee Benefits: Pension,703425153,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Pension,35-EB-PEN,
+Employee Benefits: FICA,101729695,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: FICA,35-EB-FICA,
+Employee Benefits: Flex Cash Payments,1700000,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Flex Cash Payments,35-EB-FLEX,
+Employee Benefits: Health / Medical,607955584,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Health/Medical,35-EB-HM,
+Employee Benefits: Group Life Insurance,9000000,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Group Life Insurance,35-EB-GLI,
+Employee Benefits: Group Legal,6500000,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Group Legal,35-EB-GL,
+Employee Benefits: Tool Allowance,350000,2025,Target Budget,Full Year,2024-09-30,Employee Benefits: Tool Allowance,35-EB-TA,
+Finance-Hero Scholarship Awards,50000,2025,Target Budget,Full Year,2024-09-30,Finance: Hero Scholarship Awards,35-HA,
+Finance-Payment to Housing Trust Fund,31006714,2025,Target Budget,Full Year,2024-09-30,Finance: Housing Trust Fund,35-HTF,
+Finance-Indemnities (2),61246000,2025,Target Budget,Full Year,2024-09-30,Finance: Indemnities,35-IN,
+Finance-Refunds,250000,2025,Target Budget,Full Year,2024-09-30,Finance: Refunds,35-R,
+Finance-School District Contribution,284052590,2025,Target Budget,Full Year,2024-09-30,Finance: School District Contribution,35-SD,
+Finance-Witness Fees,180094,2025,Target Budget,Full Year,2024-09-30,Finance: Witness Fees,35-WF,
+Fire,432093306,2025,Target Budget,Full Year,2024-09-30,Fire Department,13,Fire
+First Judicial District,129901368,2025,Target Budget,Full Year,2024-09-30,First Judicial District,84,FJD
+Fleet Services,52312815,2025,Target Budget,Full Year,2024-09-30,Office of Fleet Management,25,Fleet
+Fleet Services Vehicle Purchases,6047245,2025,Target Budget,Full Year,2024-09-30,Fleet: Vehicle Lease/Purchases,25-V,
+Free Library,71703640,2025,Target Budget,Full Year,2024-09-30,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,2758676,2025,Target Budget,Full Year,2024-09-30,Commission on Human Relations,54,Human Relations
+Human Services,222404818,2025,Target Budget,Full Year,2024-09-30,Department of Human Services,22,DHS
+Labor,4653592,2025,Target Budget,Full Year,2024-09-30,Labor,03,
+Law,29701870,2025,Target Budget,Full Year,2024-09-30,Law Department,44,Law
+Licenses & Inspections,43226201,2025,Target Budget,Full Year,2024-09-30,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,86609,2025,Target Budget,Full Year,2024-09-30,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,182543,2025,Target Budget,Full Year,2024-09-30,L&I: Board of Review,27,
+Managing Director-Base,177556197,2025,Target Budget,Full Year,2024-09-30,Managing Director's Office,10,MDO
+Managing Director-Citizens Police Oversight Commission,3023642,2025,Target Budget,Full Year,2024-09-30,MDO: Citizens Police Oversight Commission,10-CP,
+Managing Director-Defender Association,65997780,2025,Target Budget,Full Year,2024-09-30,MDO: Legal Services,10-LS,
+Managing Director-Clean and Green (3),1055000,2025,Target Budget,Full Year,2024-09-30,MDO: Clean and Green,10-CG,
+Managing Director-Public Safety (3),13384101,2025,Target Budget,Full Year,2024-09-30,MDO: Public Safety,10-PS,
+Mayor's Office,15275533,2025,Target Budget,Full Year,2024-09-30,Mayor's Office,05,Mayor
+Mayor's Office-Scholarships,0,2025,Target Budget,Full Year,2024-09-30,Mayor's Office: Scholarships,05-S,
+Mayor's Office-Comm. Empowerment & Opp.,5913909,2025,Target Budget,Full Year,2024-09-30,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,3683320,2025,Target Budget,Full Year,2024-09-30,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture (3),10825601,2025,Target Budget,Full Year,2024-09-30,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,28998703,2025,Target Budget,Full Year,2024-09-30,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,20225522,2025,Target Budget,Full Year,2024-09-30,Office of the Chief Administrative Officer,65,CAO
+Office of Education,949098,2025,Target Budget,Full Year,2024-09-30,Office of Children and Families,66,OCF
+Office of Homeless Services,88714379,2025,Target Budget,Full Year,2024-09-30,Office of Homeless Services,24,OHS
+Office of Human Resources,10376056,2025,Target Budget,Full Year,2024-09-30,Office of Human Resources,56,OHR
+Office of Innovation and Technology-Base,107622232,2025,Target Budget,Full Year,2024-09-30,Office of Innovation and Technology,04,OIT
+Office of Innovation and Technology-911,27840014,2025,Target Budget,Full Year,2024-09-30,OIT: 911,04-911,
+Office of the Inspector General,2846548,2025,Target Budget,Full Year,2024-09-30,Office of the Inspector General,48,OIG
+Office of Property Assessment,18310182,2025,Target Budget,Full Year,2024-09-30,Office of Property Assessment,59,OPA
+Office of Sustainability,2450013,2025,Target Budget,Full Year,2024-09-30,Office of Sustainability,49,Sustainability
+Parks and Recreation,81498310,2025,Target Budget,Full Year,2024-09-30,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,17780802,2025,Target Budget,Full Year,2024-09-30,Department of Planning and Development,72,Planning & Development
+Police,877435832,2025,Target Budget,Full Year,2024-09-30,Police Department,11,Police
+Prisons,300962781,2025,Target Budget,Full Year,2024-09-30,Philadelphia Prison System,23,Prisons
+Procurement,6769498,2025,Target Budget,Full Year,2024-09-30,Procurement Department,38,Procurement
+Public Health,151826661,2025,Target Budget,Full Year,2024-09-30,Department of Public Health,14,Public Health
+Public Property,88063779,2025,Target Budget,Full Year,2024-09-30,Department of Public Property,20,Public Property
+Public Property-SEPTA Subsidy,133291440,2025,Target Budget,Full Year,2024-09-30,Public Property: SEPTA Subsidy,20-SS,
+Public Property-Space Rentals,40038929,2025,Target Budget,Full Year,2024-09-30,Public Property: Space Rentals,20-SR,
+Public Property-Utilities,26276250,2025,Target Budget,Full Year,2024-09-30,Public Property: Utilities,20-U,
+Records,4595951,2025,Target Budget,Full Year,2024-09-30,Department of Records,31,Records
+Register of Wills,5774798,2025,Target Budget,Full Year,2024-09-30,Register of Wills,68,
+Revenue,31997395,2025,Target Budget,Full Year,2024-09-30,Department of Revenue,36,Revenue
+Sheriff,35666954,2025,Target Budget,Full Year,2024-09-30,Office of the Sheriff,70,Sheriff
+Sinking Fund Commission (Debt Service),355527473,2025,Target Budget,Full Year,2024-09-30,Sinking Fund Commission,37,Sinking Fund
+Streets-Disposal,59589127,2025,Target Budget,Full Year,2024-09-30,Streets: Disposal,12-D,
+Streets,107541318,2025,Target Budget,Full Year,2024-09-30,Streets Department,12,Streets
+Art Museum Subsidy,2642000,2025,Current Projection,Full Year,2024-09-30,Art Museum,34,
+Auditing (City Controller's Office),11614712,2025,Current Projection,Full Year,2024-09-30,City Controller's Office,61,
+Board of Ethics,1430109,2025,Current Projection,Full Year,2024-09-30,Board of Ethics,45,
+Board of Revision of Taxes,1188388,2025,Current Projection,Full Year,2024-09-30,Board of Revision of Taxes,63,BRT
+City Commissioners (Election Board),33548492,2025,Current Projection,Full Year,2024-09-30,City Commissioner's Office,73,City Commissioners
+City Council,25569327,2025,Current Projection,Full Year,2024-09-30,City Council,01,
+City Treasurer,5364931,2025,Current Projection,Full Year,2024-09-30,Office of the City Treasurer,40,City Treasurer
+Civil Service Commission,51161339,2025,Current Projection,Full Year,2024-09-30,Civil Service Commission,55,
+Commerce,14131053,2025,Current Projection,Full Year,2024-09-30,Office of the Director of Commerce,42,Commerce
+Commerce-Convention Center Subsidy,15000000,2025,Current Projection,Full Year,2024-09-30,Commerce: Convention Center Subsidy,42-CC,
+Commerce-Economic Stimulus,32795294,2025,Current Projection,Full Year,2024-09-30,Commerce: Economic Stimulus,42-ES,
+District Attorney,56173526,2025,Current Projection,Full Year,2024-09-30,District Attorney's Office,69,DAO
+Finance,47693785,2025,Current Projection,Full Year,2024-09-30,Office of the Director of Finance,35,Finance
+Finance-Budget Stabilization Reserve,58291000,2025,Current Projection,Full Year,2024-09-30,Finance: Budget Stabilization Reserve,35-BSR,
+Finance-Disability-Reg #32 Payroll,7200000,2025,Current Projection,Full Year,2024-09-30,Finance: Reg #32,35-R32,
+Finance-Grant Match,15000000,2025,Current Projection,Full Year,2024-09-30,Finance: Grant Match,35-GM,
+Finance-Community College Subsidy,56003181,2025,Current Projection,Full Year,2024-09-30,Finance: Community College Subsidy,35-CC,
+Finance Employee Benefits (1),1677970077,2025,Current Projection,Full Year,2024-09-30,Finance: Employee Benefits,35-EB,Employee Benefits
+Employee Benefits: Unemployment Compensation,4600000,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Unemployment Compensation,35-EB-UC,
+Employee Benefits: Employee Disability,112137837,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Employee Disability,35-EB-DIS,
+Employee Benefits: Pension Obligation Bonds,129721808,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Pension Obligation Bonds,35-EB-POB,
+Employee Benefits: Pension,703425153,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Pension,35-EB-PEN,
+Employee Benefits: FICA,101729695,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: FICA,35-EB-FICA,
+Employee Benefits: Flex Cash Payments,1700000,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Flex Cash Payments,35-EB-FLEX,
+Employee Benefits: Health / Medical,608805584,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Health/Medical,35-EB-HM,
+Employee Benefits: Group Life Insurance,9000000,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Group Life Insurance,35-EB-GLI,
+Employee Benefits: Group Legal,6500000,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Group Legal,35-EB-GL,
+Employee Benefits: Tool Allowance,350000,2025,Current Projection,Full Year,2024-09-30,Employee Benefits: Tool Allowance,35-EB-TA,
+Finance-Hero Scholarship Awards,50000,2025,Current Projection,Full Year,2024-09-30,Finance: Hero Scholarship Awards,35-HA,
+Finance-Payment to Housing Trust Fund,31390926,2025,Current Projection,Full Year,2024-09-30,Finance: Housing Trust Fund,35-HTF,
+Finance-Indemnities (2),111246000,2025,Current Projection,Full Year,2024-09-30,Finance: Indemnities,35-IN,
+Finance-Refunds,250000,2025,Current Projection,Full Year,2024-09-30,Finance: Refunds,35-R,
+Finance-School District Contribution,284052590,2025,Current Projection,Full Year,2024-09-30,Finance: School District Contribution,35-SD,
+Finance-Witness Fees,180094,2025,Current Projection,Full Year,2024-09-30,Finance: Witness Fees,35-WF,
+Fire,432316274,2025,Current Projection,Full Year,2024-09-30,Fire Department,13,Fire
+First Judicial District,133791353,2025,Current Projection,Full Year,2024-09-30,First Judicial District,84,FJD
+Fleet Services,58621754,2025,Current Projection,Full Year,2024-09-30,Office of Fleet Management,25,Fleet
+Fleet Services Vehicle Purchases,11347245,2025,Current Projection,Full Year,2024-09-30,Fleet: Vehicle Lease/Purchases,25-V,
+Free Library,73274439,2025,Current Projection,Full Year,2024-09-30,The Free Library of Philadelphia,52,Free Library
+Human Relations Commission,2897239,2025,Current Projection,Full Year,2024-09-30,Commission on Human Relations,54,Human Relations
+Human Services,224064315,2025,Current Projection,Full Year,2024-09-30,Department of Human Services,22,DHS
+Labor,4787518,2025,Current Projection,Full Year,2024-09-30,Labor,03,
+Law,32036122,2025,Current Projection,Full Year,2024-09-30,Law Department,44,Law
+Licenses & Inspections,44096448,2025,Current Projection,Full Year,2024-09-30,Department of Licenses and Inspections,26,L&I
+L&I-Board of Building Standards,90074,2025,Current Projection,Full Year,2024-09-30,L&I: Board of Building and Standards,29,
+L&I-Board of L & | Review,186369,2025,Current Projection,Full Year,2024-09-30,L&I: Board of Review,27,
+Managing Director-Base,268409698,2025,Current Projection,Full Year,2024-09-30,Managing Director's Office,10,MDO
+Managing Director-Citizens Police Oversight Commission,3106032,2025,Current Projection,Full Year,2024-09-30,MDO: Citizens Police Oversight Commission,10-CP,
+Managing Director-Defender Association,66497780,2025,Current Projection,Full Year,2024-09-30,MDO: Legal Services,10-LS,
+Managing Director-Clean and Green (3),1055000,2025,Current Projection,Full Year,2024-09-30,MDO: Clean and Green,10-CG,
+Managing Director-Public Safety (3),13384101,2025,Current Projection,Full Year,2024-09-30,MDO: Public Safety,10-PS,
+Mayor's Office,15768617,2025,Current Projection,Full Year,2024-09-30,Mayor's Office,05,Mayor
+Mayor's Office-Scholarships,0,2025,Current Projection,Full Year,2024-09-30,Mayor's Office: Scholarships,05-S,
+Mayor's Office-Comm. Empowerment & Opp.,5953222,2025,Current Projection,Full Year,2024-09-30,Mayor's Office of Community Empowerment and Opportunity,08,CEO
+Mural Arts Program,3707386,2025,Current Projection,Full Year,2024-09-30,Mural Arts Program,50,Mural Arts
+Office of Arts and Culture (3),10825601,2025,Current Projection,Full Year,2024-09-30,"Office of Arts, Culture, and the Creative Economy",58,Arts & Culture
+Office of Behavioral HIth & Intellectual disAbility,29200354,2025,Current Projection,Full Year,2024-09-30,Behavioral Health and Intellectual Disability Services,15,DBH/IDS
+Office of the Chief Administrative Officer,20434573,2025,Current Projection,Full Year,2024-09-30,Office of the Chief Administrative Officer,65,CAO
+Office of Education,970866,2025,Current Projection,Full Year,2024-09-30,Office of Children and Families,66,OCF
+Office of Homeless Services,89142207,2025,Current Projection,Full Year,2024-09-30,Office of Homeless Services,24,OHS
+Office of Human Resources,10609786,2025,Current Projection,Full Year,2024-09-30,Office of Human Resources,56,OHR
+Office of Innovation and Technology-Base,109107306,2025,Current Projection,Full Year,2024-09-30,Office of Innovation and Technology,04,OIT
+Office of Innovation and Technology-911,27840014,2025,Current Projection,Full Year,2024-09-30,OIT: 911,04-911,
+Office of the Inspector General,2917417,2025,Current Projection,Full Year,2024-09-30,Office of the Inspector General,48,OIG
+Office of Property Assessment,19018995,2025,Current Projection,Full Year,2024-09-30,Office of Property Assessment,59,OPA
+Office of Sustainability,2541317,2025,Current Projection,Full Year,2024-09-30,Office of Sustainability,49,Sustainability
+Parks and Recreation,84954002,2025,Current Projection,Full Year,2024-09-30,Department of Parks and Recreation,16,Parks & Recreation
+Planning & Development,18107342,2025,Current Projection,Full Year,2024-09-30,Department of Planning and Development,72,Planning & Development
+Police,878878161,2025,Current Projection,Full Year,2024-09-30,Police Department,11,Police
+Prisons,301704840,2025,Current Projection,Full Year,2024-09-30,Philadelphia Prison System,23,Prisons
+Procurement,6924155,2025,Current Projection,Full Year,2024-09-30,Procurement Department,38,Procurement
+Public Health,153875262,2025,Current Projection,Full Year,2024-09-30,Department of Public Health,14,Public Health
+Public Property,88258150,2025,Current Projection,Full Year,2024-09-30,Department of Public Property,20,Public Property
+Public Property-SEPTA Subsidy,133291440,2025,Current Projection,Full Year,2024-09-30,Public Property: SEPTA Subsidy,20-SS,
+Public Property-Space Rentals,40038929,2025,Current Projection,Full Year,2024-09-30,Public Property: Space Rentals,20-SR,
+Public Property-Utilities,26276250,2025,Current Projection,Full Year,2024-09-30,Public Property: Utilities,20-U,
+Records,4683805,2025,Current Projection,Full Year,2024-09-30,Department of Records,31,Records
+Register of Wills,5856390,2025,Current Projection,Full Year,2024-09-30,Register of Wills,68,
+Revenue,32726332,2025,Current Projection,Full Year,2024-09-30,Department of Revenue,36,Revenue
+Sheriff,35792630,2025,Current Projection,Full Year,2024-09-30,Office of the Sheriff,70,Sheriff
+Sinking Fund Commission (Debt Service),355527473,2025,Current Projection,Full Year,2024-09-30,Sinking Fund Commission,37,Sinking Fund
+Streets-Disposal,59589127,2025,Current Projection,Full Year,2024-09-30,Streets: Disposal,12-D,
+Streets,107952466,2025,Current Projection,Full Year,2024-09-30,Streets Department,12,Streets
