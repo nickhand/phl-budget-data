@@ -121,6 +121,8 @@ class CashReportRevenue(CashFlowForecast):  # type: ignore
             fy = str(self.fiscal_year)[2:]
             tag = f"FY{fy} Q{self.quarter}"
             print(data)
+            print(categories)
+            print(len(data), len(categories))
             raise ValueError(f"Parsing error for revenue data in {tag} cash report")
 
         # Set the categories

@@ -219,6 +219,8 @@ class PersonalServices(ETLPipelineQCMR):  # type: ignore
             "OIT-911",
             "MDO-Base",
             "MDO-Citizens Police Oversight Comm.",
+            "MDO-Clean and Green",
+            "MDO-Public Safety",
             "Administration & Management",
             "Performance Mgmt. & Accountability",
             "Juvenile Justice Services",

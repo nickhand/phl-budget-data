@@ -60,7 +60,15 @@ class BlockGeometry(BaseModel):
 class Relationship(BaseModel):
     """How does this block relate to other blocks."""
 
-    Type: Literal["VALUE", "CHILD", "COMPLEX_FEATURES", "MERGED_CELL", "TITLE", "TABLE_TITLE", "TABLE_FOOTER"]
+    Type: Literal[
+        "VALUE",
+        "CHILD",
+        "COMPLEX_FEATURES",
+        "MERGED_CELL",
+        "TITLE",
+        "TABLE_TITLE",
+        "TABLE_FOOTER",
+    ]
     Ids: list[str]
 
 
@@ -78,7 +86,7 @@ class TextractBlock(BaseModel):
         "MERGED_CELL",
         "TITLE",
         "TABLE_TITLE",
-        "TABLE_FOOTER"
+        "TABLE_FOOTER",
     ]
     Geometry: BlockGeometry
     Id: str
@@ -132,10 +140,10 @@ def parse_pdf_with_textract(
     logger.info(f"Processing pdf '{pdf_path}'")
 
     # Initialize textract
-    textract = boto3.client("textract")
+    textract = boto3.client("textract", region_name="us-east-1")
 
     # Initialize s3
-    s3 = boto3.client("s3")
+    s3 = boto3.client("s3", region_name="us-east-1")
 
     # Initialize the PDF
     with pdfplumber.open(pdf_path) as pdf:
@@ -200,7 +208,7 @@ def map_blocks(
         "MERGED_CELL",
         "TITLE",
         "TABLE_TITLE",
-        "TABLE_FOOTER"
+        "TABLE_FOOTER",
     ],
 ) -> dict[str, TextractBlock]:
     return {block.Id: block for block in blocks if block.BlockType == block_type}
@@ -253,9 +261,11 @@ def parse_aws_response(r: TextractResponse) -> list[pd.DataFrame]:
         # Fill in each cell
         for cell in table_cells:
             cell_contents = [
-                words[child_id].Text
-                if child_id in words
-                else selections[child_id].SelectionStatus
+                (
+                    words[child_id].Text
+                    if child_id in words
+                    else selections[child_id].SelectionStatus
+                )
                 for child_id in get_children_ids(cell)
             ]
             i = cell.RowIndex - 1
