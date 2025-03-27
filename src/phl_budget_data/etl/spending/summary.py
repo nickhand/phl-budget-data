@@ -227,20 +227,23 @@ class BudgetSummaryBase(ETLPipelineAWS):  # type: ignore
         stops = data.index[data["0"].str.strip() == "Total"]
 
         dataframes = []
+
+        old_columns = ["0", "1", data.columns[-1]]
+        new_columns = [
+            "major_class",
+            f"FY{self.fiscal_year-2} Actual",
+            f"FY{self.fiscal_year} Budgeted",
+        ]
         for start, stop in zip(starts, stops):
 
             df = data.loc[start:stop].copy()
             dept_name = df["0"].iloc[0]
 
             df = (
-                df[["0", "1", "5"]]
+                df[old_columns]
                 .iloc[1:]
                 .rename(
-                    columns={
-                        "0": "major_class",
-                        "1": f"FY{self.fiscal_year-2} Actual",
-                        "5": f"FY{self.fiscal_year} Budgeted",
-                    }
+                    columns=dict(zip(old_columns, new_columns)),
                 )
             )
             df["dept_name"] = dept_name
@@ -256,7 +259,7 @@ class BudgetSummaryBase(ETLPipelineAWS):  # type: ignore
             [
                 out,
                 pd.DataFrame(
-                    [["Total", total[1], total[5], "General Fund"]],
+                    [["Total", total[1], total[data.columns[-1]], "General Fund"]],
                     columns=out.columns,
                 ),
             ],
