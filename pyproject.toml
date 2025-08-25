@@ -14,13 +14,13 @@ exclude = [
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
 click = "8.0.1"
-numpy = ">=1.20"
+numpy = "<2"
 pandas = ">=1.2"
 openpyxl = "^3.0.7"
 rich-click = "^0.3.0"
 pydantic = "^1.9.0"
 loguru = "^0.5.3"
-billy-penn = "0.1.11"
+billy-penn = "0.1.12"
 selenium = ">=4.10"
 
 [tool.poetry.group.dev.dependencies]
