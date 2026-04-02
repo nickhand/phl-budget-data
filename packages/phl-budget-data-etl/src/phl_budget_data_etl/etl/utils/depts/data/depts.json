@@ -1,0 +1,551 @@
+[
+  {
+    "name": "City Council",
+    "dept_code": "01"
+  },
+  {
+    "name": "Tax Reform Commission",
+    "dept_code": "02"
+  },
+  {
+    "name": "Labor",
+    "dept_code": "03"
+  },
+  {
+    "name": "Office of Innovation and Technology",
+    "dept_code": "04",
+    "abbreviation": "OIT",
+    "line-items": [
+      {
+        "name": "OIT: 911",
+        "dept_code": "04-911"
+      }
+    ]
+  },
+  {
+    "name": "Mayor's Office",
+    "dept_code": "05",
+    "abbreviation": "Mayor",
+    "line-items": [
+      {
+        "name": "Mayor's Office: Scholarships",
+        "dept_code": "05-S"
+      }
+    ]
+  },
+  {
+    "name": "Office of Housing and Community Development",
+    "dept_code": "06"
+  },
+  {
+    "name": "Capital Program Office",
+    "dept_code": "07"
+  },
+  {
+    "name": "Mayor's Office of Community Empowerment and Opportunity",
+    "dept_code": "08",
+    "abbreviation": "CEO"
+  },
+  {
+    "name": "Managing Director's Office",
+    "dept_code": "10",
+    "abbreviation": "MDO",
+    "line-items": [
+      {
+        "name": "MDO: Legal Services",
+        "dept_code": "10-LS"
+      },
+      {
+        "name": "MDO: Citizens Police Oversight Commission",
+        "dept_code": "10-CP"
+      },
+      {
+        "name": "MDO: Clean and Green",
+        "dept_code": "10-CG"
+      },
+      {
+        "name": "MDO: Public Safety",
+        "dept_code": "10-PS"
+      }
+    ]
+  },
+  {
+    "name": "Police Department",
+    "dept_code": "11",
+    "abbreviation": "Police"
+  },
+  {
+    "name": "Streets Department",
+    "dept_code": "12",
+    "abbreviation": "Streets",
+    "line-items": [
+      {
+        "name": "Streets: Disposal",
+        "dept_code": "12-D"
+      },
+      {
+        "name": "Streets: Sanitation",
+        "dept_code": "12-S"
+      },
+      {
+        "name": "Streets: Transportation",
+        "dept_code": "12-T"
+      }
+    ]
+  },
+  {
+    "name": "Fire Department",
+    "dept_code": "13",
+    "abbreviation": "Fire"
+  },
+  {
+    "name": "Department of Public Health",
+    "dept_code": "14",
+    "abbreviation": "Public Health"
+  },
+  {
+    "name": "Behavioral Health and Intellectual Disability Services",
+    "dept_code": "15",
+    "abbreviation": "DBH/IDS"
+  },
+  {
+    "name": "Department of Parks and Recreation",
+    "dept_code": "16",
+    "abbreviation": "Parks & Recreation",
+    "line-items": [
+      {
+        "name": "Parks & Recreation: Stadium Complex",
+        "dept_code": "16-SC"
+      }
+    ]
+  },
+  {
+    "name": "Fairmount Park Commission",
+    "dept_code": "17"
+  },
+  {
+    "name": "Atwater Kent Museum",
+    "dept_code": "18",
+    "abbreviation": "Atwater Kent"
+  },
+  {
+    "name": "Camp William Penn",
+    "dept_code": "19"
+  },
+  {
+    "name": "Department of Public Property",
+    "dept_code": "20",
+    "abbreviation": "Public Property",
+    "line-items": [
+      {
+        "name": "Public Property: Space Rentals",
+        "dept_code": "20-SR"
+      },
+      {
+        "name": "Public Property: SEPTA Subsidy",
+        "dept_code": "20-SS"
+      },
+      {
+        "name": "Public Property: Utilities",
+        "dept_code": "20-U"
+      },
+      {
+        "name": "Public Property: Telecommunications",
+        "dept_code": "20-T"
+      }
+    ]
+  },
+  {
+    "name": "Department of Human Services",
+    "dept_code": "22",
+    "abbreviation": "DHS"
+  },
+  {
+    "name": "Philadelphia Prison System",
+    "dept_code": "23",
+    "abbreviation": "Prisons"
+  },
+  {
+    "name": "Office of Homeless Services",
+    "dept_code": "24",
+    "abbreviation": "OHS"
+  },
+  {
+    "name": "Office of Fleet Management",
+    "dept_code": "25",
+    "abbreviation": "Fleet",
+    "line-items": [
+      {
+        "name": "Fleet: Vehicle Lease/Purchases",
+        "dept_code": "25-V"
+      }
+    ]
+  },
+  {
+    "name": "Department of Licenses and Inspections",
+    "dept_code": "26",
+    "abbreviation": "L&I",
+    "line-items": [
+      {
+        "name": "L&I: Demolition",
+        "dept_code": "26-D"
+      }
+    ]
+  },
+  {
+    "name": "L&I: Board of Review",
+    "dept_code": "27"
+  },
+  {
+    "name": "Water Department",
+    "dept_code": "28",
+    "abbreviation": "Water"
+  },
+  {
+    "name": "L&I: Board of Building and Standards",
+    "dept_code": "29"
+  },
+  {
+    "name": "Zoning Board of Adjustments",
+    "dept_code": "30",
+    "abbreviation": "ZBA"
+  },
+  {
+    "name": "Department of Records",
+    "dept_code": "31",
+    "abbreviation": "Records"
+  },
+  {
+    "name": "Historical Commission",
+    "dept_code": "32"
+  },
+  {
+    "name": "Art Museum",
+    "dept_code": "34"
+  },
+  {
+    "name": "Office of the Director of Finance",
+    "dept_code": "35",
+    "abbreviation": "Finance",
+    "line-items": [
+      {
+        "name": "Finance: Community College Subsidy",
+        "dept_code": "35-CC"
+      },
+      {
+        "name": "Finance: Grant Match",
+        "dept_code": "35-GM"
+      },
+      {
+        "name": "Finance: Employee Benefits",
+        "dept_code": "35-EB",
+        "abbreviation": "Employee Benefits"
+      },
+      {
+        "name": "Finance: Hero Scholarship Awards",
+        "dept_code": "35-HA"
+      },
+      {
+        "name": "Finance: Indemnities",
+        "dept_code": "35-IN"
+      },
+      {
+        "name": "Finance: PGW Reimbursement",
+        "dept_code": "35-PGW"
+      },
+      {
+        "name": "Finance: Refunds",
+        "dept_code": "35-R"
+      },
+      {
+        "name": "Finance: Reg #32",
+        "dept_code": "35-R32"
+      },
+      {
+        "name": "Finance: School District Contribution",
+        "dept_code": "35-SD"
+      },
+      {
+        "name": "Finance: Witness Fees",
+        "dept_code": "35-WF"
+      },
+      {
+        "name": "Finance: Budget Stabilization Reserve",
+        "dept_code": "35-BSR"
+      },
+      {
+        "name": "Finance: Recession Reserve",
+        "dept_code": "35-RR"
+      },
+      {
+        "name": "Finance: Labor Reserve",
+        "dept_code": "35-LR"
+      },
+      {
+        "name": "Finance: Housing Trust Fund",
+        "dept_code": "35-HTF"
+      }
+    ]
+  },
+  {
+    "name": "Finance: Employee Benefits",
+    "dept_code": "35-EB",
+    "abbreviation": "Employee Benefits",
+    "line-items": [
+      {
+        "name": "Employee Benefits: COVID-19 Funeral Costs",
+        "dept_code": "35-COVID"
+      },
+      {
+        "name": "Employee Benefits: Unemployment Compensation",
+        "dept_code": "35-EB-UC"
+      },
+      {
+        "name": "Employee Benefits: Employee Disability",
+        "dept_code": "35-EB-DIS"
+      },
+      {
+        "name": "Employee Benefits: Pension Obligation Bonds",
+        "dept_code": "35-EB-POB"
+      },
+      {
+        "name": "Employee Benefits: Pension",
+        "dept_code": "35-EB-PEN"
+      },
+      {
+        "name": "Employee Benefits: FICA",
+        "dept_code": "35-EB-FICA"
+      },
+      {
+        "name": "Employee Benefits: Flex Cash Payments",
+        "dept_code": "35-EB-FLEX"
+      },
+      {
+        "name": "Employee Benefits: Health/Medical",
+        "dept_code": "35-EB-HM"
+      },
+      {
+        "name": "Employee Benefits: Group Life Insurance",
+        "dept_code": "35-EB-GLI"
+      },
+      {
+        "name": "Employee Benefits: Group Legal",
+        "dept_code": "35-EB-GL"
+      },
+      {
+        "name": "Employee Benefits: Tool Allowance",
+        "dept_code": "35-EB-TA"
+      },
+      {
+        "name": "Employee Benefits: Anticipated Workforce Savings",
+        "dept_code": "35-EB-AWS"
+      }
+    ]
+  },
+  {
+    "name": "Department of Revenue",
+    "dept_code": "36",
+    "abbreviation": "Revenue"
+  },
+  {
+    "name": "Sinking Fund Commission",
+    "dept_code": "37",
+    "abbreviation": "Sinking Fund"
+  },
+  {
+    "name": "Procurement Department",
+    "dept_code": "38",
+    "abbreviation": "Procurement"
+  },
+  {
+    "name": "Office of the City Treasurer",
+    "dept_code": "40",
+    "abbreviation": "City Treasurer"
+  },
+  {
+    "name": "Office of the City Representative",
+    "dept_code": "41",
+    "abbreviation": "City Rep"
+  },
+  {
+    "name": "Office of the Director of Commerce",
+    "dept_code": "42",
+    "abbreviation": "Commerce",
+    "line-items": [
+      {
+        "name": "Commerce: Convention Center Subsidy",
+        "dept_code": "42-CC"
+      },
+      {
+        "name": "Commerce: Economic Stimulus",
+        "dept_code": "42-ES"
+      }
+    ]
+  },
+  {
+    "name": "Division of Aviation",
+    "dept_code": "43",
+    "abbreviation": "Aviation"
+  },
+  {
+    "name": "Law Department",
+    "dept_code": "44",
+    "abbreviation": "Law"
+  },
+  {
+    "name": "Board of Ethics",
+    "dept_code": "45"
+  },
+  {
+    "name": "Mayor's Office of Transportation and Utilities",
+    "dept_code": "46"
+  },
+  {
+    "name": "Youth Commission",
+    "dept_code": "47"
+  },
+  {
+    "name": "Office of the Inspector General",
+    "dept_code": "48",
+    "abbreviation": "OIG"
+  },
+  {
+    "name": "Office of Sustainability",
+    "dept_code": "49",
+    "abbreviation": "Sustainability"
+  },
+  {
+    "name": "Mural Arts Program",
+    "dept_code": "50",
+    "abbreviation": "Mural Arts"
+  },
+  {
+    "name": "City Planning Commission",
+    "dept_code": "51"
+  },
+  {
+    "name": "The Free Library of Philadelphia",
+    "dept_code": "52",
+    "abbreviation": "Free Library"
+  },
+  {
+    "name": "Board of Pensions",
+    "dept_code": "53",
+    "abbreviation": "Pensions"
+  },
+  {
+    "name": "Commission on Human Relations",
+    "dept_code": "54",
+    "abbreviation": "Human Relations"
+  },
+  {
+    "name": "Civil Service Commission",
+    "dept_code": "55",
+    "line-items": [
+      {
+        "name": "Civil Service Commission: Provision for Future Labor Obligations",
+        "dept_code": "55-L"
+      }
+    ]
+  },
+  {
+    "name": "Office of Human Resources",
+    "dept_code": "56",
+    "abbreviation": "OHR"
+  },
+  {
+    "name": "Zoning Code Commission",
+    "dept_code": "57"
+  },
+  {
+    "name": "Office of Arts, Culture, and the Creative Economy",
+    "dept_code": "58",
+    "abbreviation": "Arts & Culture"
+  },
+  {
+    "name": "Office of Property Assessment",
+    "dept_code": "59",
+    "abbreviation": "OPA"
+  },
+  {
+    "name": "City Controller's Office",
+    "dept_code": "61"
+  },
+  {
+    "name": "Mayor's Office of Planning and Development",
+    "dept_code": "62"
+  },
+  {
+    "name": "Board of Revision of Taxes",
+    "dept_code": "63",
+    "abbreviation": "BRT"
+  },
+  {
+    "name": "Clerk of Quarter Sessions",
+    "dept_code": "64"
+  },
+  {
+    "name": "Office of the Chief Administrative Officer",
+    "dept_code": "65",
+    "abbreviation": "CAO"
+  },
+  {
+    "name": "Office of Children and Families",
+    "dept_code": "66",
+    "abbreviation": "OCF"
+  },
+  {
+    "name": "Water, Sewer, and Stormwater Rate Board",
+    "dept_code": "67"
+  },
+  {
+    "name": "Register of Wills",
+    "dept_code": "68"
+  },
+  {
+    "name": "District Attorney's Office",
+    "dept_code": "69",
+    "abbreviation": "DAO"
+  },
+  {
+    "name": "Office of the Sheriff",
+    "dept_code": "70",
+    "abbreviation": "Sheriff"
+  },
+  {
+    "name": "Department of Planning and Development",
+    "dept_code": "72",
+    "abbreviation": "Planning & Development"
+  },
+  {
+    "name": "City Commissioner's Office",
+    "dept_code": "73",
+    "abbreviation": "City Commissioners"
+  },
+  {
+    "name": "Citizens Police Oversight Commission",
+    "dept_code": "74",
+    "abbreviation": "CPOC"
+  },
+  {
+    "name": "Neighborhood Community Action Centers",
+    "dept_code": "75",
+    "abbreviation": "NCAC"
+  },
+  {
+    "name": "Office of Public Safety",
+    "dept_code": "76",
+    "abbreviation": "Public Safety"
+  },
+  {
+    "name": "Office of Public Safety - Office of Prison Oversight",
+    "dept_code": "77",
+    "abbreviation": "Prison Oversight"
+  },
+
+  {
+    "name": "First Judicial District",
+    "dept_code": "84",
+    "abbreviation": "FJD"
+  }
+]

@@ -1,0 +1,19 @@
+[project]
+name = "phl-budget-data"
+version = "0.2.1"
+description = "Python toolkit to aggregate and clean City of Philadelphia budget-related data"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Nick Hand", email = "nick.hand@phila.gov" }]
+dependencies = [
+    "pandas>=2.0,<3",
+    "numpy>=2.0",
+    "openpyxl>=3.0.7",
+    "pydantic>=2.0",
+    "loguru>=0.5",
+    "typer>=0.9",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

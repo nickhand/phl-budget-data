@@ -1,0 +1,37 @@
+target-version = "py312"
+line-length = 100
+indent-width = 4
+
+[format]
+docstring-code-format = true
+
+[lint]
+select = [
+  "F",   # Pyflakes
+  "E",   # pycodestyle
+  "I",   # isort
+  "D",   # pydocstyle
+  "UP",  # pyupgrade
+  "B",   # flake8-bugbear
+  "SIM", # flake8-simplify
+]
+ignore = [
+  "D100", # undocumented-public-module
+  "D101", # undocumented-public-class
+  "D102", # undocumented-public-method
+  "D103", # undocumented-public-function
+  "D104", # undocumented-public-package
+  "D105", # undocumented-magic-method
+  "D106", # undocumented-public-nested-class
+  "D107", # undocumented-public-init
+  "D200", # unnecessary-multiline-docstring
+  "D205", # missing-blank-line-after-summary
+  "D400", # ends-in-period
+  "D401", # non-imperative-mood
+  "D404", # docstring-starts-with-this
+  "D415", # ends-in-punctuation
+]
+
+[lint.pydocstyle]
+convention = "numpy"
+
